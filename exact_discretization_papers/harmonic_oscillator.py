@@ -16,20 +16,24 @@ import matplotlib.pyplot as plt
 class SKAHarmonicOscillator:
     """Generate real-time harmonic oscillator data for SKA framework"""
     
-    def __init__(self, omega=1.0, epsilon=0.01, x0=1.0, v0=0.0):
+    def __init__(self, omega=1.0, epsilon=0.01, x0=1.0, v0=0.0, phi=0.0):
         """
         Args:
             omega: Angular frequency ω
             epsilon: Time step ε  
             x0: Initial position
             v0: Initial velocity
+            phi: Phase φ (radians)
         """
         self.omega = omega
         self.epsilon = epsilon
+        self.phi = phi
+        self.x0 = x0
+        self.v0 = v0
         
-        # Initialize using analytical solution
-        self.x_prev = x0  # x_{n-1}
-        self.x_curr = x0 * np.cos(omega * epsilon) + (v0 / omega) * np.sin(omega * epsilon)  # x_n
+        # Initialize using analytical solution with phase
+        self.x_prev = x0 * np.cos(phi) + (v0 / omega) * np.sin(phi)  # x_{n-1} at t=0
+        self.x_curr = x0 * np.cos(omega * epsilon + phi) + (v0 / omega) * np.sin(omega * epsilon + phi)  # x_n at t=ε
         
         self.step_count = 1
         self.start_time = time.time()
@@ -88,13 +92,15 @@ def main():
     epsilon = 0.01   # Time step (s)
     x0 = 1.0         # Initial position
     v0 = 0.0         # Initial velocity
+    phi = np.pi/4    # Phase (radians)
     
     print(f"ω = {omega} rad/s")
     print(f"ε = {epsilon} s")
+    print(f"φ = {phi:.3f} rad ({phi*180/np.pi:.1f}°)")
     print(f"Initial: x₀ = {x0}, v₀ = {v0}")
     
     # Create oscillator
-    oscillator = SKAHarmonicOscillator(omega, epsilon, x0, v0)
+    oscillator = SKAHarmonicOscillator(omega, epsilon, x0, v0, phi)
     
     # Generate data
     print(f"\nGenerating data stream...")
@@ -125,6 +131,7 @@ def main():
             "epsilon": epsilon,
             "initial_position": x0,
             "initial_velocity": v0,
+            "phase": phi,
             "total_points": len(data_points),
             "discretization": "exact_ciesliński"
         },
@@ -160,9 +167,9 @@ def main():
         label=fr'$x_n$ (discrete, $\epsilon={epsilon}$ s)'
     )
 
-    # Plot analytical solution
+    # Plot analytical solution with phase
     t_analytical = np.linspace(0, max(discrete_times), 1000)
-    x_analytical = x0 * np.cos(omega * t_analytical) + (v0 / omega) * np.sin(omega * t_analytical)
+    x_analytical = oscillator.x0 * np.cos(oscillator.omega * t_analytical + oscillator.phi) + (oscillator.v0 / oscillator.omega) * np.sin(oscillator.omega * t_analytical + oscillator.phi)
     plt.plot(
         t_analytical,
         x_analytical,
@@ -170,7 +177,7 @@ def main():
         color='crimson',
         linewidth=2,
         alpha=0.8,
-        label=r'$x(t) = x_0 \cos(\omega t) + \frac{v_0}{\omega} \sin(\omega t)$'
+        label=r'$x(t) = x_0 \cos(\omega t + \phi) + \frac{v_0}{\omega} \sin(\omega t + \phi)$'
     )
 
     # Labels and legend
@@ -178,23 +185,20 @@ def main():
     plt.ylabel(r'Position $x_n$', fontsize=16)
     plt.title(r'Exact Discretization: $x_{n+1} - 2\cos(\omega \epsilon)x_n + x_{n-1} = 0$', fontsize=14)
     plt.grid(True, linestyle='--', linewidth=0.5, alpha=0.5)
-    plt.legend(fontsize=10, loc='upper right')
-
-    # Info box
 
     # Main legend for curves (no box)
-    # Main legend for curve labels (unboxed)
     plt.legend(fontsize=10, loc='upper right', frameon=False)
 
-    # Boxed legend for initial conditions only
+    # Boxed legend for initial conditions
     initial_conditions = (
-        "Initial Conditions\n"
+        "Parameters\n"
         rf"$\omega = {omega}$ rad/s" + "\n"
+        rf"$\phi = {phi:.3f}$ rad" + "\n"
         rf"$x_0 = {x0}$" + "\n"
         rf"$v_0 = {v0}$"
     )
     plt.gca().text(
-        0.2, 0.98,
+        0.02, 0.98,
         initial_conditions,
         transform=plt.gca().transAxes,
         fontsize=10,
@@ -203,13 +207,10 @@ def main():
         usetex=False  # Change to True if full LaTeX rendering is configured
     )
 
-
-
     plt.tight_layout()
     plt.savefig('harmonic_oscillator.png', dpi=300)  # High-quality output
     plt.show()
 
-    
     print("Ready for SKA framework!")
 
 
@@ -217,7 +218,7 @@ def real_time_demo():
     """Real-time streaming demo"""
     print("Real-time SKA data stream (press Ctrl+C to stop)")
     
-    oscillator = SKAHarmonicOscillator(omega=2.0, epsilon=0.05)
+    oscillator = SKAHarmonicOscillator(omega=2.0, epsilon=0.05, phi=np.pi/6)
     
     try:
         for timestamp, amplitude, frequency in oscillator.generate_stream():
@@ -231,5 +232,3 @@ if __name__ == "__main__":
     
     # Uncomment for real-time demo:
     # real_time_demo()
-  
-   
