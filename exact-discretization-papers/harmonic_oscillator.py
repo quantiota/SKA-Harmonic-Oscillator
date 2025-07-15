@@ -156,7 +156,7 @@ def main():
         positions,
         'o',
         color='dodgerblue',
-        markersize=2,
+        markersize=1,
         label=fr'$x_n$ (discrete, $\epsilon={epsilon}$ s)'
     )
 
@@ -174,8 +174,8 @@ def main():
     )
 
     # Labels and legend
-    plt.xlabel(r'Time $t_n = n\epsilon$ (s)', fontsize=12)
-    plt.ylabel(r'Position $x_n$', fontsize=12)
+    plt.xlabel(r'Time $t_n = n\epsilon$ (s)', fontsize=16)
+    plt.ylabel(r'Position $x_n$', fontsize=16)
     plt.title(r'Exact Discretization: $x_{n+1} - 2\cos(\omega \epsilon)x_n + x_{n-1} = 0$', fontsize=14)
     plt.grid(True, linestyle='--', linewidth=0.5, alpha=0.5)
     plt.legend(fontsize=10, loc='upper right')
