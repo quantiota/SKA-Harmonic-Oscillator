@@ -14,7 +14,7 @@ By leveraging exact discretizations from classical mathematical physics, we eval
 SKA is an unsupervised learning paradigm that models intelligence as **entropy-driven knowledge accumulation**. It replaces backpropagation with **forward-only learning** and tracks decision probabilities as a function of entropy gradients.
 
 For this project:
-- The SKA learner consumes oscillator states \( x_n \) as a real-time stream
+- The SKA learner consumes oscillator states $x_n$ as a real-time stream
 - It evolves its internal state using entropy minimization
 - It outputs decision values, entropy trajectories, and phase signatures
 
@@ -26,7 +26,10 @@ This project builds on two key mathematical papers:
 
 - **Cieśliński & Ratkiewicz (2005)** – [arXiv:physics/0507182](https://arxiv.org/abs/physics/0507182)  
   Introduces *exact discretizations* of the harmonic oscillator including:
+
+
   $$x_{n+2} - 2 \cos(\varepsilon) x_{n+1} + x_n = 0$$
+  
 
 - **Cieśliński (2009)** – [arXiv:0911.3672](https://arxiv.org/abs/0911.3672)  
   Extends to damped, driven, and multidimensional oscillators with energy-preserving and symplectic discretizations
