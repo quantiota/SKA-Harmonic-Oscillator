@@ -32,7 +32,7 @@ They are used here to generate the real-time input stream $\large x_n$ for the S
   Visualization comparing the exact discrete trajectory $\large x_n$ with the continuous analytical solution $\large x(t)$.
 
 - **`ska_harmonic_data_*.json`**  
-  Automatically generated JSON file containing timestamped $x_n$ values for SKA input.
+  Automatically generated JSON file containing timestamped $\large x_n$ values for SKA input.
 
 
 ## Usage
