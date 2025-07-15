@@ -5,7 +5,7 @@
 
 This repository applies the **Structured Knowledge Accumulation (SKA)** framework to the **discrete harmonic oscillator**, serving as a minimal testbed for real-time entropy learning in low-entropy, time-reversible systems.
 
-By leveraging exact discretizations from classical mathematical physics, we evaluate SKA's behavior in periodic, deterministic environments and compare it to its performance in complex real-world signals (e.g., market or physiological data).
+By leveraging exact discretizations from classical mathematical physics, we evaluate SKA's behavior in periodic, deterministic environments and compare it to its performance in complex real-world signals (e.g., market, physiological or seismic data).
 
 
 
