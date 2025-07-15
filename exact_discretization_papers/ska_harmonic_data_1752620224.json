@@ -1,0 +1,6013 @@
+{
+  "metadata": {
+    "omega": 1.0,
+    "epsilon": 0.01,
+    "initial_position": 1.0,
+    "initial_velocity": 0.0,
+    "phase": 0.7853981633974483,
+    "total_points": 1000,
+    "discretization": "exact_ciesli\u0144ski"
+  },
+  "data": [
+    {
+      "step": 0,
+      "timestamp": 1752620224.1617792,
+      "position": 0.6928241717107472,
+      "frequency": 1.0
+    },
+    {
+      "step": 1,
+      "timestamp": 1752620224.1617956,
+      "position": 0.6855785854008842,
+      "frequency": 1.0
+    },
+    {
+      "step": 2,
+      "timestamp": 1752620224.1618059,
+      "position": 0.6782644418037947,
+      "frequency": 1.0
+    },
+    {
+      "step": 3,
+      "timestamp": 1752620224.1618161,
+      "position": 0.6708824723277433,
+      "frequency": 1.0
+    },
+    {
+      "step": 4,
+      "timestamp": 1752620224.1618245,
+      "position": 0.663433415163526,
+      "frequency": 1.0
+    },
+    {
+      "step": 5,
+      "timestamp": 1752620224.1618333,
+      "position": 0.6559180152106516,
+      "frequency": 1.0
+    },
+    {
+      "step": 6,
+      "timestamp": 1752620224.1618412,
+      "position": 0.6483370240028526,
+      "frequency": 1.0
+    },
+    {
+      "step": 7,
+      "timestamp": 1752620224.1618493,
+      "position": 0.6406911996329323,
+      "frequency": 1.0
+    },
+    {
+      "step": 8,
+      "timestamp": 1752620224.1618576,
+      "position": 0.6329813066769562,
+      "frequency": 1.0
+    },
+    {
+      "step": 9,
+      "timestamp": 1752620224.1618662,
+      "position": 0.6252081161177949,
+      "frequency": 1.0
+    },
+    {
+      "step": 10,
+      "timestamp": 1752620224.161875,
+      "position": 0.6173724052680268,
+      "frequency": 1.0
+    },
+    {
+      "step": 11,
+      "timestamp": 1752620224.161883,
+      "position": 0.6094749576922072,
+      "frequency": 1.0
+    },
+    {
+      "step": 12,
+      "timestamp": 1752620224.161891,
+      "position": 0.6015165631285123,
+      "frequency": 1.0
+    },
+    {
+      "step": 13,
+      "timestamp": 1752620224.1618993,
+      "position": 0.5934980174097668,
+      "frequency": 1.0
+    },
+    {
+      "step": 14,
+      "timestamp": 1752620224.1619074,
+      "position": 0.5854201223838603,
+      "frequency": 1.0
+    },
+    {
+      "step": 15,
+      "timestamp": 1752620224.1619155,
+      "position": 0.5772836858335639,
+      "frequency": 1.0
+    },
+    {
+      "step": 16,
+      "timestamp": 1752620224.1619236,
+      "position": 0.5690895213957522,
+      "frequency": 1.0
+    },
+    {
+      "step": 17,
+      "timestamp": 1752620224.1619318,
+      "position": 0.5608384484800406,
+      "frequency": 1.0
+    },
+    {
+      "step": 18,
+      "timestamp": 1752620224.1619403,
+      "position": 0.5525312921868447,
+      "frequency": 1.0
+    },
+    {
+      "step": 19,
+      "timestamp": 1752620224.1619482,
+      "position": 0.5441688832248712,
+      "frequency": 1.0
+    },
+    {
+      "step": 20,
+      "timestamp": 1752620224.1619563,
+      "position": 0.5357520578280478,
+      "frequency": 1.0
+    },
+    {
+      "step": 21,
+      "timestamp": 1752620224.1619647,
+      "position": 0.5272816576719002,
+      "frequency": 1.0
+    },
+    {
+      "step": 22,
+      "timestamp": 1752620224.1619833,
+      "position": 0.5187585297893852,
+      "frequency": 1.0
+    },
+    {
+      "step": 23,
+      "timestamp": 1752620224.1619911,
+      "position": 0.5101835264861887,
+      "frequency": 1.0
+    },
+    {
+      "step": 24,
+      "timestamp": 1752620224.1619987,
+      "position": 0.5015575052554951,
+      "frequency": 1.0
+    },
+    {
+      "step": 25,
+      "timestamp": 1752620224.1620069,
+      "position": 0.4928813286922391,
+      "frequency": 1.0
+    },
+    {
+      "step": 26,
+      "timestamp": 1752620224.1620145,
+      "position": 0.4841558644068469,
+      "frequency": 1.0
+    },
+    {
+      "step": 27,
+      "timestamp": 1752620224.162022,
+      "position": 0.47538198493847583,
+      "frequency": 1.0
+    },
+    {
+      "step": 28,
+      "timestamp": 1752620224.1620297,
+      "position": 0.4665605676677612,
+      "frequency": 1.0
+    },
+    {
+      "step": 29,
+      "timestamp": 1752620224.1620378,
+      "position": 0.457692494729079,
+      "frequency": 1.0
+    },
+    {
+      "step": 30,
+      "timestamp": 1752620224.1620455,
+      "position": 0.4487786529223331,
+      "frequency": 1.0
+    },
+    {
+      "step": 31,
+      "timestamp": 1752620224.162053,
+      "position": 0.43981993362427585,
+      "frequency": 1.0
+    },
+    {
+      "step": 32,
+      "timestamp": 1752620224.1620607,
+      "position": 0.43081723269937156,
+      "frequency": 1.0
+    },
+    {
+      "step": 33,
+      "timestamp": 1752620224.1620684,
+      "position": 0.42177145041021047,
+      "frequency": 1.0
+    },
+    {
+      "step": 34,
+      "timestamp": 1752620224.1620765,
+      "position": 0.4126834913274834,
+      "frequency": 1.0
+    },
+    {
+      "step": 35,
+      "timestamp": 1752620224.162084,
+      "position": 0.40355426423952534,
+      "frequency": 1.0
+    },
+    {
+      "step": 36,
+      "timestamp": 1752620224.1620917,
+      "position": 0.3943846820614374,
+      "frequency": 1.0
+    },
+    {
+      "step": 37,
+      "timestamp": 1752620224.1620991,
+      "position": 0.38517566174379614,
+      "frequency": 1.0
+    },
+    {
+      "step": 38,
+      "timestamp": 1752620224.1621072,
+      "position": 0.3759281241809591,
+      "frequency": 1.0
+    },
+    {
+      "step": 39,
+      "timestamp": 1752620224.162117,
+      "position": 0.3666429941189764,
+      "frequency": 1.0
+    },
+    {
+      "step": 40,
+      "timestamp": 1752620224.1621363,
+      "position": 0.3573212000631165,
+      "frequency": 1.0
+    },
+    {
+      "step": 41,
+      "timestamp": 1752620224.162156,
+      "position": 0.34796367418501706,
+      "frequency": 1.0
+    },
+    {
+      "step": 42,
+      "timestamp": 1752620224.1621683,
+      "position": 0.3385713522294679,
+      "frequency": 1.0
+    },
+    {
+      "step": 43,
+      "timestamp": 1752620224.1621768,
+      "position": 0.3291451734208376,
+      "frequency": 1.0
+    },
+    {
+      "step": 44,
+      "timestamp": 1752620224.1621852,
+      "position": 0.3196860803691519,
+      "frequency": 1.0
+    },
+    {
+      "step": 45,
+      "timestamp": 1752620224.1621933,
+      "position": 0.31019501897583346,
+      "frequency": 1.0
+    },
+    {
+      "step": 46,
+      "timestamp": 1752620224.1622016,
+      "position": 0.30067293833911235,
+      "frequency": 1.0
+    },
+    {
+      "step": 47,
+      "timestamp": 1752620224.16221,
+      "position": 0.2911207906591172,
+      "frequency": 1.0
+    },
+    {
+      "step": 48,
+      "timestamp": 1752620224.1622183,
+      "position": 0.28153953114265606,
+      "frequency": 1.0
+    },
+    {
+      "step": 49,
+      "timestamp": 1752620224.1622267,
+      "position": 0.27193011790769617,
+      "frequency": 1.0
+    },
+    {
+      "step": 50,
+      "timestamp": 1752620224.1622348,
+      "position": 0.2622935118875531,
+      "frequency": 1.0
+    },
+    {
+      "step": 51,
+      "timestamp": 1752620224.1622431,
+      "position": 0.25263067673479855,
+      "frequency": 1.0
+    },
+    {
+      "step": 52,
+      "timestamp": 1752620224.1622515,
+      "position": 0.24294257872489533,
+      "frequency": 1.0
+    },
+    {
+      "step": 53,
+      "timestamp": 1752620224.16226,
+      "position": 0.23323018665957107,
+      "frequency": 1.0
+    },
+    {
+      "step": 54,
+      "timestamp": 1752620224.1622684,
+      "position": 0.2234944717699387,
+      "frequency": 1.0
+    },
+    {
+      "step": 55,
+      "timestamp": 1752620224.1622767,
+      "position": 0.21373640761937407,
+      "frequency": 1.0
+    },
+    {
+      "step": 56,
+      "timestamp": 1752620224.1622853,
+      "position": 0.2039569700061606,
+      "frequency": 1.0
+    },
+    {
+      "step": 57,
+      "timestamp": 1752620224.1622932,
+      "position": 0.19415713686591007,
+      "frequency": 1.0
+    },
+    {
+      "step": 58,
+      "timestamp": 1752620224.1623018,
+      "position": 0.18433788817377006,
+      "frequency": 1.0
+    },
+    {
+      "step": 59,
+      "timestamp": 1752620224.16231,
+      "position": 0.17450020584642706,
+      "frequency": 1.0
+    },
+    {
+      "step": 60,
+      "timestamp": 1752620224.1623182,
+      "position": 0.16464507364391578,
+      "frequency": 1.0
+    },
+    {
+      "step": 61,
+      "timestamp": 1752620224.162338,
+      "position": 0.1547734770712439,
+      "frequency": 1.0
+    },
+    {
+      "step": 62,
+      "timestamp": 1752620224.1623468,
+      "position": 0.1448864032798423,
+      "frequency": 1.0
+    },
+    {
+      "step": 63,
+      "timestamp": 1752620224.1623552,
+      "position": 0.134984840968851,
+      "frequency": 1.0
+    },
+    {
+      "step": 64,
+      "timestamp": 1752620224.1623635,
+      "position": 0.12506978028624977,
+      "frequency": 1.0
+    },
+    {
+      "step": 65,
+      "timestamp": 1752620224.1623726,
+      "position": 0.11514221272984437,
+      "frequency": 1.0
+    },
+    {
+      "step": 66,
+      "timestamp": 1752620224.1623814,
+      "position": 0.10520313104811752,
+      "frequency": 1.0
+    },
+    {
+      "step": 67,
+      "timestamp": 1752620224.16239,
+      "position": 0.09525352914095483,
+      "frequency": 1.0
+    },
+    {
+      "step": 68,
+      "timestamp": 1752620224.1623988,
+      "position": 0.08529440196025573,
+      "frequency": 1.0
+    },
+    {
+      "step": 69,
+      "timestamp": 1752620224.162407,
+      "position": 0.07532674541043902,
+      "frequency": 1.0
+    },
+    {
+      "step": 70,
+      "timestamp": 1752620224.1624153,
+      "position": 0.06535155624885333,
+      "frequency": 1.0
+    },
+    {
+      "step": 71,
+      "timestamp": 1752620224.1624236,
+      "position": 0.05536983198610221,
+      "frequency": 1.0
+    },
+    {
+      "step": 72,
+      "timestamp": 1752620224.162432,
+      "position": 0.04538257078629385,
+      "frequency": 1.0
+    },
+    {
+      "step": 73,
+      "timestamp": 1752620224.1624405,
+      "position": 0.03539077136722554,
+      "frequency": 1.0
+    },
+    {
+      "step": 74,
+      "timestamp": 1752620224.162449,
+      "position": 0.02539543290051273,
+      "frequency": 1.0
+    },
+    {
+      "step": 75,
+      "timestamp": 1752620224.162457,
+      "position": 0.015397554911672655,
+      "frequency": 1.0
+    },
+    {
+      "step": 76,
+      "timestamp": 1752620224.1624656,
+      "position": 0.005398137180172666,
+      "frequency": 1.0
+    },
+    {
+      "step": 77,
+      "timestamp": 1752620224.1624854,
+      "position": -0.004601820360546908,
+      "frequency": 1.0
+    },
+    {
+      "step": 78,
+      "timestamp": 1752620224.1624942,
+      "position": -0.014601317723065265,
+      "frequency": 1.0
+    },
+    {
+      "step": 79,
+      "timestamp": 1752620224.1625028,
+      "position": -0.02459935496597904,
+      "frequency": 1.0
+    },
+    {
+      "step": 80,
+      "timestamp": 1752620224.162511,
+      "position": -0.03459493229389561,
+      "frequency": 1.0
+    },
+    {
+      "step": 81,
+      "timestamp": 1752620224.1625192,
+      "position": -0.04458705015741181,
+      "frequency": 1.0
+    },
+    {
+      "step": 82,
+      "timestamp": 1752620224.1625276,
+      "position": -0.05457470935306802,
+      "frequency": 1.0
+    },
+    {
+      "step": 83,
+      "timestamp": 1752620224.1625357,
+      "position": -0.0645569111232677,
+      "frequency": 1.0
+    },
+    {
+      "step": 84,
+      "timestamp": 1752620224.1625438,
+      "position": -0.0745326572561523,
+      "frequency": 1.0
+    },
+    {
+      "step": 85,
+      "timestamp": 1752620224.162552,
+      "position": -0.08450095018542161,
+      "frequency": 1.0
+    },
+    {
+      "step": 86,
+      "timestamp": 1752620224.1625602,
+      "position": -0.09446079309008962,
+      "frequency": 1.0
+    },
+    {
+      "step": 87,
+      "timestamp": 1752620224.1625683,
+      "position": -0.10441118999416568,
+      "frequency": 1.0
+    },
+    {
+      "step": 88,
+      "timestamp": 1752620224.1625767,
+      "position": -0.11435114586625136,
+      "frequency": 1.0
+    },
+    {
+      "step": 89,
+      "timestamp": 1752620224.1625848,
+      "position": -0.12427966671904273,
+      "frequency": 1.0
+    },
+    {
+      "step": 90,
+      "timestamp": 1752620224.1625931,
+      "position": -0.1341957597087282,
+      "frequency": 1.0
+    },
+    {
+      "step": 91,
+      "timestamp": 1752620224.1626012,
+      "position": -0.14409843323427224,
+      "frequency": 1.0
+    },
+    {
+      "step": 92,
+      "timestamp": 1752620224.1626096,
+      "position": -0.15398669703657447,
+      "frequency": 1.0
+    },
+    {
+      "step": 93,
+      "timestamp": 1752620224.1626184,
+      "position": -0.16385956229749488,
+      "frequency": 1.0
+    },
+    {
+      "step": 94,
+      "timestamp": 1752620224.1626265,
+      "position": -0.17371604173873473,
+      "frequency": 1.0
+    },
+    {
+      "step": 95,
+      "timestamp": 1752620224.1626348,
+      "position": -0.18355514972056358,
+      "frequency": 1.0
+    },
+    {
+      "step": 96,
+      "timestamp": 1752620224.162643,
+      "position": -0.1933759023403825,
+      "frequency": 1.0
+    },
+    {
+      "step": 97,
+      "timestamp": 1752620224.162651,
+      "position": -0.2031773175311134,
+      "frequency": 1.0
+    },
+    {
+      "step": 98,
+      "timestamp": 1752620224.1626594,
+      "position": -0.21295841515940506,
+      "frequency": 1.0
+    },
+    {
+      "step": 99,
+      "timestamp": 1752620224.1626675,
+      "position": -0.22271821712364553,
+      "frequency": 1.0
+    },
+    {
+      "step": 100,
+      "timestamp": 1752620224.1626794,
+      "position": -0.23245574745177155,
+      "frequency": 1.0
+    },
+    {
+      "step": 101,
+      "timestamp": 1752620224.162688,
+      "position": -0.24217003239886487,
+      "frequency": 1.0
+    },
+    {
+      "step": 102,
+      "timestamp": 1752620224.162707,
+      "position": -0.25186010054452596,
+      "frequency": 1.0
+    },
+    {
+      "step": 103,
+      "timestamp": 1752620224.1627152,
+      "position": -0.2615249828900153,
+      "frequency": 1.0
+    },
+    {
+      "step": 104,
+      "timestamp": 1752620224.162723,
+      "position": -0.27116371295515235,
+      "frequency": 1.0
+    },
+    {
+      "step": 105,
+      "timestamp": 1752620224.1627312,
+      "position": -0.2807753268749629,
+      "frequency": 1.0
+    },
+    {
+      "step": 106,
+      "timestamp": 1752620224.1627395,
+      "position": -0.2903588634960647,
+      "frequency": 1.0
+    },
+    {
+      "step": 107,
+      "timestamp": 1752620224.1627474,
+      "position": -0.2999133644727818,
+      "frequency": 1.0
+    },
+    {
+      "step": 108,
+      "timestamp": 1752620224.1627553,
+      "position": -0.3094378743629785,
+      "frequency": 1.0
+    },
+    {
+      "step": 109,
+      "timestamp": 1752620224.1627636,
+      "position": -0.31893144072360297,
+      "frequency": 1.0
+    },
+    {
+      "step": 110,
+      "timestamp": 1752620224.162772,
+      "position": -0.32839311420593037,
+      "frequency": 1.0
+    },
+    {
+      "step": 111,
+      "timestamp": 1752620224.16278,
+      "position": -0.33782194865049714,
+      "frequency": 1.0
+    },
+    {
+      "step": 112,
+      "timestamp": 1752620224.1627882,
+      "position": -0.3472170011817162,
+      "frequency": 1.0
+    },
+    {
+      "step": 113,
+      "timestamp": 1752620224.1627963,
+      "position": -0.35657733230216365,
+      "frequency": 1.0
+    },
+    {
+      "step": 114,
+      "timestamp": 1752620224.1628041,
+      "position": -0.3659020059865276,
+      "frequency": 1.0
+    },
+    {
+      "step": 115,
+      "timestamp": 1752620224.1628125,
+      "position": -0.37519008977521023,
+      "frequency": 1.0
+    },
+    {
+      "step": 116,
+      "timestamp": 1752620224.1628206,
+      "position": -0.3844406548675727,
+      "frequency": 1.0
+    },
+    {
+      "step": 117,
+      "timestamp": 1752620224.1628287,
+      "position": -0.3936527762148145,
+      "frequency": 1.0
+    },
+    {
+      "step": 118,
+      "timestamp": 1752620224.162837,
+      "position": -0.4028255326124777,
+      "frequency": 1.0
+    },
+    {
+      "step": 119,
+      "timestamp": 1752620224.162845,
+      "position": -0.4119580067925665,
+      "frequency": 1.0
+    },
+    {
+      "step": 120,
+      "timestamp": 1752620224.162853,
+      "position": -0.42104928551527315,
+      "frequency": 1.0
+    },
+    {
+      "step": 121,
+      "timestamp": 1752620224.162861,
+      "position": -0.4300984596603015,
+      "frequency": 1.0
+    },
+    {
+      "step": 122,
+      "timestamp": 1752620224.162869,
+      "position": -0.439104624317778,
+      "frequency": 1.0
+    },
+    {
+      "step": 123,
+      "timestamp": 1752620224.1628768,
+      "position": -0.448066878878742,
+      "frequency": 1.0
+    },
+    {
+      "step": 124,
+      "timestamp": 1752620224.1628852,
+      "position": -0.4569843271252059,
+      "frequency": 1.0
+    },
+    {
+      "step": 125,
+      "timestamp": 1752620224.1628928,
+      "position": -0.46585607731977624,
+      "frequency": 1.0
+    },
+    {
+      "step": 126,
+      "timestamp": 1752620224.162901,
+      "position": -0.4746812422948267,
+      "frequency": 1.0
+    },
+    {
+      "step": 127,
+      "timestamp": 1752620224.1629093,
+      "position": -0.48345893954121405,
+      "frequency": 1.0
+    },
+    {
+      "step": 128,
+      "timestamp": 1752620224.1629171,
+      "position": -0.49218829129652836,
+      "frequency": 1.0
+    },
+    {
+      "step": 129,
+      "timestamp": 1752620224.1629252,
+      "position": -0.5008684246328685,
+      "frequency": 1.0
+    },
+    {
+      "step": 130,
+      "timestamp": 1752620224.1629338,
+      "position": -0.5094984715441344,
+      "frequency": 1.0
+    },
+    {
+      "step": 131,
+      "timestamp": 1752620224.162942,
+      "position": -0.5180775690328265,
+      "frequency": 1.0
+    },
+    {
+      "step": 132,
+      "timestamp": 1752620224.16295,
+      "position": -0.5266048591963453,
+      "frequency": 1.0
+    },
+    {
+      "step": 133,
+      "timestamp": 1752620224.1629584,
+      "position": -0.5350794893127802,
+      "frequency": 1.0
+    },
+    {
+      "step": 134,
+      "timestamp": 1752620224.1629663,
+      "position": -0.5435006119261818,
+      "frequency": 1.0
+    },
+    {
+      "step": 135,
+      "timestamp": 1752620224.1629744,
+      "position": -0.5518673849313065,
+      "frequency": 1.0
+    },
+    {
+      "step": 136,
+      "timestamp": 1752620224.1629825,
+      "position": -0.560178971657826,
+      "frequency": 1.0
+    },
+    {
+      "step": 137,
+      "timestamp": 1752620224.1629903,
+      "position": -0.5684345409539941,
+      "frequency": 1.0
+    },
+    {
+      "step": 138,
+      "timestamp": 1752620224.1629984,
+      "position": -0.5766332672697607,
+      "frequency": 1.0
+    },
+    {
+      "step": 139,
+      "timestamp": 1752620224.1630065,
+      "position": -0.5847743307393265,
+      "frequency": 1.0
+    },
+    {
+      "step": 140,
+      "timestamp": 1752620224.163038,
+      "position": -0.5928569172631286,
+      "frequency": 1.0
+    },
+    {
+      "step": 141,
+      "timestamp": 1752620224.1630485,
+      "position": -0.6008802185892501,
+      "frequency": 1.0
+    },
+    {
+      "step": 142,
+      "timestamp": 1752620224.1630573,
+      "position": -0.6088434323942444,
+      "frequency": 1.0
+    },
+    {
+      "step": 143,
+      "timestamp": 1752620224.1630661,
+      "position": -0.6167457623633672,
+      "frequency": 1.0
+    },
+    {
+      "step": 144,
+      "timestamp": 1752620224.163075,
+      "position": -0.6245864182702068,
+      "frequency": 1.0
+    },
+    {
+      "step": 145,
+      "timestamp": 1752620224.1630836,
+      "position": -0.6323646160557064,
+      "frequency": 1.0
+    },
+    {
+      "step": 146,
+      "timestamp": 1752620224.1630917,
+      "position": -0.6400795779065691,
+      "frequency": 1.0
+    },
+    {
+      "step": 147,
+      "timestamp": 1752620224.1631005,
+      "position": -0.6477305323330391,
+      "frequency": 1.0
+    },
+    {
+      "step": 148,
+      "timestamp": 1752620224.1631088,
+      "position": -0.6553167142460494,
+      "frequency": 1.0
+    },
+    {
+      "step": 149,
+      "timestamp": 1752620224.163118,
+      "position": -0.6628373650337305,
+      "frequency": 1.0
+    },
+    {
+      "step": 150,
+      "timestamp": 1752620224.1631265,
+      "position": -0.6702917326372708,
+      "frequency": 1.0
+    },
+    {
+      "step": 151,
+      "timestamp": 1752620224.163135,
+      "position": -0.6776790716261221,
+      "frequency": 1.0
+    },
+    {
+      "step": 152,
+      "timestamp": 1752620224.1631434,
+      "position": -0.6849986432725415,
+      "frequency": 1.0
+    },
+    {
+      "step": 153,
+      "timestamp": 1752620224.1631515,
+      "position": -0.6922497156254639,
+      "frequency": 1.0
+    },
+    {
+      "step": 154,
+      "timestamp": 1752620224.16316,
+      "position": -0.6994315635836965,
+      "frequency": 1.0
+    },
+    {
+      "step": 155,
+      "timestamp": 1752620224.1631684,
+      "position": -0.7065434689684285,
+      "frequency": 1.0
+    },
+    {
+      "step": 156,
+      "timestamp": 1752620224.163177,
+      "position": -0.7135847205950479,
+      "frequency": 1.0
+    },
+    {
+      "step": 157,
+      "timestamp": 1752620224.1631856,
+      "position": -0.7205546143442596,
+      "frequency": 1.0
+    },
+    {
+      "step": 158,
+      "timestamp": 1752620224.1631944,
+      "position": -0.7274524532324971,
+      "frequency": 1.0
+    },
+    {
+      "step": 159,
+      "timestamp": 1752620224.1632028,
+      "position": -0.7342775474816197,
+      "frequency": 1.0
+    },
+    {
+      "step": 160,
+      "timestamp": 1752620224.163211,
+      "position": -0.7410292145878901,
+      "frequency": 1.0
+    },
+    {
+      "step": 161,
+      "timestamp": 1752620224.1632197,
+      "position": -0.7477067793902239,
+      "frequency": 1.0
+    },
+    {
+      "step": 162,
+      "timestamp": 1752620224.1632283,
+      "position": -0.7543095741377055,
+      "frequency": 1.0
+    },
+    {
+      "step": 163,
+      "timestamp": 1752620224.1632366,
+      "position": -0.7608369385563625,
+      "frequency": 1.0
+    },
+    {
+      "step": 164,
+      "timestamp": 1752620224.163245,
+      "position": -0.7672882199151925,
+      "frequency": 1.0
+    },
+    {
+      "step": 165,
+      "timestamp": 1752620224.1632535,
+      "position": -0.7736627730914356,
+      "frequency": 1.0
+    },
+    {
+      "step": 166,
+      "timestamp": 1752620224.1632621,
+      "position": -0.7799599606350864,
+      "frequency": 1.0
+    },
+    {
+      "step": 167,
+      "timestamp": 1752620224.1632705,
+      "position": -0.7861791528326383,
+      "frequency": 1.0
+    },
+    {
+      "step": 168,
+      "timestamp": 1752620224.1632788,
+      "position": -0.792319727770054,
+      "frequency": 1.0
+    },
+    {
+      "step": 169,
+      "timestamp": 1752620224.1632874,
+      "position": -0.7983810713949568,
+      "frequency": 1.0
+    },
+    {
+      "step": 170,
+      "timestamp": 1752620224.163296,
+      "position": -0.8043625775780354,
+      "frequency": 1.0
+    },
+    {
+      "step": 171,
+      "timestamp": 1752620224.1633043,
+      "position": -0.810263648173656,
+      "frequency": 1.0
+    },
+    {
+      "step": 172,
+      "timestamp": 1752620224.163313,
+      "position": -0.8160836930796767,
+      "frequency": 1.0
+    },
+    {
+      "step": 173,
+      "timestamp": 1752620224.1633215,
+      "position": -0.8218221302964568,
+      "frequency": 1.0
+    },
+    {
+      "step": 174,
+      "timestamp": 1752620224.16333,
+      "position": -0.8274783859850567,
+      "frequency": 1.0
+    },
+    {
+      "step": 175,
+      "timestamp": 1752620224.1633387,
+      "position": -0.8330518945246213,
+      "frequency": 1.0
+    },
+    {
+      "step": 176,
+      "timestamp": 1752620224.1633549,
+      "position": -0.8385420985689409,
+      "frequency": 1.0
+    },
+    {
+      "step": 177,
+      "timestamp": 1752620224.1633632,
+      "position": -0.8439484491021865,
+      "frequency": 1.0
+    },
+    {
+      "step": 178,
+      "timestamp": 1752620224.1633718,
+      "position": -0.8492704054938098,
+      "frequency": 1.0
+    },
+    {
+      "step": 179,
+      "timestamp": 1752620224.1633804,
+      "position": -0.8545074355526068,
+      "frequency": 1.0
+    },
+    {
+      "step": 180,
+      "timestamp": 1752620224.1633892,
+      "position": -0.8596590155799355,
+      "frequency": 1.0
+    },
+    {
+      "step": 181,
+      "timestamp": 1752620224.1633976,
+      "position": -0.8647246304220864,
+      "frequency": 1.0
+    },
+    {
+      "step": 182,
+      "timestamp": 1752620224.1634061,
+      "position": -0.8697037735217965,
+      "frequency": 1.0
+    },
+    {
+      "step": 183,
+      "timestamp": 1752620224.1634147,
+      "position": -0.8745959469689051,
+      "frequency": 1.0
+    },
+    {
+      "step": 184,
+      "timestamp": 1752620224.1634235,
+      "position": -0.8794006615501442,
+      "frequency": 1.0
+    },
+    {
+      "step": 185,
+      "timestamp": 1752620224.163432,
+      "position": -0.8841174367980598,
+      "frequency": 1.0
+    },
+    {
+      "step": 186,
+      "timestamp": 1752620224.1634402,
+      "position": -0.8887458010390576,
+      "frequency": 1.0
+    },
+    {
+      "step": 187,
+      "timestamp": 1752620224.1634486,
+      "position": -0.8932852914405707,
+      "frequency": 1.0
+    },
+    {
+      "step": 188,
+      "timestamp": 1752620224.163457,
+      "position": -0.8977354540573415,
+      "frequency": 1.0
+    },
+    {
+      "step": 189,
+      "timestamp": 1752620224.1634657,
+      "position": -0.902095843876817,
+      "frequency": 1.0
+    },
+    {
+      "step": 190,
+      "timestamp": 1752620224.1634738,
+      "position": -0.9063660248636487,
+      "frequency": 1.0
+    },
+    {
+      "step": 191,
+      "timestamp": 1752620224.1634824,
+      "position": -0.9105455700032965,
+      "frequency": 1.0
+    },
+    {
+      "step": 192,
+      "timestamp": 1752620224.1634908,
+      "position": -0.9146340613447295,
+      "frequency": 1.0
+    },
+    {
+      "step": 193,
+      "timestamp": 1752620224.1634996,
+      "position": -0.9186310900422205,
+      "frequency": 1.0
+    },
+    {
+      "step": 194,
+      "timestamp": 1752620224.1635082,
+      "position": -0.9225362563962307,
+      "frequency": 1.0
+    },
+    {
+      "step": 195,
+      "timestamp": 1752620224.1635168,
+      "position": -0.9263491698933788,
+      "frequency": 1.0
+    },
+    {
+      "step": 196,
+      "timestamp": 1752620224.163525,
+      "position": -0.9300694492454926,
+      "frequency": 1.0
+    },
+    {
+      "step": 197,
+      "timestamp": 1752620224.1635334,
+      "position": -0.9336967224277373,
+      "frequency": 1.0
+    },
+    {
+      "step": 198,
+      "timestamp": 1752620224.163542,
+      "position": -0.937230626715817,
+      "frequency": 1.0
+    },
+    {
+      "step": 199,
+      "timestamp": 1752620224.1635504,
+      "position": -0.9406708087222482,
+      "frequency": 1.0
+    },
+    {
+      "step": 200,
+      "timestamp": 1752620224.1635737,
+      "position": -0.9440169244316967,
+      "frequency": 1.0
+    },
+    {
+      "step": 201,
+      "timestamp": 1752620224.1635818,
+      "position": -0.9472686392353802,
+      "frequency": 1.0
+    },
+    {
+      "step": 202,
+      "timestamp": 1752620224.1635904,
+      "position": -0.950425627964528,
+      "frequency": 1.0
+    },
+    {
+      "step": 203,
+      "timestamp": 1752620224.1635988,
+      "position": -0.9534875749228982,
+      "frequency": 1.0
+    },
+    {
+      "step": 204,
+      "timestamp": 1752620224.1636071,
+      "position": -0.9564541739183463,
+      "frequency": 1.0
+    },
+    {
+      "step": 205,
+      "timestamp": 1752620224.1636157,
+      "position": -0.9593251282934452,
+      "frequency": 1.0
+    },
+    {
+      "step": 206,
+      "timestamp": 1752620224.1636245,
+      "position": -0.9621001509551497,
+      "frequency": 1.0
+    },
+    {
+      "step": 207,
+      "timestamp": 1752620224.1636326,
+      "position": -0.9647789644035061,
+      "frequency": 1.0
+    },
+    {
+      "step": 208,
+      "timestamp": 1752620224.1636407,
+      "position": -0.967361300759402,
+      "frequency": 1.0
+    },
+    {
+      "step": 209,
+      "timestamp": 1752620224.1636493,
+      "position": -0.9698469017913536,
+      "frequency": 1.0
+    },
+    {
+      "step": 210,
+      "timestamp": 1752620224.1636577,
+      "position": -0.972235518941329,
+      "frequency": 1.0
+    },
+    {
+      "step": 211,
+      "timestamp": 1752620224.163666,
+      "position": -0.9745269133496037,
+      "frequency": 1.0
+    },
+    {
+      "step": 212,
+      "timestamp": 1752620224.1636744,
+      "position": -0.9767208558786467,
+      "frequency": 1.0
+    },
+    {
+      "step": 213,
+      "timestamp": 1752620224.1636934,
+      "position": -0.9788171271360331,
+      "frequency": 1.0
+    },
+    {
+      "step": 214,
+      "timestamp": 1752620224.1637135,
+      "position": -0.9808155174963842,
+      "frequency": 1.0
+    },
+    {
+      "step": 215,
+      "timestamp": 1752620224.1637218,
+      "position": -0.9827158271223291,
+      "frequency": 1.0
+    },
+    {
+      "step": 216,
+      "timestamp": 1752620224.1637301,
+      "position": -0.9845178659844889,
+      "frequency": 1.0
+    },
+    {
+      "step": 217,
+      "timestamp": 1752620224.1637383,
+      "position": -0.986221453880479,
+      "frequency": 1.0
+    },
+    {
+      "step": 218,
+      "timestamp": 1752620224.1637466,
+      "position": -0.9878264204529295,
+      "frequency": 1.0
+    },
+    {
+      "step": 219,
+      "timestamp": 1752620224.163755,
+      "position": -0.9893326052065206,
+      "frequency": 1.0
+    },
+    {
+      "step": 220,
+      "timestamp": 1752620224.1637635,
+      "position": -0.990739857524032,
+      "frequency": 1.0
+    },
+    {
+      "step": 221,
+      "timestamp": 1752620224.1637726,
+      "position": -0.9920480366814048,
+      "frequency": 1.0
+    },
+    {
+      "step": 222,
+      "timestamp": 1752620224.1637812,
+      "position": -0.9932570118618134,
+      "frequency": 1.0
+    },
+    {
+      "step": 223,
+      "timestamp": 1752620224.163789,
+      "position": -0.994366662168747,
+      "frequency": 1.0
+    },
+    {
+      "step": 224,
+      "timestamp": 1752620224.1637971,
+      "position": -0.9953768766380999,
+      "frequency": 1.0
+    },
+    {
+      "step": 225,
+      "timestamp": 1752620224.1638095,
+      "position": -0.9962875542492668,
+      "frequency": 1.0
+    },
+    {
+      "step": 226,
+      "timestamp": 1752620224.1638181,
+      "position": -0.9970986039352456,
+      "frequency": 1.0
+    },
+    {
+      "step": 227,
+      "timestamp": 1752620224.1638267,
+      "position": -0.9978099445917437,
+      "frequency": 1.0
+    },
+    {
+      "step": 228,
+      "timestamp": 1752620224.163835,
+      "position": -0.998421505085288,
+      "frequency": 1.0
+    },
+    {
+      "step": 229,
+      "timestamp": 1752620224.1638434,
+      "position": -0.998933224260339,
+      "frequency": 1.0
+    },
+    {
+      "step": 230,
+      "timestamp": 1752620224.1638515,
+      "position": -0.9993450509454056,
+      "frequency": 1.0
+    },
+    {
+      "step": 231,
+      "timestamp": 1752620224.16386,
+      "position": -0.9996569439581624,
+      "frequency": 1.0
+    },
+    {
+      "step": 232,
+      "timestamp": 1752620224.1638682,
+      "position": -0.9998688721095681,
+      "frequency": 1.0
+    },
+    {
+      "step": 233,
+      "timestamp": 1752620224.1638775,
+      "position": -0.9999808142069841,
+      "frequency": 1.0
+    },
+    {
+      "step": 234,
+      "timestamp": 1752620224.1638858,
+      "position": -0.999992759056294,
+      "frequency": 1.0
+    },
+    {
+      "step": 235,
+      "timestamp": 1752620224.1638942,
+      "position": -0.9999047054630228,
+      "frequency": 1.0
+    },
+    {
+      "step": 236,
+      "timestamp": 1752620224.1639025,
+      "position": -0.9997166622324563,
+      "frequency": 1.0
+    },
+    {
+      "step": 237,
+      "timestamp": 1752620224.1639109,
+      "position": -0.9994286481687609,
+      "frequency": 1.0
+    },
+    {
+      "step": 238,
+      "timestamp": 1752620224.1639192,
+      "position": -0.999040692073103,
+      "frequency": 1.0
+    },
+    {
+      "step": 239,
+      "timestamp": 1752620224.1639273,
+      "position": -0.9985528327407689,
+      "frequency": 1.0
+    },
+    {
+      "step": 240,
+      "timestamp": 1752620224.1639357,
+      "position": -0.9979651189572853,
+      "frequency": 1.0
+    },
+    {
+      "step": 241,
+      "timestamp": 1752620224.163944,
+      "position": -0.9972776094935409,
+      "frequency": 1.0
+    },
+    {
+      "step": 242,
+      "timestamp": 1752620224.163952,
+      "position": -0.9964903730999091,
+      "frequency": 1.0
+    },
+    {
+      "step": 243,
+      "timestamp": 1752620224.1639605,
+      "position": -0.995603488499373,
+      "frequency": 1.0
+    },
+    {
+      "step": 244,
+      "timestamp": 1752620224.1639688,
+      "position": -0.9946170443796538,
+      "frequency": 1.0
+    },
+    {
+      "step": 245,
+      "timestamp": 1752620224.163978,
+      "position": -0.9935311393843413,
+      "frequency": 1.0
+    },
+    {
+      "step": 246,
+      "timestamp": 1752620224.1639864,
+      "position": -0.9923458821030302,
+      "frequency": 1.0
+    },
+    {
+      "step": 247,
+      "timestamp": 1752620224.1639948,
+      "position": -0.9910613910604609,
+      "frequency": 1.0
+    },
+    {
+      "step": 248,
+      "timestamp": 1752620224.164006,
+      "position": -0.9896777947046671,
+      "frequency": 1.0
+    },
+    {
+      "step": 249,
+      "timestamp": 1752620224.1640246,
+      "position": -0.9881952313941316,
+      "frequency": 1.0
+    },
+    {
+      "step": 250,
+      "timestamp": 1752620224.1640327,
+      "position": -0.9866138493839498,
+      "frequency": 1.0
+    },
+    {
+      "step": 251,
+      "timestamp": 1752620224.1640408,
+      "position": -0.9849338068110052,
+      "frequency": 1.0
+    },
+    {
+      "step": 252,
+      "timestamp": 1752620224.1640487,
+      "position": -0.9831552716781549,
+      "frequency": 1.0
+    },
+    {
+      "step": 253,
+      "timestamp": 1752620224.1640568,
+      "position": -0.98127842183743,
+      "frequency": 1.0
+    },
+    {
+      "step": 254,
+      "timestamp": 1752620224.164065,
+      "position": -0.9793034449722506,
+      "frequency": 1.0
+    },
+    {
+      "step": 255,
+      "timestamp": 1752620224.1640728,
+      "position": -0.9772305385786575,
+      "frequency": 1.0
+    },
+    {
+      "step": 256,
+      "timestamp": 1752620224.164083,
+      "position": -0.9750599099455626,
+      "frequency": 1.0
+    },
+    {
+      "step": 257,
+      "timestamp": 1752620224.1640918,
+      "position": -0.9727917761340203,
+      "frequency": 1.0
+    },
+    {
+      "step": 258,
+      "timestamp": 1752620224.1641004,
+      "position": -0.9704263639555217,
+      "frequency": 1.0
+    },
+    {
+      "step": 259,
+      "timestamp": 1752620224.1641083,
+      "position": -0.9679639099493136,
+      "frequency": 1.0
+    },
+    {
+      "step": 260,
+      "timestamp": 1752620224.1641166,
+      "position": -0.9654046603587443,
+      "frequency": 1.0
+    },
+    {
+      "step": 261,
+      "timestamp": 1752620224.164125,
+      "position": -0.9627488711066403,
+      "frequency": 1.0
+    },
+    {
+      "step": 262,
+      "timestamp": 1752620224.1641328,
+      "position": -0.9599968077697136,
+      "frequency": 1.0
+    },
+    {
+      "step": 263,
+      "timestamp": 1752620224.164141,
+      "position": -0.9571487455520047,
+      "frequency": 1.0
+    },
+    {
+      "step": 264,
+      "timestamp": 1752620224.164149,
+      "position": -0.9542049692573618,
+      "frequency": 1.0
+    },
+    {
+      "step": 265,
+      "timestamp": 1752620224.1641572,
+      "position": -0.9511657732609613,
+      "frequency": 1.0
+    },
+    {
+      "step": 266,
+      "timestamp": 1752620224.164165,
+      "position": -0.9480314614798702,
+      "frequency": 1.0
+    },
+    {
+      "step": 267,
+      "timestamp": 1752620224.1641734,
+      "position": -0.9448023473426546,
+      "frequency": 1.0
+    },
+    {
+      "step": 268,
+      "timestamp": 1752620224.1641843,
+      "position": -0.9414787537580374,
+      "frequency": 1.0
+    },
+    {
+      "step": 269,
+      "timestamp": 1752620224.164193,
+      "position": -0.9380610130826073,
+      "frequency": 1.0
+    },
+    {
+      "step": 270,
+      "timestamp": 1752620224.1642013,
+      "position": -0.9345494670875838,
+      "frequency": 1.0
+    },
+    {
+      "step": 271,
+      "timestamp": 1752620224.1642118,
+      "position": -0.9309444669246403,
+      "frequency": 1.0
+    },
+    {
+      "step": 272,
+      "timestamp": 1752620224.16422,
+      "position": -0.9272463730907887,
+      "frequency": 1.0
+    },
+    {
+      "step": 273,
+      "timestamp": 1752620224.1642284,
+      "position": -0.9234555553923307,
+      "frequency": 1.0
+    },
+    {
+      "step": 274,
+      "timestamp": 1752620224.1642365,
+      "position": -0.9195723929078772,
+      "frequency": 1.0
+    },
+    {
+      "step": 275,
+      "timestamp": 1752620224.1642444,
+      "position": -0.9155972739504405,
+      "frequency": 1.0
+    },
+    {
+      "step": 276,
+      "timestamp": 1752620224.1642528,
+      "position": -0.911530596028604,
+      "frequency": 1.0
+    },
+    {
+      "step": 277,
+      "timestamp": 1752620224.1642606,
+      "position": -0.9073727658067707,
+      "frequency": 1.0
+    },
+    {
+      "step": 278,
+      "timestamp": 1752620224.1642687,
+      "position": -0.9031241990644983,
+      "frequency": 1.0
+    },
+    {
+      "step": 279,
+      "timestamp": 1752620224.1642768,
+      "position": -0.8987853206549203,
+      "frequency": 1.0
+    },
+    {
+      "step": 280,
+      "timestamp": 1752620224.1642847,
+      "position": -0.8943565644622622,
+      "frequency": 1.0
+    },
+    {
+      "step": 281,
+      "timestamp": 1752620224.1642926,
+      "position": -0.8898383733584525,
+      "frequency": 1.0
+    },
+    {
+      "step": 282,
+      "timestamp": 1752620224.1643004,
+      "position": -0.8852311991588364,
+      "frequency": 1.0
+    },
+    {
+      "step": 283,
+      "timestamp": 1752620224.1643088,
+      "position": -0.8805355025769945,
+      "frequency": 1.0
+    },
+    {
+      "step": 284,
+      "timestamp": 1752620224.1643164,
+      "position": -0.875751753178672,
+      "frequency": 1.0
+    },
+    {
+      "step": 285,
+      "timestamp": 1752620224.1643245,
+      "position": -0.8708804293348225,
+      "frequency": 1.0
+    },
+    {
+      "step": 286,
+      "timestamp": 1752620224.1643326,
+      "position": -0.8659220181737706,
+      "frequency": 1.0
+    },
+    {
+      "step": 287,
+      "timestamp": 1752620224.1643407,
+      "position": -0.8608770155325005,
+      "frequency": 1.0
+    },
+    {
+      "step": 288,
+      "timestamp": 1752620224.1643486,
+      "position": -0.8557459259070723,
+      "frequency": 1.0
+    },
+    {
+      "step": 289,
+      "timestamp": 1752620224.164357,
+      "position": -0.8505292624021725,
+      "frequency": 1.0
+    },
+    {
+      "step": 290,
+      "timestamp": 1752620224.1643648,
+      "position": -0.8452275466798045,
+      "frequency": 1.0
+    },
+    {
+      "step": 291,
+      "timestamp": 1752620224.1643727,
+      "position": -0.8398413089071224,
+      "frequency": 1.0
+    },
+    {
+      "step": 292,
+      "timestamp": 1752620224.1643808,
+      "position": -0.834371087703415,
+      "frequency": 1.0
+    },
+    {
+      "step": 293,
+      "timestamp": 1752620224.164389,
+      "position": -0.8288174300862441,
+      "frequency": 1.0
+    },
+    {
+      "step": 294,
+      "timestamp": 1752620224.1643991,
+      "position": -0.8231808914167436,
+      "frequency": 1.0
+    },
+    {
+      "step": 295,
+      "timestamp": 1752620224.1644075,
+      "position": -0.8174620353440831,
+      "frequency": 1.0
+    },
+    {
+      "step": 296,
+      "timestamp": 1752620224.1644158,
+      "position": -0.8116614337491044,
+      "frequency": 1.0
+    },
+    {
+      "step": 297,
+      "timestamp": 1752620224.1644237,
+      "position": -0.8057796666871331,
+      "frequency": 1.0
+    },
+    {
+      "step": 298,
+      "timestamp": 1752620224.1644456,
+      "position": -0.7998173223299738,
+      "frequency": 1.0
+    },
+    {
+      "step": 299,
+      "timestamp": 1752620224.164455,
+      "position": -0.7937749969070937,
+      "frequency": 1.0
+    },
+    {
+      "step": 300,
+      "timestamp": 1752620224.164467,
+      "position": -0.787653294646,
+      "frequency": 1.0
+    },
+    {
+      "step": 301,
+      "timestamp": 1752620224.1644757,
+      "position": -0.7814528277118171,
+      "frequency": 1.0
+    },
+    {
+      "step": 302,
+      "timestamp": 1752620224.1644838,
+      "position": -0.7751742161460715,
+      "frequency": 1.0
+    },
+    {
+      "step": 303,
+      "timestamp": 1752620224.1645033,
+      "position": -0.7688180878046877,
+      "frequency": 1.0
+    },
+    {
+      "step": 304,
+      "timestamp": 1752620224.1645117,
+      "position": -0.7623850782952031,
+      "frequency": 1.0
+    },
+    {
+      "step": 305,
+      "timestamp": 1752620224.1645203,
+      "position": -0.7558758309132076,
+      "frequency": 1.0
+    },
+    {
+      "step": 306,
+      "timestamp": 1752620224.1645288,
+      "position": -0.7492909965780152,
+      "frequency": 1.0
+    },
+    {
+      "step": 307,
+      "timestamp": 1752620224.1645374,
+      "position": -0.742631233767572,
+      "frequency": 1.0
+    },
+    {
+      "step": 308,
+      "timestamp": 1752620224.1645458,
+      "position": -0.7358972084526092,
+      "frequency": 1.0
+    },
+    {
+      "step": 309,
+      "timestamp": 1752620224.1645546,
+      "position": -0.7290895940300468,
+      "frequency": 1.0
+    },
+    {
+      "step": 310,
+      "timestamp": 1752620224.164563,
+      "position": -0.7222090712556539,
+      "frequency": 1.0
+    },
+    {
+      "step": 311,
+      "timestamp": 1752620224.1645713,
+      "position": -0.7152563281759743,
+      "frequency": 1.0
+    },
+    {
+      "step": 312,
+      "timestamp": 1752620224.1645799,
+      "position": -0.708232060059522,
+      "frequency": 1.0
+    },
+    {
+      "step": 313,
+      "timestamp": 1752620224.1645882,
+      "position": -0.7011369693272551,
+      "frequency": 1.0
+    },
+    {
+      "step": 314,
+      "timestamp": 1752620224.164597,
+      "position": -0.6939717654823343,
+      "frequency": 1.0
+    },
+    {
+      "step": 315,
+      "timestamp": 1752620224.1646054,
+      "position": -0.6867371650391731,
+      "frequency": 1.0
+    },
+    {
+      "step": 316,
+      "timestamp": 1752620224.1646137,
+      "position": -0.679433891451787,
+      "frequency": 1.0
+    },
+    {
+      "step": 317,
+      "timestamp": 1752620224.1646247,
+      "position": -0.6720626750414487,
+      "frequency": 1.0
+    },
+    {
+      "step": 318,
+      "timestamp": 1752620224.1646335,
+      "position": -0.6646242529236566,
+      "frequency": 1.0
+    },
+    {
+      "step": 319,
+      "timestamp": 1752620224.1646452,
+      "position": -0.6571193689344237,
+      "frequency": 1.0
+    },
+    {
+      "step": 320,
+      "timestamp": 1752620224.1646621,
+      "position": -0.6495487735558949,
+      "frequency": 1.0
+    },
+    {
+      "step": 321,
+      "timestamp": 1752620224.1646805,
+      "position": -0.6419132238412995,
+      "frequency": 1.0
+    },
+    {
+      "step": 322,
+      "timestamp": 1752620224.1646914,
+      "position": -0.6342134833392457,
+      "frequency": 1.0
+    },
+    {
+      "step": 323,
+      "timestamp": 1752620224.1647003,
+      "position": -0.6264503220173674,
+      "frequency": 1.0
+    },
+    {
+      "step": 324,
+      "timestamp": 1752620224.1647089,
+      "position": -0.6186245161853277,
+      "frequency": 1.0
+    },
+    {
+      "step": 325,
+      "timestamp": 1752620224.1647172,
+      "position": -0.610736848417188,
+      "frequency": 1.0
+    },
+    {
+      "step": 326,
+      "timestamp": 1752620224.164726,
+      "position": -0.6027881074731523,
+      "frequency": 1.0
+    },
+    {
+      "step": 327,
+      "timestamp": 1752620224.1647341,
+      "position": -0.5947790882206909,
+      "frequency": 1.0
+    },
+    {
+      "step": 328,
+      "timestamp": 1752620224.1647427,
+      "position": -0.586710591555055,
+      "frequency": 1.0
+    },
+    {
+      "step": 329,
+      "timestamp": 1752620224.164751,
+      "position": -0.5785834243191874,
+      "frequency": 1.0
+    },
+    {
+      "step": 330,
+      "timestamp": 1752620224.1647596,
+      "position": -0.570398399223039,
+      "frequency": 1.0
+    },
+    {
+      "step": 331,
+      "timestamp": 1752620224.1647744,
+      "position": -0.5621563347622986,
+      "frequency": 1.0
+    },
+    {
+      "step": 332,
+      "timestamp": 1752620224.1647837,
+      "position": -0.553858055136544,
+      "frequency": 1.0
+    },
+    {
+      "step": 333,
+      "timestamp": 1752620224.164792,
+      "position": -0.5455043901668224,
+      "frequency": 1.0
+    },
+    {
+      "step": 334,
+      "timestamp": 1752620224.1648114,
+      "position": -0.5370961752126695,
+      "frequency": 1.0
+    },
+    {
+      "step": 335,
+      "timestamp": 1752620224.1648197,
+      "position": -0.528634251088574,
+      "frequency": 1.0
+    },
+    {
+      "step": 336,
+      "timestamp": 1752620224.1648278,
+      "position": -0.5201194639798967,
+      "frequency": 1.0
+    },
+    {
+      "step": 337,
+      "timestamp": 1752620224.1648362,
+      "position": -0.511552665358253,
+      "frequency": 1.0
+    },
+    {
+      "step": 338,
+      "timestamp": 1752620224.1648443,
+      "position": -0.5029347118963658,
+      "frequency": 1.0
+    },
+    {
+      "step": 339,
+      "timestamp": 1752620224.1648524,
+      "position": -0.49426646538240004,
+      "frequency": 1.0
+    },
+    {
+      "step": 340,
+      "timestamp": 1752620224.1648653,
+      "position": -0.48554879263378337,
+      "frequency": 1.0
+    },
+    {
+      "step": 341,
+      "timestamp": 1752620224.1648743,
+      "position": -0.476782565410526,
+      "frequency": 1.0
+    },
+    {
+      "step": 342,
+      "timestamp": 1752620224.1648827,
+      "position": -0.46796866032804507,
+      "frequency": 1.0
+    },
+    {
+      "step": 343,
+      "timestamp": 1752620224.1649027,
+      "position": -0.45910795876950394,
+      "frequency": 1.0
+    },
+    {
+      "step": 344,
+      "timestamp": 1752620224.164911,
+      "position": -0.45020134679767454,
+      "frequency": 1.0
+    },
+    {
+      "step": 345,
+      "timestamp": 1752620224.1649196,
+      "position": -0.4412497150663319,
+      "frequency": 1.0
+    },
+    {
+      "step": 346,
+      "timestamp": 1752620224.1649282,
+      "position": -0.43225395873118955,
+      "frequency": 1.0
+    },
+    {
+      "step": 347,
+      "timestamp": 1752620224.1649368,
+      "position": -0.4232149773603845,
+      "frequency": 1.0
+    },
+    {
+      "step": 348,
+      "timestamp": 1752620224.1649451,
+      "position": -0.41413367484452135,
+      "frequency": 1.0
+    },
+    {
+      "step": 349,
+      "timestamp": 1752620224.1649537,
+      "position": -0.40501095930628395,
+      "frequency": 1.0
+    },
+    {
+      "step": 350,
+      "timestamp": 1752620224.164962,
+      "position": -0.3958477430096239,
+      "frequency": 1.0
+    },
+    {
+      "step": 351,
+      "timestamp": 1752620224.1649704,
+      "position": -0.38664494226853485,
+      "frequency": 1.0
+    },
+    {
+      "step": 352,
+      "timestamp": 1752620224.164979,
+      "position": -0.377403477355422,
+      "frequency": 1.0
+    },
+    {
+      "step": 353,
+      "timestamp": 1752620224.1649878,
+      "position": -0.3681242724090754,
+      "frequency": 1.0
+    },
+    {
+      "step": 354,
+      "timestamp": 1752620224.1649964,
+      "position": -0.35880825534225713,
+      "frequency": 1.0
+    },
+    {
+      "step": 355,
+      "timestamp": 1752620224.1650047,
+      "position": -0.3494563577489105,
+      "frequency": 1.0
+    },
+    {
+      "step": 356,
+      "timestamp": 1752620224.1650133,
+      "position": -0.34006951481100156,
+      "frequency": 1.0
+    },
+    {
+      "step": 357,
+      "timestamp": 1752620224.1650217,
+      "position": -0.3306486652050018,
+      "frequency": 1.0
+    },
+    {
+      "step": 358,
+      "timestamp": 1752620224.1650302,
+      "position": -0.3211947510080212,
+      "frequency": 1.0
+    },
+    {
+      "step": 359,
+      "timestamp": 1752620224.16505,
+      "position": -0.3117087176036012,
+      "frequency": 1.0
+    },
+    {
+      "step": 360,
+      "timestamp": 1752620224.1650584,
+      "position": -0.3021915135871772,
+      "frequency": 1.0
+    },
+    {
+      "step": 361,
+      "timestamp": 1752620224.1650665,
+      "position": -0.29264409067122,
+      "frequency": 1.0
+    },
+    {
+      "step": 362,
+      "timestamp": 1752620224.1650746,
+      "position": -0.2830674035900649,
+      "frequency": 1.0
+    },
+    {
+      "step": 363,
+      "timestamp": 1752620224.1650856,
+      "position": -0.2734624100044395,
+      "frequency": 1.0
+    },
+    {
+      "step": 364,
+      "timestamp": 1752620224.1650944,
+      "position": -0.2638300704056983,
+      "frequency": 1.0
+    },
+    {
+      "step": 365,
+      "timestamp": 1752620224.165103,
+      "position": -0.25417134801977415,
+      "frequency": 1.0
+    },
+    {
+      "step": 366,
+      "timestamp": 1752620224.1651108,
+      "position": -0.24448720871085683,
+      "frequency": 1.0
+    },
+    {
+      "step": 367,
+      "timestamp": 1752620224.165119,
+      "position": -0.23477862088480705,
+      "frequency": 1.0
+    },
+    {
+      "step": 368,
+      "timestamp": 1752620224.1651273,
+      "position": -0.225046555392317,
+      "frequency": 1.0
+    },
+    {
+      "step": 369,
+      "timestamp": 1752620224.1651354,
+      "position": -0.21529198543182587,
+      "frequency": 1.0
+    },
+    {
+      "step": 370,
+      "timestamp": 1752620224.1651433,
+      "position": -0.20551588645220092,
+      "frequency": 1.0
+    },
+    {
+      "step": 371,
+      "timestamp": 1752620224.1651516,
+      "position": -0.19571923605519342,
+      "frequency": 1.0
+    },
+    {
+      "step": 372,
+      "timestamp": 1752620224.1651595,
+      "position": -0.18590301389767921,
+      "frequency": 1.0
+    },
+    {
+      "step": 373,
+      "timestamp": 1752620224.1651676,
+      "position": -0.1760682015936939,
+      "frequency": 1.0
+    },
+    {
+      "step": 374,
+      "timestamp": 1752620224.165176,
+      "position": -0.16621578261627223,
+      "frequency": 1.0
+    },
+    {
+      "step": 375,
+      "timestamp": 1752620224.1651838,
+      "position": -0.1563467421991016,
+      "frequency": 1.0
+    },
+    {
+      "step": 376,
+      "timestamp": 1752620224.165192,
+      "position": -0.1464620672379996,
+      "frequency": 1.0
+    },
+    {
+      "step": 377,
+      "timestamp": 1752620224.1651998,
+      "position": -0.13656274619222508,
+      "frequency": 1.0
+    },
+    {
+      "step": 378,
+      "timestamp": 1752620224.165208,
+      "position": -0.12664976898563324,
+      "frequency": 1.0
+    },
+    {
+      "step": 379,
+      "timestamp": 1752620224.1652162,
+      "position": -0.11672412690768397,
+      "frequency": 1.0
+    },
+    {
+      "step": 380,
+      "timestamp": 1752620224.1652246,
+      "position": -0.10678681251431371,
+      "frequency": 1.0
+    },
+    {
+      "step": 381,
+      "timestamp": 1752620224.1652324,
+      "position": -0.09683881952868073,
+      "frequency": 1.0
+    },
+    {
+      "step": 382,
+      "timestamp": 1752620224.1652536,
+      "position": -0.08688114274179362,
+      "frequency": 1.0
+    },
+    {
+      "step": 383,
+      "timestamp": 1752620224.1652627,
+      "position": -0.07691477791303303,
+      "frequency": 1.0
+    },
+    {
+      "step": 384,
+      "timestamp": 1752620224.1652708,
+      "position": -0.06694072167057658,
+      "frequency": 1.0
+    },
+    {
+      "step": 385,
+      "timestamp": 1752620224.1652787,
+      "position": -0.05695997141173681,
+      "frequency": 1.0
+    },
+    {
+      "step": 386,
+      "timestamp": 1752620224.1652892,
+      "position": -0.04697352520322236,
+      "frequency": 1.0
+    },
+    {
+      "step": 387,
+      "timestamp": 1752620224.1652977,
+      "position": -0.036982381681332055,
+      "frequency": 1.0
+    },
+    {
+      "step": 388,
+      "timestamp": 1752620224.1653168,
+      "position": -0.02698753995209216,
+      "frequency": 1.0
+    },
+    {
+      "step": 389,
+      "timestamp": 1752620224.1653252,
+      "position": -0.016989999491346594,
+      "frequency": 1.0
+    },
+    {
+      "step": 390,
+      "timestamp": 1752620224.1653333,
+      "position": -0.006990760044810182,
+      "frequency": 1.0
+    },
+    {
+      "step": 391,
+      "timestamp": 1752620224.1653416,
+      "position": 0.003009178471905098,
+      "frequency": 1.0
+    },
+    {
+      "step": 392,
+      "timestamp": 1752620224.16535,
+      "position": 0.013008816073280827,
+      "frequency": 1.0
+    },
+    {
+      "step": 393,
+      "timestamp": 1752620224.1653702,
+      "position": 0.023007152803889874,
+      "frequency": 1.0
+    },
+    {
+      "step": 394,
+      "timestamp": 1752620224.1653812,
+      "position": 0.033003188838391095,
+      "frequency": 1.0
+    },
+    {
+      "step": 395,
+      "timestamp": 1752620224.16539,
+      "position": 0.04299592458151104,
+      "frequency": 1.0
+    },
+    {
+      "step": 396,
+      "timestamp": 1752620224.1653986,
+      "position": 0.05298436076800264,
+      "frequency": 1.0
+    },
+    {
+      "step": 397,
+      "timestamp": 1752620224.165407,
+      "position": 0.06296749856257093,
+      "frequency": 1.0
+    },
+    {
+      "step": 398,
+      "timestamp": 1752620224.1654158,
+      "position": 0.07294433965975569,
+      "frequency": 1.0
+    },
+    {
+      "step": 399,
+      "timestamp": 1752620224.1654239,
+      "position": 0.08291388638376122,
+      "frequency": 1.0
+    },
+    {
+      "step": 400,
+      "timestamp": 1752620224.1654365,
+      "position": 0.09287514178822306,
+      "frequency": 1.0
+    },
+    {
+      "step": 401,
+      "timestamp": 1752620224.165445,
+      "position": 0.10282710975590177,
+      "frequency": 1.0
+    },
+    {
+      "step": 402,
+      "timestamp": 1752620224.1654532,
+      "position": 0.11276879509829385,
+      "frequency": 1.0
+    },
+    {
+      "step": 403,
+      "timestamp": 1752620224.1654618,
+      "position": 0.12269920365514979,
+      "frequency": 1.0
+    },
+    {
+      "step": 404,
+      "timestamp": 1752620224.1654701,
+      "position": 0.1326173423938892,
+      "frequency": 1.0
+    },
+    {
+      "step": 405,
+      "timestamp": 1752620224.1654785,
+      "position": 0.14252221950890326,
+      "frequency": 1.0
+    },
+    {
+      "step": 406,
+      "timestamp": 1752620224.1654868,
+      "position": 0.15241284452073453,
+      "frequency": 1.0
+    },
+    {
+      "step": 407,
+      "timestamp": 1752620224.1654952,
+      "position": 0.16228822837512402,
+      "frequency": 1.0
+    },
+    {
+      "step": 408,
+      "timestamp": 1752620224.1655035,
+      "position": 0.17214738354191575,
+      "frequency": 1.0
+    },
+    {
+      "step": 409,
+      "timestamp": 1752620224.1655147,
+      "position": 0.18198932411380897,
+      "frequency": 1.0
+    },
+    {
+      "step": 410,
+      "timestamp": 1752620224.165524,
+      "position": 0.1918130659049481,
+      "frequency": 1.0
+    },
+    {
+      "step": 411,
+      "timestamp": 1752620224.165532,
+      "position": 0.2016176265493404,
+      "frequency": 1.0
+    },
+    {
+      "step": 412,
+      "timestamp": 1752620224.1655407,
+      "position": 0.2114020255990919,
+      "frequency": 1.0
+    },
+    {
+      "step": 413,
+      "timestamp": 1752620224.1655488,
+      "position": 0.22116528462245127,
+      "frequency": 1.0
+    },
+    {
+      "step": 414,
+      "timestamp": 1752620224.165557,
+      "position": 0.2309064273016522,
+      "frequency": 1.0
+    },
+    {
+      "step": 415,
+      "timestamp": 1752620224.1655655,
+      "position": 0.24062447953054433,
+      "frequency": 1.0
+    },
+    {
+      "step": 416,
+      "timestamp": 1752620224.1655736,
+      "position": 0.2503184695120031,
+      "frequency": 1.0
+    },
+    {
+      "step": 417,
+      "timestamp": 1752620224.1655822,
+      "position": 0.25998742785510864,
+      "frequency": 1.0
+    },
+    {
+      "step": 418,
+      "timestamp": 1752620224.1655905,
+      "position": 0.26963038767208414,
+      "frequency": 1.0
+    },
+    {
+      "step": 419,
+      "timestamp": 1752620224.1655989,
+      "position": 0.27924638467498364,
+      "frequency": 1.0
+    },
+    {
+      "step": 420,
+      "timestamp": 1752620224.1656072,
+      "position": 0.2888344572721202,
+      "frequency": 1.0
+    },
+    {
+      "step": 421,
+      "timestamp": 1752620224.1656156,
+      "position": 0.2983936466642241,
+      "frequency": 1.0
+    },
+    {
+      "step": 422,
+      "timestamp": 1752620224.1656241,
+      "position": 0.3079229969403221,
+      "frequency": 1.0
+    },
+    {
+      "step": 423,
+      "timestamp": 1752620224.1656322,
+      "position": 0.3174215551733277,
+      "frequency": 1.0
+    },
+    {
+      "step": 424,
+      "timestamp": 1752620224.1656432,
+      "position": 0.326888371515333,
+      "frequency": 1.0
+    },
+    {
+      "step": 425,
+      "timestamp": 1752620224.1656525,
+      "position": 0.33632249929259284,
+      "frequency": 1.0
+    },
+    {
+      "step": 426,
+      "timestamp": 1752620224.1656606,
+      "position": 0.3457229951001912,
+      "frequency": 1.0
+    },
+    {
+      "step": 427,
+      "timestamp": 1752620224.1656692,
+      "position": 0.35508891889638117,
+      "frequency": 1.0
+    },
+    {
+      "step": 428,
+      "timestamp": 1752620224.1656775,
+      "position": 0.3644193340965879,
+      "frequency": 1.0
+    },
+    {
+      "step": 429,
+      "timestamp": 1752620224.1656857,
+      "position": 0.3737133076670667,
+      "frequency": 1.0
+    },
+    {
+      "step": 430,
+      "timestamp": 1752620224.1656945,
+      "position": 0.3829699102182055,
+      "frequency": 1.0
+    },
+    {
+      "step": 431,
+      "timestamp": 1752620224.1657026,
+      "position": 0.392188216097463,
+      "frequency": 1.0
+    },
+    {
+      "step": 432,
+      "timestamp": 1752620224.1657135,
+      "position": 0.40136730348193317,
+      "frequency": 1.0
+    },
+    {
+      "step": 433,
+      "timestamp": 1752620224.1657224,
+      "position": 0.4105062544705268,
+      "frequency": 1.0
+    },
+    {
+      "step": 434,
+      "timestamp": 1752620224.1657307,
+      "position": 0.4196041551757608,
+      "frequency": 1.0
+    },
+    {
+      "step": 435,
+      "timestamp": 1752620224.165739,
+      "position": 0.4286600958151461,
+      "frequency": 1.0
+    },
+    {
+      "step": 436,
+      "timestamp": 1752620224.1657581,
+      "position": 0.4376731708021654,
+      "frequency": 1.0
+    },
+    {
+      "step": 437,
+      "timestamp": 1752620224.1658063,
+      "position": 0.44664247883683095,
+      "frequency": 1.0
+    },
+    {
+      "step": 438,
+      "timestamp": 1752620224.1658163,
+      "position": 0.4555671229958136,
+      "frequency": 1.0
+    },
+    {
+      "step": 439,
+      "timestamp": 1752620224.1658242,
+      "position": 0.46444621082213466,
+      "frequency": 1.0
+    },
+    {
+      "step": 440,
+      "timestamp": 1752620224.1658323,
+      "position": 0.47327885441441075,
+      "frequency": 1.0
+    },
+    {
+      "step": 441,
+      "timestamp": 1752620224.1658401,
+      "position": 0.4820641705156431,
+      "frequency": 1.0
+    },
+    {
+      "step": 442,
+      "timestamp": 1752620224.165848,
+      "position": 0.4908012806015427,
+      "frequency": 1.0
+    },
+    {
+      "step": 443,
+      "timestamp": 1752620224.165856,
+      "position": 0.4994893109683819,
+      "frequency": 1.0
+    },
+    {
+      "step": 444,
+      "timestamp": 1752620224.165864,
+      "position": 0.5081273928203639,
+      "frequency": 1.0
+    },
+    {
+      "step": 445,
+      "timestamp": 1752620224.1658719,
+      "position": 0.5167146623565019,
+      "frequency": 1.0
+    },
+    {
+      "step": 446,
+      "timestamp": 1752620224.16588,
+      "position": 0.5252502608569983,
+      "frequency": 1.0
+    },
+    {
+      "step": 447,
+      "timestamp": 1752620224.1658878,
+      "position": 0.5337333347691161,
+      "frequency": 1.0
+    },
+    {
+      "step": 448,
+      "timestamp": 1752620224.165896,
+      "position": 0.5421630357925332,
+      "frequency": 1.0
+    },
+    {
+      "step": 449,
+      "timestamp": 1752620224.1659038,
+      "position": 0.5505385209641721,
+      "frequency": 1.0
+    },
+    {
+      "step": 450,
+      "timestamp": 1752620224.165912,
+      "position": 0.5588589527424951,
+      "frequency": 1.0
+    },
+    {
+      "step": 451,
+      "timestamp": 1752620224.1659198,
+      "position": 0.567123499091258,
+      "frequency": 1.0
+    },
+    {
+      "step": 452,
+      "timestamp": 1752620224.1659276,
+      "position": 0.5753313335627132,
+      "frequency": 1.0
+    },
+    {
+      "step": 453,
+      "timestamp": 1752620224.1659358,
+      "position": 0.5834816353802531,
+      "frequency": 1.0
+    },
+    {
+      "step": 454,
+      "timestamp": 1752620224.1659439,
+      "position": 0.591573589520488,
+      "frequency": 1.0
+    },
+    {
+      "step": 455,
+      "timestamp": 1752620224.1659548,
+      "position": 0.5996063867947471,
+      "frequency": 1.0
+    },
+    {
+      "step": 456,
+      "timestamp": 1752620224.1659634,
+      "position": 0.607579223929997,
+      "frequency": 1.0
+    },
+    {
+      "step": 457,
+      "timestamp": 1752620224.165987,
+      "position": 0.6154913036491682,
+      "frequency": 1.0
+    },
+    {
+      "step": 458,
+      "timestamp": 1752620224.1660075,
+      "position": 0.623341834750882,
+      "frequency": 1.0
+    },
+    {
+      "step": 459,
+      "timestamp": 1752620224.1660163,
+      "position": 0.6311300321885706,
+      "frequency": 1.0
+    },
+    {
+      "step": 460,
+      "timestamp": 1752620224.1660247,
+      "position": 0.6388551171489801,
+      "frequency": 1.0
+    },
+    {
+      "step": 461,
+      "timestamp": 1752620224.1660433,
+      "position": 0.6465163171300522,
+      "frequency": 1.0
+    },
+    {
+      "step": 462,
+      "timestamp": 1752620224.1660514,
+      "position": 0.6541128660181731,
+      "frequency": 1.0
+    },
+    {
+      "step": 463,
+      "timestamp": 1752620224.1660595,
+      "position": 0.6616440041647843,
+      "frequency": 1.0
+    },
+    {
+      "step": 464,
+      "timestamp": 1752620224.1660676,
+      "position": 0.6691089784623473,
+      "frequency": 1.0
+    },
+    {
+      "step": 465,
+      "timestamp": 1752620224.1660757,
+      "position": 0.676507042419653,
+      "frequency": 1.0
+    },
+    {
+      "step": 466,
+      "timestamp": 1752620224.1660979,
+      "position": 0.6838374562364707,
+      "frequency": 1.0
+    },
+    {
+      "step": 467,
+      "timestamp": 1752620224.1661067,
+      "position": 0.6910994868775274,
+      "frequency": 1.0
+    },
+    {
+      "step": 468,
+      "timestamp": 1752620224.1661153,
+      "position": 0.6982924081458107,
+      "frequency": 1.0
+    },
+    {
+      "step": 469,
+      "timestamp": 1752620224.1661239,
+      "position": 0.7054155007551878,
+      "frequency": 1.0
+    },
+    {
+      "step": 470,
+      "timestamp": 1752620224.166132,
+      "position": 0.7124680524023336,
+      "frequency": 1.0
+    },
+    {
+      "step": 471,
+      "timestamp": 1752620224.1661403,
+      "position": 0.7194493578379605,
+      "frequency": 1.0
+    },
+    {
+      "step": 472,
+      "timestamp": 1752620224.1661484,
+      "position": 0.7263587189373427,
+      "frequency": 1.0
+    },
+    {
+      "step": 473,
+      "timestamp": 1752620224.1661568,
+      "position": 0.7331954447701282,
+      "frequency": 1.0
+    },
+    {
+      "step": 474,
+      "timestamp": 1752620224.1661656,
+      "position": 0.7399588516694308,
+      "frequency": 1.0
+    },
+    {
+      "step": 475,
+      "timestamp": 1752620224.1661737,
+      "position": 0.7466482633001966,
+      "frequency": 1.0
+    },
+    {
+      "step": 476,
+      "timestamp": 1752620224.166182,
+      "position": 0.7532630107268373,
+      "frequency": 1.0
+    },
+    {
+      "step": 477,
+      "timestamp": 1752620224.1661904,
+      "position": 0.7598024324801224,
+      "frequency": 1.0
+    },
+    {
+      "step": 478,
+      "timestamp": 1752620224.166201,
+      "position": 0.7662658746233258,
+      "frequency": 1.0
+    },
+    {
+      "step": 479,
+      "timestamp": 1752620224.1662104,
+      "position": 0.7726526908176198,
+      "frequency": 1.0
+    },
+    {
+      "step": 480,
+      "timestamp": 1752620224.1662188,
+      "position": 0.778962242386707,
+      "frequency": 1.0
+    },
+    {
+      "step": 481,
+      "timestamp": 1752620224.166227,
+      "position": 0.7851938983806884,
+      "frequency": 1.0
+    },
+    {
+      "step": 482,
+      "timestamp": 1752620224.1662357,
+      "position": 0.7913470356391578,
+      "frequency": 1.0
+    },
+    {
+      "step": 483,
+      "timestamp": 1752620224.166244,
+      "position": 0.7974210388535169,
+      "frequency": 1.0
+    },
+    {
+      "step": 484,
+      "timestamp": 1752620224.1662524,
+      "position": 0.803415300628506,
+      "frequency": 1.0
+    },
+    {
+      "step": 485,
+      "timestamp": 1752620224.1662607,
+      "position": 0.8093292215429427,
+      "frequency": 1.0
+    },
+    {
+      "step": 486,
+      "timestamp": 1752620224.1662688,
+      "position": 0.815162210209664,
+      "frequency": 1.0
+    },
+    {
+      "step": 487,
+      "timestamp": 1752620224.1662772,
+      "position": 0.8209136833346639,
+      "frequency": 1.0
+    },
+    {
+      "step": 488,
+      "timestamp": 1752620224.1662855,
+      "position": 0.8265830657754226,
+      "frequency": 1.0
+    },
+    {
+      "step": 489,
+      "timestamp": 1752620224.1662939,
+      "position": 0.8321697905984208,
+      "frequency": 1.0
+    },
+    {
+      "step": 490,
+      "timestamp": 1752620224.1663022,
+      "position": 0.8376732991358317,
+      "frequency": 1.0
+    },
+    {
+      "step": 491,
+      "timestamp": 1752620224.1663105,
+      "position": 0.8430930410413876,
+      "frequency": 1.0
+    },
+    {
+      "step": 492,
+      "timestamp": 1752620224.1663191,
+      "position": 0.8484284743454146,
+      "frequency": 1.0
+    },
+    {
+      "step": 493,
+      "timestamp": 1752620224.1663272,
+      "position": 0.8536790655090284,
+      "frequency": 1.0
+    },
+    {
+      "step": 494,
+      "timestamp": 1752620224.1663356,
+      "position": 0.858844289477488,
+      "frequency": 1.0
+    },
+    {
+      "step": 495,
+      "timestamp": 1752620224.166344,
+      "position": 0.863923629732701,
+      "frequency": 1.0
+    },
+    {
+      "step": 496,
+      "timestamp": 1752620224.166352,
+      "position": 0.8689165783448746,
+      "frequency": 1.0
+    },
+    {
+      "step": 497,
+      "timestamp": 1752620224.1663606,
+      "position": 0.8738226360233085,
+      "frequency": 1.0
+    },
+    {
+      "step": 498,
+      "timestamp": 1752620224.1663687,
+      "position": 0.8786413121663231,
+      "frequency": 1.0
+    },
+    {
+      "step": 499,
+      "timestamp": 1752620224.1663773,
+      "position": 0.8833721249103198,
+      "frequency": 1.0
+    },
+    {
+      "step": 500,
+      "timestamp": 1752620224.1663892,
+      "position": 0.8880146011779665,
+      "frequency": 1.0
+    },
+    {
+      "step": 501,
+      "timestamp": 1752620224.1664002,
+      "position": 0.8925682767255051,
+      "frequency": 1.0
+    },
+    {
+      "step": 502,
+      "timestamp": 1752620224.166409,
+      "position": 0.8970326961891756,
+      "frequency": 1.0
+    },
+    {
+      "step": 503,
+      "timestamp": 1752620224.1664174,
+      "position": 0.9014074131307518,
+      "frequency": 1.0
+    },
+    {
+      "step": 504,
+      "timestamp": 1752620224.166426,
+      "position": 0.9056919900821853,
+      "frequency": 1.0
+    },
+    {
+      "step": 505,
+      "timestamp": 1752620224.166434,
+      "position": 0.9098859985893514,
+      "frequency": 1.0
+    },
+    {
+      "step": 506,
+      "timestamp": 1752620224.1664422,
+      "position": 0.9139890192548944,
+      "frequency": 1.0
+    },
+    {
+      "step": 507,
+      "timestamp": 1752620224.1664507,
+      "position": 0.9180006417801668,
+      "frequency": 1.0
+    },
+    {
+      "step": 508,
+      "timestamp": 1752620224.1664631,
+      "position": 0.9219204650062592,
+      "frequency": 1.0
+    },
+    {
+      "step": 509,
+      "timestamp": 1752620224.1664724,
+      "position": 0.9257480969541155,
+      "frequency": 1.0
+    },
+    {
+      "step": 510,
+      "timestamp": 1752620224.1664808,
+      "position": 0.9294831548637305,
+      "frequency": 1.0
+    },
+    {
+      "step": 511,
+      "timestamp": 1752620224.1664891,
+      "position": 0.9331252652324257,
+      "frequency": 1.0
+    },
+    {
+      "step": 512,
+      "timestamp": 1752620224.1664975,
+      "position": 0.9366740638521994,
+      "frequency": 1.0
+    },
+    {
+      "step": 513,
+      "timestamp": 1752620224.1665058,
+      "position": 0.940129195846147,
+      "frequency": 1.0
+    },
+    {
+      "step": 514,
+      "timestamp": 1752620224.1665142,
+      "position": 0.9434903157039481,
+      "frequency": 1.0
+    },
+    {
+      "step": 515,
+      "timestamp": 1752620224.1665223,
+      "position": 0.9467570873164183,
+      "frequency": 1.0
+    },
+    {
+      "step": 516,
+      "timestamp": 1752620224.1665308,
+      "position": 0.9499291840091183,
+      "frequency": 1.0
+    },
+    {
+      "step": 517,
+      "timestamp": 1752620224.166539,
+      "position": 0.9530062885750225,
+      "frequency": 1.0
+    },
+    {
+      "step": 518,
+      "timestamp": 1752620224.1665473,
+      "position": 0.9559880933062382,
+      "frequency": 1.0
+    },
+    {
+      "step": 519,
+      "timestamp": 1752620224.1665554,
+      "position": 0.9588743000247774,
+      "frequency": 1.0
+    },
+    {
+      "step": 520,
+      "timestamp": 1752620224.166567,
+      "position": 0.9616646201123732,
+      "frequency": 1.0
+    },
+    {
+      "step": 521,
+      "timestamp": 1752620224.1665804,
+      "position": 0.9643587745393424,
+      "frequency": 1.0
+    },
+    {
+      "step": 522,
+      "timestamp": 1752620224.1666002,
+      "position": 0.9669564938924872,
+      "frequency": 1.0
+    },
+    {
+      "step": 523,
+      "timestamp": 1752620224.1666086,
+      "position": 0.969457518402037,
+      "frequency": 1.0
+    },
+    {
+      "step": 524,
+      "timestamp": 1752620224.1666296,
+      "position": 0.9718615979676252,
+      "frequency": 1.0
+    },
+    {
+      "step": 525,
+      "timestamp": 1752620224.1666381,
+      "position": 0.9741684921832986,
+      "frequency": 1.0
+    },
+    {
+      "step": 526,
+      "timestamp": 1752620224.166646,
+      "position": 0.9763779703615579,
+      "frequency": 1.0
+    },
+    {
+      "step": 527,
+      "timestamp": 1752620224.1666539,
+      "position": 0.9784898115564268,
+      "frequency": 1.0
+    },
+    {
+      "step": 528,
+      "timestamp": 1752620224.166662,
+      "position": 0.9805038045855453,
+      "frequency": 1.0
+    },
+    {
+      "step": 529,
+      "timestamp": 1752620224.1666698,
+      "position": 0.982419748051289,
+      "frequency": 1.0
+    },
+    {
+      "step": 530,
+      "timestamp": 1752620224.166678,
+      "position": 0.9842374503609078,
+      "frequency": 1.0
+    },
+    {
+      "step": 531,
+      "timestamp": 1752620224.1666856,
+      "position": 0.9859567297456856,
+      "frequency": 1.0
+    },
+    {
+      "step": 532,
+      "timestamp": 1752620224.1666937,
+      "position": 0.9875774142791166,
+      "frequency": 1.0
+    },
+    {
+      "step": 533,
+      "timestamp": 1752620224.1667013,
+      "position": 0.9890993418940982,
+      "frequency": 1.0
+    },
+    {
+      "step": 534,
+      "timestamp": 1752620224.1667092,
+      "position": 0.990522360399137,
+      "frequency": 1.0
+    },
+    {
+      "step": 535,
+      "timestamp": 1752620224.1667173,
+      "position": 0.9918463274935684,
+      "frequency": 1.0
+    },
+    {
+      "step": 536,
+      "timestamp": 1752620224.1667254,
+      "position": 0.9930711107817863,
+      "frequency": 1.0
+    },
+    {
+      "step": 537,
+      "timestamp": 1752620224.1667333,
+      "position": 0.9941965877864826,
+      "frequency": 1.0
+    },
+    {
+      "step": 538,
+      "timestamp": 1752620224.166741,
+      "position": 0.9952226459608945,
+      "frequency": 1.0
+    },
+    {
+      "step": 539,
+      "timestamp": 1752620224.166749,
+      "position": 0.9961491827000598,
+      "frequency": 1.0
+    },
+    {
+      "step": 540,
+      "timestamp": 1752620224.1667569,
+      "position": 0.9969761053510767,
+      "frequency": 1.0
+    },
+    {
+      "step": 541,
+      "timestamp": 1752620224.1667645,
+      "position": 0.9977033312223692,
+      "frequency": 1.0
+    },
+    {
+      "step": 542,
+      "timestamp": 1752620224.1667724,
+      "position": 0.9983307875919561,
+      "frequency": 1.0
+    },
+    {
+      "step": 543,
+      "timestamp": 1752620224.1667802,
+      "position": 0.9988584117147233,
+      "frequency": 1.0
+    },
+    {
+      "step": 544,
+      "timestamp": 1752620224.166788,
+      "position": 0.9992861508286982,
+      "frequency": 1.0
+    },
+    {
+      "step": 545,
+      "timestamp": 1752620224.1667957,
+      "position": 0.9996139621603258,
+      "frequency": 1.0
+    },
+    {
+      "step": 546,
+      "timestamp": 1752620224.1668036,
+      "position": 0.9998418129287462,
+      "frequency": 1.0
+    },
+    {
+      "step": 547,
+      "timestamp": 1752620224.166815,
+      "position": 0.9999696803490724,
+      "frequency": 1.0
+    },
+    {
+      "step": 548,
+      "timestamp": 1752620224.1668234,
+      "position": 0.999997551634669,
+      "frequency": 1.0
+    },
+    {
+      "step": 549,
+      "timestamp": 1752620224.1668313,
+      "position": 0.9999254239984307,
+      "frequency": 1.0
+    },
+    {
+      "step": 550,
+      "timestamp": 1752620224.1668417,
+      "position": 0.9997533046530608,
+      "frequency": 1.0
+    },
+    {
+      "step": 551,
+      "timestamp": 1752620224.1668503,
+      "position": 0.9994812108103505,
+      "frequency": 1.0
+    },
+    {
+      "step": 552,
+      "timestamp": 1752620224.1668582,
+      "position": 0.9991091696794573,
+      "frequency": 1.0
+    },
+    {
+      "step": 553,
+      "timestamp": 1752620224.166866,
+      "position": 0.9986372184641844,
+      "frequency": 1.0
+    },
+    {
+      "step": 554,
+      "timestamp": 1752620224.1668842,
+      "position": 0.9980654043592599,
+      "frequency": 1.0
+    },
+    {
+      "step": 555,
+      "timestamp": 1752620224.1668916,
+      "position": 0.9973937845456179,
+      "frequency": 1.0
+    },
+    {
+      "step": 556,
+      "timestamp": 1752620224.166899,
+      "position": 0.99662242618468,
+      "frequency": 1.0
+    },
+    {
+      "step": 557,
+      "timestamp": 1752620224.1669066,
+      "position": 0.9957514064116396,
+      "frequency": 1.0
+    },
+    {
+      "step": 558,
+      "timestamp": 1752620224.1669137,
+      "position": 0.9947808123277481,
+      "frequency": 1.0
+    },
+    {
+      "step": 559,
+      "timestamp": 1752620224.1669211,
+      "position": 0.993710740991605,
+      "frequency": 1.0
+    },
+    {
+      "step": 560,
+      "timestamp": 1752620224.166929,
+      "position": 0.9925412994094521,
+      "frequency": 1.0
+    },
+    {
+      "step": 561,
+      "timestamp": 1752620224.1669364,
+      "position": 0.9912726045244734,
+      "frequency": 1.0
+    },
+    {
+      "step": 562,
+      "timestamp": 1752620224.1669438,
+      "position": 0.9899047832050999,
+      "frequency": 1.0
+    },
+    {
+      "step": 563,
+      "timestamp": 1752620224.1669512,
+      "position": 0.9884379722323237,
+      "frequency": 1.0
+    },
+    {
+      "step": 564,
+      "timestamp": 1752620224.1669586,
+      "position": 0.9868723182860196,
+      "frequency": 1.0
+    },
+    {
+      "step": 565,
+      "timestamp": 1752620224.166966,
+      "position": 0.9852079779302779,
+      "frequency": 1.0
+    },
+    {
+      "step": 566,
+      "timestamp": 1752620224.166973,
+      "position": 0.9834451175977471,
+      "frequency": 1.0
+    },
+    {
+      "step": 567,
+      "timestamp": 1752620224.1669805,
+      "position": 0.9815839135729915,
+      "frequency": 1.0
+    },
+    {
+      "step": 568,
+      "timestamp": 1752620224.1669881,
+      "position": 0.9796245519748624,
+      "frequency": 1.0
+    },
+    {
+      "step": 569,
+      "timestamp": 1752620224.1669955,
+      "position": 0.977567228737887,
+      "frequency": 1.0
+    },
+    {
+      "step": 570,
+      "timestamp": 1752620224.1670048,
+      "position": 0.9754121495926745,
+      "frequency": 1.0
+    },
+    {
+      "step": 571,
+      "timestamp": 1752620224.1670198,
+      "position": 0.9731595300453434,
+      "frequency": 1.0
+    },
+    {
+      "step": 572,
+      "timestamp": 1752620224.167042,
+      "position": 0.9708095953559713,
+      "frequency": 1.0
+    },
+    {
+      "step": 573,
+      "timestamp": 1752620224.1670508,
+      "position": 0.968362580516069,
+      "frequency": 1.0
+    },
+    {
+      "step": 574,
+      "timestamp": 1752620224.1670592,
+      "position": 0.9658187302250812,
+      "frequency": 1.0
+    },
+    {
+      "step": 575,
+      "timestamp": 1752620224.1670673,
+      "position": 0.9631782988659171,
+      "frequency": 1.0
+    },
+    {
+      "step": 576,
+      "timestamp": 1752620224.1670759,
+      "position": 0.9604415504795122,
+      "frequency": 1.0
+    },
+    {
+      "step": 577,
+      "timestamp": 1752620224.1670842,
+      "position": 0.9576087587384247,
+      "frequency": 1.0
+    },
+    {
+      "step": 578,
+      "timestamp": 1752620224.1670928,
+      "position": 0.9546802069194679,
+      "frequency": 1.0
+    },
+    {
+      "step": 579,
+      "timestamp": 1752620224.1671011,
+      "position": 0.9516561878753832,
+      "frequency": 1.0
+    },
+    {
+      "step": 580,
+      "timestamp": 1752620224.1671097,
+      "position": 0.9485370040055551,
+      "frequency": 1.0
+    },
+    {
+      "step": 581,
+      "timestamp": 1752620224.1671178,
+      "position": 0.9453229672257711,
+      "frequency": 1.0
+    },
+    {
+      "step": 582,
+      "timestamp": 1752620224.1671262,
+      "position": 0.9420143989370312,
+      "frequency": 1.0
+    },
+    {
+      "step": 583,
+      "timestamp": 1752620224.167138,
+      "position": 0.938611629993407,
+      "frequency": 1.0
+    },
+    {
+      "step": 584,
+      "timestamp": 1752620224.167147,
+      "position": 0.9351150006689571,
+      "frequency": 1.0
+    },
+    {
+      "step": 585,
+      "timestamp": 1752620224.1671555,
+      "position": 0.9315248606237002,
+      "frequency": 1.0
+    },
+    {
+      "step": 586,
+      "timestamp": 1752620224.1671638,
+      "position": 0.9278415688686491,
+      "frequency": 1.0
+    },
+    {
+      "step": 587,
+      "timestamp": 1752620224.1671724,
+      "position": 0.9240654937299099,
+      "frequency": 1.0
+    },
+    {
+      "step": 588,
+      "timestamp": 1752620224.1671805,
+      "position": 0.9201970128118496,
+      "frequency": 1.0
+    },
+    {
+      "step": 589,
+      "timestamp": 1752620224.167189,
+      "position": 0.9162365129593365,
+      "frequency": 1.0
+    },
+    {
+      "step": 590,
+      "timestamp": 1752620224.1671975,
+      "position": 0.9121843902190553,
+      "frequency": 1.0
+    },
+    {
+      "step": 591,
+      "timestamp": 1752620224.1672058,
+      "position": 0.9080410497999033,
+      "frequency": 1.0
+    },
+    {
+      "step": 592,
+      "timestamp": 1752620224.1672275,
+      "position": 0.9038069060324697,
+      "frequency": 1.0
+    },
+    {
+      "step": 593,
+      "timestamp": 1752620224.1672428,
+      "position": 0.8994823823276027,
+      "frequency": 1.0
+    },
+    {
+      "step": 594,
+      "timestamp": 1752620224.1672518,
+      "position": 0.895067911134069,
+      "frequency": 1.0
+    },
+    {
+      "step": 595,
+      "timestamp": 1752620224.1672604,
+      "position": 0.8905639338953094,
+      "frequency": 1.0
+    },
+    {
+      "step": 596,
+      "timestamp": 1752620224.1672688,
+      "position": 0.8859709010052944,
+      "frequency": 1.0
+    },
+    {
+      "step": 597,
+      "timestamp": 1752620224.1672773,
+      "position": 0.8812892717634854,
+      "frequency": 1.0
+    },
+    {
+      "step": 598,
+      "timestamp": 1752620224.1672854,
+      "position": 0.8765195143289052,
+      "frequency": 1.0
+    },
+    {
+      "step": 599,
+      "timestamp": 1752620224.1672943,
+      "position": 0.8716621056733226,
+      "frequency": 1.0
+    },
+    {
+      "step": 600,
+      "timestamp": 1752620224.1673062,
+      "position": 0.8667175315335552,
+      "frequency": 1.0
+    },
+    {
+      "step": 601,
+      "timestamp": 1752620224.1673145,
+      "position": 0.8616862863628968,
+      "frequency": 1.0
+    },
+    {
+      "step": 602,
+      "timestamp": 1752620224.1673226,
+      "position": 0.8565688732816715,
+      "frequency": 1.0
+    },
+    {
+      "step": 603,
+      "timestamp": 1752620224.167331,
+      "position": 0.8513658040269231,
+      "frequency": 1.0
+    },
+    {
+      "step": 604,
+      "timestamp": 1752620224.16735,
+      "position": 0.8460775989012411,
+      "frequency": 1.0
+    },
+    {
+      "step": 605,
+      "timestamp": 1752620224.167358,
+      "position": 0.8407047867207312,
+      "frequency": 1.0
+    },
+    {
+      "step": 606,
+      "timestamp": 1752620224.1673658,
+      "position": 0.8352479047621343,
+      "frequency": 1.0
+    },
+    {
+      "step": 607,
+      "timestamp": 1752620224.167374,
+      "position": 0.8297074987090988,
+      "frequency": 1.0
+    },
+    {
+      "step": 608,
+      "timestamp": 1752620224.1673818,
+      "position": 0.8240841225976129,
+      "frequency": 1.0
+    },
+    {
+      "step": 609,
+      "timestamp": 1752620224.1673894,
+      "position": 0.8183783387606017,
+      "frequency": 1.0
+    },
+    {
+      "step": 610,
+      "timestamp": 1752620224.1673973,
+      "position": 0.8125907177716941,
+      "frequency": 1.0
+    },
+    {
+      "step": 611,
+      "timestamp": 1752620224.1674054,
+      "position": 0.8067218383881659,
+      "frequency": 1.0
+    },
+    {
+      "step": 612,
+      "timestamp": 1752620224.1674132,
+      "position": 0.8007722874930648,
+      "frequency": 1.0
+    },
+    {
+      "step": 613,
+      "timestamp": 1752620224.167421,
+      "position": 0.7947426600365225,
+      "frequency": 1.0
+    },
+    {
+      "step": 614,
+      "timestamp": 1752620224.167429,
+      "position": 0.7886335589762598,
+      "frequency": 1.0
+    },
+    {
+      "step": 615,
+      "timestamp": 1752620224.1674368,
+      "position": 0.7824455952172918,
+      "frequency": 1.0
+    },
+    {
+      "step": 616,
+      "timestamp": 1752620224.167447,
+      "position": 0.7761793875508379,
+      "frequency": 1.0
+    },
+    {
+      "step": 617,
+      "timestamp": 1752620224.1674554,
+      "position": 0.769835562592443,
+      "frequency": 1.0
+    },
+    {
+      "step": 618,
+      "timestamp": 1752620224.1674635,
+      "position": 0.7634147547193163,
+      "frequency": 1.0
+    },
+    {
+      "step": 619,
+      "timestamp": 1752620224.1674714,
+      "position": 0.7569176060068944,
+      "frequency": 1.0
+    },
+    {
+      "step": 620,
+      "timestamp": 1752620224.1674793,
+      "position": 0.7503447661646344,
+      "frequency": 1.0
+    },
+    {
+      "step": 621,
+      "timestamp": 1752620224.1674871,
+      "position": 0.7436968924710431,
+      "frequency": 1.0
+    },
+    {
+      "step": 622,
+      "timestamp": 1752620224.1674953,
+      "position": 0.73697464970795,
+      "frequency": 1.0
+    },
+    {
+      "step": 623,
+      "timestamp": 1752620224.167503,
+      "position": 0.7301787100940297,
+      "frequency": 1.0
+    },
+    {
+      "step": 624,
+      "timestamp": 1752620224.1675107,
+      "position": 0.7233097532175802,
+      "frequency": 1.0
+    },
+    {
+      "step": 625,
+      "timestamp": 1752620224.1675186,
+      "position": 0.7163684659685651,
+      "frequency": 1.0
+    },
+    {
+      "step": 626,
+      "timestamp": 1752620224.167527,
+      "position": 0.7093555424699248,
+      "frequency": 1.0
+    },
+    {
+      "step": 627,
+      "timestamp": 1752620224.1675346,
+      "position": 0.7022716840081652,
+      "frequency": 1.0
+    },
+    {
+      "step": 628,
+      "timestamp": 1752620224.1675425,
+      "position": 0.6951175989632291,
+      "frequency": 1.0
+    },
+    {
+      "step": 629,
+      "timestamp": 1752620224.1675508,
+      "position": 0.6878940027376593,
+      "frequency": 1.0
+    },
+    {
+      "step": 630,
+      "timestamp": 1752620224.1675587,
+      "position": 0.6806016176850588,
+      "frequency": 1.0
+    },
+    {
+      "step": 631,
+      "timestamp": 1752620224.1675665,
+      "position": 0.6732411730378559,
+      "frequency": 1.0
+    },
+    {
+      "step": 632,
+      "timestamp": 1752620224.1675746,
+      "position": 0.6658134048343817,
+      "frequency": 1.0
+    },
+    {
+      "step": 633,
+      "timestamp": 1752620224.1675825,
+      "position": 0.6583190558452666,
+      "frequency": 1.0
+    },
+    {
+      "step": 634,
+      "timestamp": 1752620224.1675928,
+      "position": 0.6507588754991643,
+      "frequency": 1.0
+    },
+    {
+      "step": 635,
+      "timestamp": 1752620224.167601,
+      "position": 0.6431336198078094,
+      "frequency": 1.0
+    },
+    {
+      "step": 636,
+      "timestamp": 1752620224.167609,
+      "position": 0.6354440512904166,
+      "frequency": 1.0
+    },
+    {
+      "step": 637,
+      "timestamp": 1752620224.167617,
+      "position": 0.6276909388974298,
+      "frequency": 1.0
+    },
+    {
+      "step": 638,
+      "timestamp": 1752620224.167625,
+      "position": 0.6198750579336273,
+      "frequency": 1.0
+    },
+    {
+      "step": 639,
+      "timestamp": 1752620224.1676464,
+      "position": 0.6119971899805922,
+      "frequency": 1.0
+    },
+    {
+      "step": 640,
+      "timestamp": 1752620224.1676555,
+      "position": 0.604058122818555,
+      "frequency": 1.0
+    },
+    {
+      "step": 641,
+      "timestamp": 1752620224.1676638,
+      "position": 0.5960586503476161,
+      "frequency": 1.0
+    },
+    {
+      "step": 642,
+      "timestamp": 1752620224.167672,
+      "position": 0.5879995725083563,
+      "frequency": 1.0
+    },
+    {
+      "step": 643,
+      "timestamp": 1752620224.16768,
+      "position": 0.5798816952018438,
+      "frequency": 1.0
+    },
+    {
+      "step": 644,
+      "timestamp": 1752620224.1676986,
+      "position": 0.5717058302090442,
+      "frequency": 1.0
+    },
+    {
+      "step": 645,
+      "timestamp": 1752620224.1677067,
+      "position": 0.5634727951096435,
+      "frequency": 1.0
+    },
+    {
+      "step": 646,
+      "timestamp": 1752620224.1677177,
+      "position": 0.555183413200291,
+      "frequency": 1.0
+    },
+    {
+      "step": 647,
+      "timestamp": 1752620224.167726,
+      "position": 0.5468385134122696,
+      "frequency": 1.0
+    },
+    {
+      "step": 648,
+      "timestamp": 1752620224.167734,
+      "position": 0.5384389302286042,
+      "frequency": 1.0
+    },
+    {
+      "step": 649,
+      "timestamp": 1752620224.1677418,
+      "position": 0.5299855036006135,
+      "frequency": 1.0
+    },
+    {
+      "step": 650,
+      "timestamp": 1752620224.1677496,
+      "position": 0.5214790788639158,
+      "frequency": 1.0
+    },
+    {
+      "step": 651,
+      "timestamp": 1752620224.1677577,
+      "position": 0.5129205066538961,
+      "frequency": 1.0
+    },
+    {
+      "step": 652,
+      "timestamp": 1752620224.1677656,
+      "position": 0.5043106428206433,
+      "frequency": 1.0
+    },
+    {
+      "step": 653,
+      "timestamp": 1752620224.1677735,
+      "position": 0.49565034834336597,
+      "frequency": 1.0
+    },
+    {
+      "step": 654,
+      "timestamp": 1752620224.1677814,
+      "position": 0.4869404892442949,
+      "frequency": 1.0
+    },
+    {
+      "step": 655,
+      "timestamp": 1752620224.1677892,
+      "position": 0.47818193650208174,
+      "frequency": 1.0
+    },
+    {
+      "step": 656,
+      "timestamp": 1752620224.1677973,
+      "position": 0.469375565964702,
+      "frequency": 1.0
+    },
+    {
+      "step": 657,
+      "timestamp": 1752620224.1678052,
+      "position": 0.46052225826187076,
+      "frequency": 1.0
+    },
+    {
+      "step": 658,
+      "timestamp": 1752620224.167813,
+      "position": 0.4516228987169806,
+      "frequency": 1.0
+    },
+    {
+      "step": 659,
+      "timestamp": 1752620224.1678212,
+      "position": 0.44267837725856984,
+      "frequency": 1.0
+    },
+    {
+      "step": 660,
+      "timestamp": 1752620224.167829,
+      "position": 0.43368958833133064,
+      "frequency": 1.0
+    },
+    {
+      "step": 661,
+      "timestamp": 1752620224.1678371,
+      "position": 0.42465743080666507,
+      "frequency": 1.0
+    },
+    {
+      "step": 662,
+      "timestamp": 1752620224.167849,
+      "position": 0.4155828078927988,
+      "frequency": 1.0
+    },
+    {
+      "step": 663,
+      "timestamp": 1752620224.1678574,
+      "position": 0.406466627044461,
+      "frequency": 1.0
+    },
+    {
+      "step": 664,
+      "timestamp": 1752620224.1678653,
+      "position": 0.3973097998721399,
+      "frequency": 1.0
+    },
+    {
+      "step": 665,
+      "timestamp": 1752620224.1678734,
+      "position": 0.3881132420509219,
+      "frequency": 1.0
+    },
+    {
+      "step": 666,
+      "timestamp": 1752620224.1678813,
+      "position": 0.3788778732289254,
+      "frequency": 1.0
+    },
+    {
+      "step": 667,
+      "timestamp": 1752620224.167889,
+      "position": 0.3696046169353365,
+      "frequency": 1.0
+    },
+    {
+      "step": 668,
+      "timestamp": 1752620224.1678975,
+      "position": 0.36029440048805694,
+      "frequency": 1.0
+    },
+    {
+      "step": 669,
+      "timestamp": 1752620224.167905,
+      "position": 0.35094815490097286,
+      "frequency": 1.0
+    },
+    {
+      "step": 670,
+      "timestamp": 1752620224.167913,
+      "position": 0.3415668147908545,
+      "frequency": 1.0
+    },
+    {
+      "step": 671,
+      "timestamp": 1752620224.1679208,
+      "position": 0.3321513182838951,
+      "frequency": 1.0
+    },
+    {
+      "step": 672,
+      "timestamp": 1752620224.167929,
+      "position": 0.3227026069218991,
+      "frequency": 1.0
+    },
+    {
+      "step": 673,
+      "timestamp": 1752620224.1679368,
+      "position": 0.3132216255681288,
+      "frequency": 1.0
+    },
+    {
+      "step": 674,
+      "timestamp": 1752620224.1679554,
+      "position": 0.3037093223128189,
+      "frequency": 1.0
+    },
+    {
+      "step": 675,
+      "timestamp": 1752620224.167963,
+      "position": 0.2941666483783679,
+      "frequency": 1.0
+    },
+    {
+      "step": 676,
+      "timestamp": 1752620224.167973,
+      "position": 0.2845945580242172,
+      "frequency": 1.0
+    },
+    {
+      "step": 677,
+      "timestamp": 1752620224.1679811,
+      "position": 0.2749940084514253,
+      "frequency": 1.0
+    },
+    {
+      "step": 678,
+      "timestamp": 1752620224.1679888,
+      "position": 0.2653659597069492,
+      "frequency": 1.0
+    },
+    {
+      "step": 679,
+      "timestamp": 1752620224.1679964,
+      "position": 0.25571137458763993,
+      "frequency": 1.0
+    },
+    {
+      "step": 680,
+      "timestamp": 1752620224.1680038,
+      "position": 0.24603121854396393,
+      "frequency": 1.0
+    },
+    {
+      "step": 681,
+      "timestamp": 1752620224.1680114,
+      "position": 0.23632645958345883,
+      "frequency": 1.0
+    },
+    {
+      "step": 682,
+      "timestamp": 1752620224.168019,
+      "position": 0.2265980681739334,
+      "frequency": 1.0
+    },
+    {
+      "step": 683,
+      "timestamp": 1752620224.1680267,
+      "position": 0.21684701714642168,
+      "frequency": 1.0
+    },
+    {
+      "step": 684,
+      "timestamp": 1752620224.168034,
+      "position": 0.20707428159790053,
+      "frequency": 1.0
+    },
+    {
+      "step": 685,
+      "timestamp": 1752620224.1680439,
+      "position": 0.1972808387937809,
+      "frequency": 1.0
+    },
+    {
+      "step": 686,
+      "timestamp": 1752620224.1680517,
+      "position": 0.187467668070182,
+      "frequency": 1.0
+    },
+    {
+      "step": 687,
+      "timestamp": 1752620224.1680593,
+      "position": 0.17763575073599863,
+      "frequency": 1.0
+    },
+    {
+      "step": 688,
+      "timestamp": 1752620224.1680667,
+      "position": 0.16778606997477097,
+      "frequency": 1.0
+    },
+    {
+      "step": 689,
+      "timestamp": 1752620224.1680741,
+      "position": 0.15791961074636707,
+      "frequency": 1.0
+    },
+    {
+      "step": 690,
+      "timestamp": 1752620224.1680818,
+      "position": 0.14803735968848775,
+      "frequency": 1.0
+    },
+    {
+      "step": 691,
+      "timestamp": 1752620224.1680892,
+      "position": 0.13814030501800362,
+      "frequency": 1.0
+    },
+    {
+      "step": 692,
+      "timestamp": 1752620224.1680965,
+      "position": 0.12822943643213425,
+      "frequency": 1.0
+    },
+    {
+      "step": 693,
+      "timestamp": 1752620224.168104,
+      "position": 0.11830574500947916,
+      "frequency": 1.0
+    },
+    {
+      "step": 694,
+      "timestamp": 1752620224.1681113,
+      "position": 0.10837022311091091,
+      "frequency": 1.0
+    },
+    {
+      "step": 695,
+      "timestamp": 1752620224.168119,
+      "position": 0.09842386428033978,
+      "frequency": 1.0
+    },
+    {
+      "step": 696,
+      "timestamp": 1752620224.1681268,
+      "position": 0.08846766314536023,
+      "frequency": 1.0
+    },
+    {
+      "step": 697,
+      "timestamp": 1752620224.1681342,
+      "position": 0.07850261531778893,
+      "frequency": 1.0
+    },
+    {
+      "step": 698,
+      "timestamp": 1752620224.1681416,
+      "position": 0.06852971729410448,
+      "frequency": 1.0
+    },
+    {
+      "step": 699,
+      "timestamp": 1752620224.1681492,
+      "position": 0.05854996635579854,
+      "frequency": 1.0
+    },
+    {
+      "step": 700,
+      "timestamp": 1752620224.1681602,
+      "position": 0.04856436046964849,
+      "frequency": 1.0
+    },
+    {
+      "step": 701,
+      "timestamp": 1752620224.1681798,
+      "position": 0.03857389818792163,
+      "frequency": 1.0
+    },
+    {
+      "step": 702,
+      "timestamp": 1752620224.1681995,
+      "position": 0.028579578548520793,
+      "frequency": 1.0
+    },
+    {
+      "step": 703,
+      "timestamp": 1752620224.1682076,
+      "position": 0.018582400975081334,
+      "frequency": 1.0
+    },
+    {
+      "step": 704,
+      "timestamp": 1752620224.1682158,
+      "position": 0.00858336517702965,
+      "frequency": 1.0
+    },
+    {
+      "step": 705,
+      "timestamp": 1752620224.168224,
+      "position": -0.0014165289503869569,
+      "frequency": 1.0
+    },
+    {
+      "step": 706,
+      "timestamp": 1752620224.1682322,
+      "position": -0.011416281426088963,
+      "frequency": 1.0
+    },
+    {
+      "step": 707,
+      "timestamp": 1752620224.1682403,
+      "position": -0.021414892283161895,
+      "frequency": 1.0
+    },
+    {
+      "step": 708,
+      "timestamp": 1752620224.168251,
+      "position": -0.031411361668852195,
+      "frequency": 1.0
+    },
+    {
+      "step": 709,
+      "timestamp": 1752620224.168262,
+      "position": -0.04140468994455166,
+      "frequency": 1.0
+    },
+    {
+      "step": 710,
+      "timestamp": 1752620224.1682706,
+      "position": -0.05139387778576046,
+      "frequency": 1.0
+    },
+    {
+      "step": 711,
+      "timestamp": 1752620224.1682787,
+      "position": -0.061377926282018776,
+      "frequency": 1.0
+    },
+    {
+      "step": 712,
+      "timestamp": 1752620224.1682868,
+      "position": -0.07135583703679699,
+      "frequency": 1.0
+    },
+    {
+      "step": 713,
+      "timestamp": 1752620224.1682951,
+      "position": -0.08132661226733454,
+      "frequency": 1.0
+    },
+    {
+      "step": 714,
+      "timestamp": 1752620224.168303,
+      "position": -0.0912892549044173,
+      "frequency": 1.0
+    },
+    {
+      "step": 715,
+      "timestamp": 1752620224.1683114,
+      "position": -0.10124276869208376,
+      "frequency": 1.0
+    },
+    {
+      "step": 716,
+      "timestamp": 1752620224.1683195,
+      "position": -0.1111861582872497,
+      "frequency": 1.0
+    },
+    {
+      "step": 717,
+      "timestamp": 1752620224.1683273,
+      "position": -0.12111842935924175,
+      "frequency": 1.0
+    },
+    {
+      "step": 718,
+      "timestamp": 1752620224.1683378,
+      "position": -0.13103858868922955,
+      "frequency": 1.0
+    },
+    {
+      "step": 719,
+      "timestamp": 1752620224.1683466,
+      "position": -0.1409456442695469,
+      "frequency": 1.0
+    },
+    {
+      "step": 720,
+      "timestamp": 1752620224.1683547,
+      "position": -0.1508386054028916,
+      "frequency": 1.0
+    },
+    {
+      "step": 721,
+      "timestamp": 1752620224.168363,
+      "position": -0.16071648280139442,
+      "frequency": 1.0
+    },
+    {
+      "step": 722,
+      "timestamp": 1752620224.1683714,
+      "position": -0.17057828868554706,
+      "frequency": 1.0
+    },
+    {
+      "step": 723,
+      "timestamp": 1752620224.1683793,
+      "position": -0.18042303688297925,
+      "frequency": 1.0
+    },
+    {
+      "step": 724,
+      "timestamp": 1752620224.1683874,
+      "position": -0.19024974292707517,
+      "frequency": 1.0
+    },
+    {
+      "step": 725,
+      "timestamp": 1752620224.1683955,
+      "position": -0.2000574241554193,
+      "frequency": 1.0
+    },
+    {
+      "step": 726,
+      "timestamp": 1752620224.1684036,
+      "position": -0.20984509980806185,
+      "frequency": 1.0
+    },
+    {
+      "step": 727,
+      "timestamp": 1752620224.168412,
+      "position": -0.2196117911255939,
+      "frequency": 1.0
+    },
+    {
+      "step": 728,
+      "timestamp": 1752620224.1684198,
+      "position": -0.2293565214470226,
+      "frequency": 1.0
+    },
+    {
+      "step": 729,
+      "timestamp": 1752620224.168428,
+      "position": -0.2390783163074364,
+      "frequency": 1.0
+    },
+    {
+      "step": 730,
+      "timestamp": 1752620224.168436,
+      "position": -0.24877620353545069,
+      "frequency": 1.0
+    },
+    {
+      "step": 731,
+      "timestamp": 1752620224.1684465,
+      "position": -0.25844921335042426,
+      "frequency": 1.0
+    },
+    {
+      "step": 732,
+      "timestamp": 1752620224.1684551,
+      "position": -0.26809637845943635,
+      "frequency": 1.0
+    },
+    {
+      "step": 733,
+      "timestamp": 1752620224.168463,
+      "position": -0.27771673415401543,
+      "frequency": 1.0
+    },
+    {
+      "step": 734,
+      "timestamp": 1752620224.1684713,
+      "position": -0.2873093184066089,
+      "frequency": 1.0
+    },
+    {
+      "step": 735,
+      "timestamp": 1752620224.1684794,
+      "position": -0.2968731719667853,
+      "frequency": 1.0
+    },
+    {
+      "step": 736,
+      "timestamp": 1752620224.1684873,
+      "position": -0.3064073384571585,
+      "frequency": 1.0
+    },
+    {
+      "step": 737,
+      "timestamp": 1752620224.1684957,
+      "position": -0.3159108644690246,
+      "frequency": 1.0
+    },
+    {
+      "step": 738,
+      "timestamp": 1752620224.1685038,
+      "position": -0.325382799657702,
+      "frequency": 1.0
+    },
+    {
+      "step": 739,
+      "timestamp": 1752620224.1685116,
+      "position": -0.3348221968375651,
+      "frequency": 1.0
+    },
+    {
+      "step": 740,
+      "timestamp": 1752620224.16852,
+      "position": -0.34422811207676196,
+      "frequency": 1.0
+    },
+    {
+      "step": 741,
+      "timestamp": 1752620224.168528,
+      "position": -0.3535996047916069,
+      "frequency": 1.0
+    },
+    {
+      "step": 742,
+      "timestamp": 1752620224.1685467,
+      "position": -0.36293573784063804,
+      "frequency": 1.0
+    },
+    {
+      "step": 743,
+      "timestamp": 1752620224.1685548,
+      "position": -0.3722355776183306,
+      "frequency": 1.0
+    },
+    {
+      "step": 744,
+      "timestamp": 1752620224.1685627,
+      "position": -0.38149819414845654,
+      "frequency": 1.0
+    },
+    {
+      "step": 745,
+      "timestamp": 1752620224.1685705,
+      "position": -0.39072266117708176,
+      "frequency": 1.0
+    },
+    {
+      "step": 746,
+      "timestamp": 1752620224.1685789,
+      "position": -0.39990805626519044,
+      "frequency": 1.0
+    },
+    {
+      "step": 747,
+      "timestamp": 1752620224.1685867,
+      "position": -0.4090534608809282,
+      "frequency": 1.0
+    },
+    {
+      "step": 748,
+      "timestamp": 1752620224.1685946,
+      "position": -0.4181579604914546,
+      "frequency": 1.0
+    },
+    {
+      "step": 749,
+      "timestamp": 1752620224.1686027,
+      "position": -0.4272206446543957,
+      "frequency": 1.0
+    },
+    {
+      "step": 750,
+      "timestamp": 1752620224.1686106,
+      "position": -0.43624060710888735,
+      "frequency": 1.0
+    },
+    {
+      "step": 751,
+      "timestamp": 1752620224.1686184,
+      "position": -0.44521694586620075,
+      "frequency": 1.0
+    },
+    {
+      "step": 752,
+      "timestamp": 1752620224.1686265,
+      "position": -0.45414876329994036,
+      "frequency": 1.0
+    },
+    {
+      "step": 753,
+      "timestamp": 1752620224.1686344,
+      "position": -0.463035166235806,
+      "frequency": 1.0
+    },
+    {
+      "step": 754,
+      "timestamp": 1752620224.168645,
+      "position": -0.47187526604090935,
+      "frequency": 1.0
+    },
+    {
+      "step": 755,
+      "timestamp": 1752620224.1686532,
+      "position": -0.4806681787126367,
+      "frequency": 1.0
+    },
+    {
+      "step": 756,
+      "timestamp": 1752620224.1686616,
+      "position": -0.4894130249670482,
+      "frequency": 1.0
+    },
+    {
+      "step": 757,
+      "timestamp": 1752620224.1686692,
+      "position": -0.4981089303268058,
+      "frequency": 1.0
+    },
+    {
+      "step": 758,
+      "timestamp": 1752620224.168677,
+      "position": -0.5067550252086201,
+      "frequency": 1.0
+    },
+    {
+      "step": 759,
+      "timestamp": 1752620224.168685,
+      "position": -0.515350445010208,
+      "frequency": 1.0
+    },
+    {
+      "step": 760,
+      "timestamp": 1752620224.1686952,
+      "position": -0.523894330196752,
+      "frequency": 1.0
+    },
+    {
+      "step": 761,
+      "timestamp": 1752620224.1687045,
+      "position": -0.5323858263868535,
+      "frequency": 1.0
+    },
+    {
+      "step": 762,
+      "timestamp": 1752620224.1687124,
+      "position": -0.5408240844379697,
+      "frequency": 1.0
+    },
+    {
+      "step": 763,
+      "timestamp": 1752620224.1687324,
+      "position": -0.5492082605313273,
+      "frequency": 1.0
+    },
+    {
+      "step": 764,
+      "timestamp": 1752620224.1687405,
+      "position": -0.5575375162563039,
+      "frequency": 1.0
+    },
+    {
+      "step": 765,
+      "timestamp": 1752620224.1687489,
+      "position": -0.5658110186942678,
+      "frequency": 1.0
+    },
+    {
+      "step": 766,
+      "timestamp": 1752620224.1687567,
+      "position": -0.5740279405018698,
+      "frequency": 1.0
+    },
+    {
+      "step": 767,
+      "timestamp": 1752620224.168765,
+      "position": -0.5821874599937766,
+      "frequency": 1.0
+    },
+    {
+      "step": 768,
+      "timestamp": 1752620224.1687734,
+      "position": -0.5902887612248386,
+      "frequency": 1.0
+    },
+    {
+      "step": 769,
+      "timestamp": 1752620224.1687815,
+      "position": -0.5983310340716839,
+      "frequency": 1.0
+    },
+    {
+      "step": 770,
+      "timestamp": 1752620224.1687899,
+      "position": -0.6063134743137295,
+      "frequency": 1.0
+    },
+    {
+      "step": 771,
+      "timestamp": 1752620224.168798,
+      "position": -0.6142352837136034,
+      "frequency": 1.0
+    },
+    {
+      "step": 772,
+      "timestamp": 1752620224.1688087,
+      "position": -0.6220956700969669,
+      "frequency": 1.0
+    },
+    {
+      "step": 773,
+      "timestamp": 1752620224.1688175,
+      "position": -0.6298938474317319,
+      "frequency": 1.0
+    },
+    {
+      "step": 774,
+      "timestamp": 1752620224.1688256,
+      "position": -0.6376290359066636,
+      "frequency": 1.0
+    },
+    {
+      "step": 775,
+      "timestamp": 1752620224.1688337,
+      "position": -0.6453004620093605,
+      "frequency": 1.0
+    },
+    {
+      "step": 776,
+      "timestamp": 1752620224.168842,
+      "position": -0.6529073586036052,
+      "frequency": 1.0
+    },
+    {
+      "step": 777,
+      "timestamp": 1752620224.1688523,
+      "position": -0.660448965006077,
+      "frequency": 1.0
+    },
+    {
+      "step": 778,
+      "timestamp": 1752620224.168861,
+      "position": -0.6679245270624206,
+      "frequency": 1.0
+    },
+    {
+      "step": 779,
+      "timestamp": 1752620224.168869,
+      "position": -0.6753332972226598,
+      "frequency": 1.0
+    },
+    {
+      "step": 780,
+      "timestamp": 1752620224.1688774,
+      "position": -0.6826745346159526,
+      "frequency": 1.0
+    },
+    {
+      "step": 781,
+      "timestamp": 1752620224.1688852,
+      "position": -0.6899475051246775,
+      "frequency": 1.0
+    },
+    {
+      "step": 782,
+      "timestamp": 1752620224.1688933,
+      "position": -0.6971514814578443,
+      "frequency": 1.0
+    },
+    {
+      "step": 783,
+      "timestamp": 1752620224.1689017,
+      "position": -0.704285743223823,
+      "frequency": 1.0
+    },
+    {
+      "step": 784,
+      "timestamp": 1752620224.1689095,
+      "position": -0.7113495770023821,
+      "frequency": 1.0
+    },
+    {
+      "step": 785,
+      "timestamp": 1752620224.1689177,
+      "position": -0.7183422764160303,
+      "frequency": 1.0
+    },
+    {
+      "step": 786,
+      "timestamp": 1752620224.168926,
+      "position": -0.7252631422006535,
+      "frequency": 1.0
+    },
+    {
+      "step": 787,
+      "timestamp": 1752620224.168934,
+      "position": -0.7321114822754404,
+      "frequency": 1.0
+    },
+    {
+      "step": 788,
+      "timestamp": 1752620224.1689425,
+      "position": -0.7388866118120907,
+      "frequency": 1.0
+    },
+    {
+      "step": 789,
+      "timestamp": 1752620224.1689506,
+      "position": -0.7455878533032965,
+      "frequency": 1.0
+    },
+    {
+      "step": 790,
+      "timestamp": 1752620224.1689587,
+      "position": -0.7522145366304931,
+      "frequency": 1.0
+    },
+    {
+      "step": 791,
+      "timestamp": 1752620224.168967,
+      "position": -0.75876599913087,
+      "frequency": 1.0
+    },
+    {
+      "step": 792,
+      "timestamp": 1752620224.1689749,
+      "position": -0.7652415856636365,
+      "frequency": 1.0
+    },
+    {
+      "step": 793,
+      "timestamp": 1752620224.168983,
+      "position": -0.7716406486755358,
+      "frequency": 1.0
+    },
+    {
+      "step": 794,
+      "timestamp": 1752620224.1689913,
+      "position": -0.7779625482655992,
+      "frequency": 1.0
+    },
+    {
+      "step": 795,
+      "timestamp": 1752620224.1689994,
+      "position": -0.784206652249136,
+      "frequency": 1.0
+    },
+    {
+      "step": 796,
+      "timestamp": 1752620224.1690075,
+      "position": -0.7903723362209512,
+      "frequency": 1.0
+    },
+    {
+      "step": 797,
+      "timestamp": 1752620224.169016,
+      "position": -0.7964589836177856,
+      "frequency": 1.0
+    },
+    {
+      "step": 798,
+      "timestamp": 1752620224.169024,
+      "position": -0.8024659857799719,
+      "frequency": 1.0
+    },
+    {
+      "step": 799,
+      "timestamp": 1752620224.1690319,
+      "position": -0.8083927420122996,
+      "frequency": 1.0
+    },
+    {
+      "step": 800,
+      "timestamp": 1752620224.1690462,
+      "position": -0.8142386596440845,
+      "frequency": 1.0
+    },
+    {
+      "step": 801,
+      "timestamp": 1752620224.1690547,
+      "position": -0.8200031540884349,
+      "frequency": 1.0
+    },
+    {
+      "step": 802,
+      "timestamp": 1752620224.1690876,
+      "position": -0.8256856489007103,
+      "frequency": 1.0
+    },
+    {
+      "step": 803,
+      "timestamp": 1752620224.1690962,
+      "position": -0.8312855758361646,
+      "frequency": 1.0
+    },
+    {
+      "step": 804,
+      "timestamp": 1752620224.1691043,
+      "position": -0.836802374906771,
+      "frequency": 1.0
+    },
+    {
+      "step": 805,
+      "timestamp": 1752620224.169113,
+      "position": -0.8422354944372197,
+      "frequency": 1.0
+    },
+    {
+      "step": 806,
+      "timestamp": 1752620224.169121,
+      "position": -0.8475843911200851,
+      "frequency": 1.0
+    },
+    {
+      "step": 807,
+      "timestamp": 1752620224.169129,
+      "position": -0.8528485300701565,
+      "frequency": 1.0
+    },
+    {
+      "step": 808,
+      "timestamp": 1752620224.1691372,
+      "position": -0.8580273848779256,
+      "frequency": 1.0
+    },
+    {
+      "step": 809,
+      "timestamp": 1752620224.1691453,
+      "position": -0.8631204376622275,
+      "frequency": 1.0
+    },
+    {
+      "step": 810,
+      "timestamp": 1752620224.1691532,
+      "position": -0.8681271791220277,
+      "frequency": 1.0
+    },
+    {
+      "step": 811,
+      "timestamp": 1752620224.1691613,
+      "position": -0.8730471085873528,
+      "frequency": 1.0
+    },
+    {
+      "step": 812,
+      "timestamp": 1752620224.1691694,
+      "position": -0.8778797340693558,
+      "frequency": 1.0
+    },
+    {
+      "step": 813,
+      "timestamp": 1752620224.1691778,
+      "position": -0.8826245723095159,
+      "frequency": 1.0
+    },
+    {
+      "step": 814,
+      "timestamp": 1752620224.1691859,
+      "position": -0.8872811488279628,
+      "frequency": 1.0
+    },
+    {
+      "step": 815,
+      "timestamp": 1752620224.169194,
+      "position": -0.8918489979709254,
+      "frequency": 1.0
+    },
+    {
+      "step": 816,
+      "timestamp": 1752620224.1692019,
+      "position": -0.8963276629572958,
+      "frequency": 1.0
+    },
+    {
+      "step": 817,
+      "timestamp": 1752620224.1692102,
+      "position": -0.9007166959243076,
+      "frequency": 1.0
+    },
+    {
+      "step": 818,
+      "timestamp": 1752620224.169218,
+      "position": -0.9050156579723216,
+      "frequency": 1.0
+    },
+    {
+      "step": 819,
+      "timestamp": 1752620224.1692262,
+      "position": -0.9092241192087156,
+      "frequency": 1.0
+    },
+    {
+      "step": 820,
+      "timestamp": 1752620224.1692345,
+      "position": -0.9133416587908729,
+      "frequency": 1.0
+    },
+    {
+      "step": 821,
+      "timestamp": 1752620224.1692424,
+      "position": -0.9173678649682666,
+      "frequency": 1.0
+    },
+    {
+      "step": 822,
+      "timestamp": 1752620224.1692505,
+      "position": -0.921302335123634,
+      "frequency": 1.0
+    },
+    {
+      "step": 823,
+      "timestamp": 1752620224.169261,
+      "position": -0.9251446758132384,
+      "frequency": 1.0
+    },
+    {
+      "step": 824,
+      "timestamp": 1752620224.1692696,
+      "position": -0.9288945028062128,
+      "frequency": 1.0
+    },
+    {
+      "step": 825,
+      "timestamp": 1752620224.1692777,
+      "position": -0.9325514411229827,
+      "frequency": 1.0
+    },
+    {
+      "step": 826,
+      "timestamp": 1752620224.1692858,
+      "position": -0.936115125072764,
+      "frequency": 1.0
+    },
+    {
+      "step": 827,
+      "timestamp": 1752620224.1692939,
+      "position": -0.9395851982901313,
+      "frequency": 1.0
+    },
+    {
+      "step": 828,
+      "timestamp": 1752620224.169302,
+      "position": -0.9429613137706547,
+      "frequency": 1.0
+    },
+    {
+      "step": 829,
+      "timestamp": 1752620224.1693099,
+      "position": -0.9462431339055994,
+      "frequency": 1.0
+    },
+    {
+      "step": 830,
+      "timestamp": 1752620224.1693182,
+      "position": -0.9494303305156868,
+      "frequency": 1.0
+    },
+    {
+      "step": 831,
+      "timestamp": 1752620224.169326,
+      "position": -0.9525225848839118,
+      "frequency": 1.0
+    },
+    {
+      "step": 832,
+      "timestamp": 1752620224.1693342,
+      "position": -0.9555195877874145,
+      "frequency": 1.0
+    },
+    {
+      "step": 833,
+      "timestamp": 1752620224.1693425,
+      "position": -0.9584210395284021,
+      "frequency": 1.0
+    },
+    {
+      "step": 834,
+      "timestamp": 1752620224.1693506,
+      "position": -0.9612266499641182,
+      "frequency": 1.0
+    },
+    {
+      "step": 835,
+      "timestamp": 1752620224.169361,
+      "position": -0.9639361385358574,
+      "frequency": 1.0
+    },
+    {
+      "step": 836,
+      "timestamp": 1752620224.1693697,
+      "position": -0.9665492342970203,
+      "frequency": 1.0
+    },
+    {
+      "step": 837,
+      "timestamp": 1752620224.1693888,
+      "position": -0.9690656759402085,
+      "frequency": 1.0
+    },
+    {
+      "step": 838,
+      "timestamp": 1752620224.1693966,
+      "position": -0.9714852118233548,
+      "frequency": 1.0
+    },
+    {
+      "step": 839,
+      "timestamp": 1752620224.1694047,
+      "position": -0.973807599994887,
+      "frequency": 1.0
+    },
+    {
+      "step": 840,
+      "timestamp": 1752620224.1694124,
+      "position": -0.9760326082179234,
+      "frequency": 1.0
+    },
+    {
+      "step": 841,
+      "timestamp": 1752620224.1694205,
+      "position": -0.9781600139934958,
+      "frequency": 1.0
+    },
+    {
+      "step": 842,
+      "timestamp": 1752620224.169428,
+      "position": -0.9801896045827996,
+      "frequency": 1.0
+    },
+    {
+      "step": 843,
+      "timestamp": 1752620224.1694362,
+      "position": -0.982121177028467,
+      "frequency": 1.0
+    },
+    {
+      "step": 844,
+      "timestamp": 1752620224.1694481,
+      "position": -0.9839545381748631,
+      "frequency": 1.0
+    },
+    {
+      "step": 845,
+      "timestamp": 1752620224.1694567,
+      "position": -0.985689504687401,
+      "frequency": 1.0
+    },
+    {
+      "step": 846,
+      "timestamp": 1752620224.1694672,
+      "position": -0.9873259030708754,
+      "frequency": 1.0
+    },
+    {
+      "step": 847,
+      "timestamp": 1752620224.1694753,
+      "position": -0.9888635696868115,
+      "frequency": 1.0
+    },
+    {
+      "step": 848,
+      "timestamp": 1752620224.1694834,
+      "position": -0.9903023507698292,
+      "frequency": 1.0
+    },
+    {
+      "step": 849,
+      "timestamp": 1752620224.1694913,
+      "position": -0.9916421024430191,
+      "frequency": 1.0
+    },
+    {
+      "step": 850,
+      "timestamp": 1752620224.1694992,
+      "position": -0.9928826907323303,
+      "frequency": 1.0
+    },
+    {
+      "step": 851,
+      "timestamp": 1752620224.169507,
+      "position": -0.9940239915799676,
+      "frequency": 1.0
+    },
+    {
+      "step": 852,
+      "timestamp": 1752620224.169515,
+      "position": -0.9950658908567973,
+      "frequency": 1.0
+    },
+    {
+      "step": 853,
+      "timestamp": 1752620224.1695228,
+      "position": -0.9960082843737601,
+      "frequency": 1.0
+    },
+    {
+      "step": 854,
+      "timestamp": 1752620224.1695306,
+      "position": -0.9968510778922897,
+      "frequency": 1.0
+    },
+    {
+      "step": 855,
+      "timestamp": 1752620224.1695383,
+      "position": -0.9975941871337364,
+      "frequency": 1.0
+    },
+    {
+      "step": 856,
+      "timestamp": 1752620224.1695461,
+      "position": -0.9982375377877954,
+      "frequency": 1.0
+    },
+    {
+      "step": 857,
+      "timestamp": 1752620224.169554,
+      "position": -0.9987810655199376,
+      "frequency": 1.0
+    },
+    {
+      "step": 858,
+      "timestamp": 1752620224.1695619,
+      "position": -0.9992247159778425,
+      "frequency": 1.0
+    },
+    {
+      "step": 859,
+      "timestamp": 1752620224.1695695,
+      "position": -0.999568444796834,
+      "frequency": 1.0
+    },
+    {
+      "step": 860,
+      "timestamp": 1752620224.1695774,
+      "position": -0.9998122176043169,
+      "frequency": 1.0
+    },
+    {
+      "step": 861,
+      "timestamp": 1752620224.1695857,
+      "position": -0.9999560100232134,
+      "frequency": 1.0
+    },
+    {
+      "step": 862,
+      "timestamp": 1752620224.1695933,
+      "position": -0.9999998076744014,
+      "frequency": 1.0
+    },
+    {
+      "step": 863,
+      "timestamp": 1752620224.1696012,
+      "position": -0.9999436061781524,
+      "frequency": 1.0
+    },
+    {
+      "step": 864,
+      "timestamp": 1752620224.169609,
+      "position": -0.999787411154569,
+      "frequency": 1.0
+    },
+    {
+      "step": 865,
+      "timestamp": 1752620224.1696172,
+      "position": -0.9995312382230237,
+      "frequency": 1.0
+    },
+    {
+      "step": 866,
+      "timestamp": 1752620224.1696248,
+      "position": -0.9991751130005959,
+      "frequency": 1.0
+    },
+    {
+      "step": 867,
+      "timestamp": 1752620224.1696327,
+      "position": -0.9987190710995113,
+      "frequency": 1.0
+    },
+    {
+      "step": 868,
+      "timestamp": 1752620224.1696408,
+      "position": -0.9981631581235799,
+      "frequency": 1.0
+    },
+    {
+      "step": 869,
+      "timestamp": 1752620224.169651,
+      "position": -0.9975074296636359,
+      "frequency": 1.0
+    },
+    {
+      "step": 870,
+      "timestamp": 1752620224.1696591,
+      "position": -0.9967519512919789,
+      "frequency": 1.0
+    },
+    {
+      "step": 871,
+      "timestamp": 1752620224.1696672,
+      "position": -0.9958967985558165,
+      "frequency": 1.0
+    },
+    {
+      "step": 872,
+      "timestamp": 1752620224.1696754,
+      "position": -0.9949420569697096,
+      "frequency": 1.0
+    },
+    {
+      "step": 873,
+      "timestamp": 1752620224.169683,
+      "position": -0.9938878220070213,
+      "frequency": 1.0
+    },
+    {
+      "step": 874,
+      "timestamp": 1752620224.1696908,
+      "position": -0.9927341990903693,
+      "frequency": 1.0
+    },
+    {
+      "step": 875,
+      "timestamp": 1752620224.1696985,
+      "position": -0.9914813035810839,
+      "frequency": 1.0
+    },
+    {
+      "step": 876,
+      "timestamp": 1752620224.1697066,
+      "position": -0.9901292607676719,
+      "frequency": 1.0
+    },
+    {
+      "step": 877,
+      "timestamp": 1752620224.1697145,
+      "position": -0.9886782058532881,
+      "frequency": 1.0
+    },
+    {
+      "step": 878,
+      "timestamp": 1752620224.1697223,
+      "position": -0.9871282839422146,
+      "frequency": 1.0
+    },
+    {
+      "step": 879,
+      "timestamp": 1752620224.1697302,
+      "position": -0.9854796500253511,
+      "frequency": 1.0
+    },
+    {
+      "step": 880,
+      "timestamp": 1752620224.1697383,
+      "position": -0.9837324689647153,
+      "frequency": 1.0
+    },
+    {
+      "step": 881,
+      "timestamp": 1752620224.1697462,
+      "position": -0.9818869154769574,
+      "frequency": 1.0
+    },
+    {
+      "step": 882,
+      "timestamp": 1752620224.1697538,
+      "position": -0.9799431741158882,
+      "frequency": 1.0
+    },
+    {
+      "step": 883,
+      "timestamp": 1752620224.169762,
+      "position": -0.977901439254024,
+      "frequency": 1.0
+    },
+    {
+      "step": 884,
+      "timestamp": 1752620224.1697698,
+      "position": -0.9757619150631494,
+      "frequency": 1.0
+    },
+    {
+      "step": 885,
+      "timestamp": 1752620224.1697774,
+      "position": -0.9735248154939007,
+      "frequency": 1.0
+    },
+    {
+      "step": 886,
+      "timestamp": 1752620224.1697876,
+      "position": -0.9711903642543707,
+      "frequency": 1.0
+    },
+    {
+      "step": 887,
+      "timestamp": 1752620224.1697965,
+      "position": -0.9687587947877379,
+      "frequency": 1.0
+    },
+    {
+      "step": 888,
+      "timestamp": 1752620224.1698043,
+      "position": -0.9662303502489225,
+      "frequency": 1.0
+    },
+    {
+      "step": 889,
+      "timestamp": 1752620224.1698117,
+      "position": -0.9636052834802713,
+      "frequency": 1.0
+    },
+    {
+      "step": 890,
+      "timestamp": 1752620224.1698189,
+      "position": -0.9608838569862739,
+      "frequency": 1.0
+    },
+    {
+      "step": 891,
+      "timestamp": 1752620224.169827,
+      "position": -0.9580663429073117,
+      "frequency": 1.0
+    },
+    {
+      "step": 892,
+      "timestamp": 1752620224.1698375,
+      "position": -0.9551530229924448,
+      "frequency": 1.0
+    },
+    {
+      "step": 893,
+      "timestamp": 1752620224.1698453,
+      "position": -0.9521441885712367,
+      "frequency": 1.0
+    },
+    {
+      "step": 894,
+      "timestamp": 1752620224.1698525,
+      "position": -0.9490401405246225,
+      "frequency": 1.0
+    },
+    {
+      "step": 895,
+      "timestamp": 1752620224.1698596,
+      "position": -0.94584118925482,
+      "frequency": 1.0
+    },
+    {
+      "step": 896,
+      "timestamp": 1752620224.169867,
+      "position": -0.9425476546542904,
+      "frequency": 1.0
+    },
+    {
+      "step": 897,
+      "timestamp": 1752620224.169874,
+      "position": -0.939159866073749,
+      "frequency": 1.0
+    },
+    {
+      "step": 898,
+      "timestamp": 1752620224.1698842,
+      "position": -0.935678162289231,
+      "frequency": 1.0
+    },
+    {
+      "step": 899,
+      "timestamp": 1752620224.1698933,
+      "position": -0.9321028914682132,
+      "frequency": 1.0
+    },
+    {
+      "step": 900,
+      "timestamp": 1752620224.169905,
+      "position": -0.9284344111347984,
+      "frequency": 1.0
+    },
+    {
+      "step": 901,
+      "timestamp": 1752620224.1699128,
+      "position": -0.9246730881339629,
+      "frequency": 1.0
+    },
+    {
+      "step": 902,
+      "timestamp": 1752620224.169921,
+      "position": -0.9208192985948722,
+      "frequency": 1.0
+    },
+    {
+      "step": 903,
+      "timestamp": 1752620224.169929,
+      "position": -0.9168734278932689,
+      "frequency": 1.0
+    },
+    {
+      "step": 904,
+      "timestamp": 1752620224.1699371,
+      "position": -0.9128358706129347,
+      "frequency": 1.0
+    },
+    {
+      "step": 905,
+      "timestamp": 1752620224.169945,
+      "position": -0.9087070305062332,
+      "frequency": 1.0
+    },
+    {
+      "step": 906,
+      "timestamp": 1752620224.169953,
+      "position": -0.9044873204537345,
+      "frequency": 1.0
+    },
+    {
+      "step": 907,
+      "timestamp": 1752620224.169961,
+      "position": -0.9001771624229273,
+      "frequency": 1.0
+    },
+    {
+      "step": 908,
+      "timestamp": 1752620224.1699688,
+      "position": -0.8957769874260231,
+      "frequency": 1.0
+    },
+    {
+      "step": 909,
+      "timestamp": 1752620224.169977,
+      "position": -0.8912872354768546,
+      "frequency": 1.0
+    },
+    {
+      "step": 910,
+      "timestamp": 1752620224.169985,
+      "position": -0.8867083555468753,
+      "frequency": 1.0
+    },
+    {
+      "step": 911,
+      "timestamp": 1752620224.169993,
+      "position": -0.8820408055202624,
+      "frequency": 1.0
+    },
+    {
+      "step": 912,
+      "timestamp": 1752620224.1700008,
+      "position": -0.877285052148129,
+      "frequency": 1.0
+    },
+    {
+      "step": 913,
+      "timestamp": 1752620224.170009,
+      "position": -0.8724415710018492,
+      "frequency": 1.0
+    },
+    {
+      "step": 914,
+      "timestamp": 1752620224.1700168,
+      "position": -0.8675108464255012,
+      "frequency": 1.0
+    },
+    {
+      "step": 915,
+      "timestamp": 1752620224.1700273,
+      "position": -0.8624933714874341,
+      "frequency": 1.0
+    },
+    {
+      "step": 916,
+      "timestamp": 1752620224.1700354,
+      "position": -0.8573896479309602,
+      "frequency": 1.0
+    },
+    {
+      "step": 917,
+      "timestamp": 1752620224.1700437,
+      "position": -0.8522001861241821,
+      "frequency": 1.0
+    },
+    {
+      "step": 918,
+      "timestamp": 1752620224.1700518,
+      "position": -0.8469255050089561,
+      "frequency": 1.0
+    },
+    {
+      "step": 919,
+      "timestamp": 1752620224.1700597,
+      "position": -0.8415661320489982,
+      "frequency": 1.0
+    },
+    {
+      "step": 920,
+      "timestamp": 1752620224.1700678,
+      "position": -0.836122603177138,
+      "frequency": 1.0
+    },
+    {
+      "step": 921,
+      "timestamp": 1752620224.1700757,
+      "position": -0.8305954627417267,
+      "frequency": 1.0
+    },
+    {
+      "step": 922,
+      "timestamp": 1752620224.1700835,
+      "position": -0.8249852634522017,
+      "frequency": 1.0
+    },
+    {
+      "step": 923,
+      "timestamp": 1752620224.1700916,
+      "position": -0.8192925663238169,
+      "frequency": 1.0
+    },
+    {
+      "step": 924,
+      "timestamp": 1752620224.1700995,
+      "position": -0.8135179406215411,
+      "frequency": 1.0
+    },
+    {
+      "step": 925,
+      "timestamp": 1752620224.1701074,
+      "position": -0.8076619638031326,
+      "frequency": 1.0
+    },
+    {
+      "step": 926,
+      "timestamp": 1752620224.1701152,
+      "position": -0.801725221461393,
+      "frequency": 1.0
+    },
+    {
+      "step": 927,
+      "timestamp": 1752620224.1701233,
+      "position": -0.7957083072656095,
+      "frequency": 1.0
+    },
+    {
+      "step": 928,
+      "timestamp": 1752620224.1701336,
+      "position": -0.7896118229021873,
+      "frequency": 1.0
+    },
+    {
+      "step": 929,
+      "timestamp": 1752620224.1701422,
+      "position": -0.7834363780144826,
+      "frequency": 1.0
+    },
+    {
+      "step": 930,
+      "timestamp": 1752620224.1701505,
+      "position": -0.7771825901418379,
+      "frequency": 1.0
+    },
+    {
+      "step": 931,
+      "timestamp": 1752620224.1701584,
+      "position": -0.7708510846578289,
+      "frequency": 1.0
+    },
+    {
+      "step": 932,
+      "timestamp": 1752620224.1701663,
+      "position": -0.764442494707728,
+      "frequency": 1.0
+    },
+    {
+      "step": 933,
+      "timestamp": 1752620224.1701741,
+      "position": -0.7579574611451896,
+      "frequency": 1.0
+    },
+    {
+      "step": 934,
+      "timestamp": 1752620224.1701825,
+      "position": -0.7513966324681658,
+      "frequency": 1.0
+    },
+    {
+      "step": 935,
+      "timestamp": 1752620224.1701903,
+      "position": -0.744760664754057,
+      "frequency": 1.0
+    },
+    {
+      "step": 936,
+      "timestamp": 1752620224.1701982,
+      "position": -0.7380502215941045,
+      "frequency": 1.0
+    },
+    {
+      "step": 937,
+      "timestamp": 1752620224.1702063,
+      "position": -0.7312659740270324,
+      "frequency": 1.0
+    },
+    {
+      "step": 938,
+      "timestamp": 1752620224.1702166,
+      "position": -0.7244086004719439,
+      "frequency": 1.0
+    },
+    {
+      "step": 939,
+      "timestamp": 1752620224.170225,
+      "position": -0.7174787866604799,
+      "frequency": 1.0
+    },
+    {
+      "step": 940,
+      "timestamp": 1752620224.170233,
+      "position": -0.710477225568247,
+      "frequency": 1.0
+    },
+    {
+      "step": 941,
+      "timestamp": 1752620224.170241,
+      "position": -0.7034046173455195,
+      "frequency": 1.0
+    },
+    {
+      "step": 942,
+      "timestamp": 1752620224.170249,
+      "position": -0.6962616692472261,
+      "frequency": 1.0
+    },
+    {
+      "step": 943,
+      "timestamp": 1752620224.170257,
+      "position": -0.6890490955622242,
+      "frequency": 1.0
+    },
+    {
+      "step": 944,
+      "timestamp": 1752620224.1702652,
+      "position": -0.6817676175418717,
+      "frequency": 1.0
+    },
+    {
+      "step": 945,
+      "timestamp": 1752620224.170273,
+      "position": -0.6744179633279028,
+      "frequency": 1.0
+    },
+    {
+      "step": 946,
+      "timestamp": 1752620224.1702812,
+      "position": -0.6670008678796142,
+      "frequency": 1.0
+    },
+    {
+      "step": 947,
+      "timestamp": 1752620224.1702888,
+      "position": -0.6595170729003699,
+      "frequency": 1.0
+    },
+    {
+      "step": 948,
+      "timestamp": 1752620224.170297,
+      "position": -0.6519673267634312,
+      "frequency": 1.0
+    },
+    {
+      "step": 949,
+      "timestamp": 1752620224.1703048,
+      "position": -0.6443523844371204,
+      "frequency": 1.0
+    },
+    {
+      "step": 950,
+      "timestamp": 1752620224.170313,
+      "position": -0.6366730074093245,
+      "frequency": 1.0
+    },
+    {
+      "step": 951,
+      "timestamp": 1752620224.170321,
+      "position": -0.6289299636113468,
+      "frequency": 1.0
+    },
+    {
+      "step": 952,
+      "timestamp": 1752620224.1703289,
+      "position": -0.6211240273411145,
+      "frequency": 1.0
+    },
+    {
+      "step": 953,
+      "timestamp": 1752620224.1703367,
+      "position": -0.6132559791857497,
+      "frequency": 1.0
+    },
+    {
+      "step": 954,
+      "timestamp": 1752620224.1703446,
+      "position": -0.6053266059435112,
+      "frequency": 1.0
+    },
+    {
+      "step": 955,
+      "timestamp": 1752620224.1703527,
+      "position": -0.5973367005451153,
+      "frequency": 1.0
+    },
+    {
+      "step": 956,
+      "timestamp": 1752620224.1703722,
+      "position": -0.5892870619744439,
+      "frequency": 1.0
+    },
+    {
+      "step": 957,
+      "timestamp": 1752620224.1703806,
+      "position": -0.5811784951886458,
+      "frequency": 1.0
+    },
+    {
+      "step": 958,
+      "timestamp": 1752620224.1703887,
+      "position": -0.5730118110376428,
+      "frequency": 1.0
+    },
+    {
+      "step": 959,
+      "timestamp": 1752620224.1703966,
+      "position": -0.5647878261830441,
+      "frequency": 1.0
+    },
+    {
+      "step": 960,
+      "timestamp": 1752620224.170405,
+      "position": -0.5565073630164821,
+      "frequency": 1.0
+    },
+    {
+      "step": 961,
+      "timestamp": 1752620224.1704159,
+      "position": -0.548171249577373,
+      "frequency": 1.0
+    },
+    {
+      "step": 962,
+      "timestamp": 1752620224.1704268,
+      "position": -0.5397803194701138,
+      "frequency": 1.0
+    },
+    {
+      "step": 963,
+      "timestamp": 1752620224.1704354,
+      "position": -0.5313354117807232,
+      "frequency": 1.0
+    },
+    {
+      "step": 964,
+      "timestamp": 1752620224.1704433,
+      "position": -0.5228373709929324,
+      "frequency": 1.0
+    },
+    {
+      "step": 965,
+      "timestamp": 1752620224.1704514,
+      "position": -0.5142870469037386,
+      "frequency": 1.0
+    },
+    {
+      "step": 966,
+      "timestamp": 1752620224.1704597,
+      "position": -0.5056852945384256,
+      "frequency": 1.0
+    },
+    {
+      "step": 967,
+      "timestamp": 1752620224.1704679,
+      "position": -0.49703297406506164,
+      "frequency": 1.0
+    },
+    {
+      "step": 968,
+      "timestamp": 1752620224.170476,
+      "position": -0.488330950708484,
+      "frequency": 1.0
+    },
+    {
+      "step": 969,
+      "timestamp": 1752620224.1704843,
+      "position": -0.4795800946637766,
+      "frequency": 1.0
+    },
+    {
+      "step": 970,
+      "timestamp": 1752620224.1704948,
+      "position": -0.47078128100925154,
+      "frequency": 1.0
+    },
+    {
+      "step": 971,
+      "timestamp": 1752620224.1705146,
+      "position": -0.461935389618942,
+      "frequency": 1.0
+    },
+    {
+      "step": 972,
+      "timestamp": 1752620224.1705234,
+      "position": -0.45304330507461543,
+      "frequency": 1.0
+    },
+    {
+      "step": 973,
+      "timestamp": 1752620224.170532,
+      "position": -0.44410591657731624,
+      "frequency": 1.0
+    },
+    {
+      "step": 974,
+      "timestamp": 1752620224.1705406,
+      "position": -0.4351241178584463,
+      "frequency": 1.0
+    },
+    {
+      "step": 975,
+      "timestamp": 1752620224.170549,
+      "position": -0.4260988070903927,
+      "frequency": 1.0
+    },
+    {
+      "step": 976,
+      "timestamp": 1752620224.1705575,
+      "position": -0.4170308867967113,
+      "frequency": 1.0
+    },
+    {
+      "step": 977,
+      "timestamp": 1752620224.1705658,
+      "position": -0.40792126376187476,
+      "frequency": 1.0
+    },
+    {
+      "step": 978,
+      "timestamp": 1752620224.1705742,
+      "position": -0.39877084894059533,
+      "frequency": 1.0
+    },
+    {
+      "step": 979,
+      "timestamp": 1752620224.1705825,
+      "position": -0.3895805573667298,
+      "frequency": 1.0
+    },
+    {
+      "step": 980,
+      "timestamp": 1752620224.1705909,
+      "position": -0.38035130806177697,
+      "frequency": 1.0
+    },
+    {
+      "step": 981,
+      "timestamp": 1752620224.1705995,
+      "position": -0.37108402394297635,
+      "frequency": 1.0
+    },
+    {
+      "step": 982,
+      "timestamp": 1752620224.1706078,
+      "position": -0.3617796317310171,
+      "frequency": 1.0
+    },
+    {
+      "step": 983,
+      "timestamp": 1752620224.1706164,
+      "position": -0.35243906185736684,
+      "frequency": 1.0
+    },
+    {
+      "step": 984,
+      "timestamp": 1752620224.1706274,
+      "position": -0.34306324837122903,
+      "frequency": 1.0
+    },
+    {
+      "step": 985,
+      "timestamp": 1752620224.170636,
+      "position": -0.3336531288461392,
+      "frequency": 1.0
+    },
+    {
+      "step": 986,
+      "timestamp": 1752620224.1706445,
+      "position": -0.324209644286208,
+      "frequency": 1.0
+    },
+    {
+      "step": 987,
+      "timestamp": 1752620224.1706529,
+      "position": -0.31473373903202206,
+      "frequency": 1.0
+    },
+    {
+      "step": 988,
+      "timestamp": 1752620224.1706614,
+      "position": -0.3052263606662101,
+      "frequency": 1.0
+    },
+    {
+      "step": 989,
+      "timestamp": 1752620224.1706696,
+      "position": -0.295688459918686,
+      "frequency": 1.0
+    },
+    {
+      "step": 990,
+      "timestamp": 1752620224.1706784,
+      "position": -0.28612099057157614,
+      "frequency": 1.0
+    },
+    {
+      "step": 991,
+      "timestamp": 1752620224.1706867,
+      "position": -0.27652490936384255,
+      "frequency": 1.0
+    },
+    {
+      "step": 992,
+      "timestamp": 1752620224.170695,
+      "position": -0.26690117589560924,
+      "frequency": 1.0
+    },
+    {
+      "step": 993,
+      "timestamp": 1752620224.1707036,
+      "position": -0.2572507525322033,
+      "frequency": 1.0
+    },
+    {
+      "step": 994,
+      "timestamp": 1752620224.170712,
+      "position": -0.2475746043079191,
+      "frequency": 1.0
+    },
+    {
+      "step": 995,
+      "timestamp": 1752620224.1707208,
+      "position": -0.2378736988295156,
+      "frequency": 1.0
+    },
+    {
+      "step": 996,
+      "timestamp": 1752620224.1707292,
+      "position": -0.22814900617945655,
+      "frequency": 1.0
+    },
+    {
+      "step": 997,
+      "timestamp": 1752620224.1707377,
+      "position": -0.21840149881890308,
+      "frequency": 1.0
+    },
+    {
+      "step": 998,
+      "timestamp": 1752620224.170746,
+      "position": -0.20863215149046838,
+      "frequency": 1.0
+    },
+    {
+      "step": 999,
+      "timestamp": 1752620224.1707547,
+      "position": -0.19884194112074416,
+      "frequency": 1.0
+    }
+  ]
+}
