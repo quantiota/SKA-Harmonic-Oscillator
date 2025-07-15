@@ -21,3 +21,36 @@ These papers provide:
 
 They are used here to generate the real-time input stream $\large x_n$ for the SKA learner.
 
+## Files Included
+
+- **`harmonic_oscillator.py`**  
+  Python script that generates real-time harmonic oscillator data using exact discretization. It produces both:
+  - a time series plot (`harmonic_oscillator.png`)
+  - a structured JSON output file for downstream SKA processing
+
+- **`harmonic_oscillator.png`**  
+  Visualization comparing the exact discrete trajectory $\large x_n$ with the continuous analytical solution $\large x(t)$.
+
+- **`ska_harmonic_data_*.json`**  
+  Automatically generated JSON file containing timestamped $x_n$ values for SKA input.
+
+
+## Usage
+
+Run the script to generate data:
+
+```bash
+python harmonic_oscillator.py
+```
+
+This will:
+
+Print and stream $\large x_n$ values to the console
+
+Save a .json file with metadata and data
+
+Save a .png figure for visual inspection
+
+# Example plot
+
+![harmonic_oscillator](harmonic_oscillator.png)
