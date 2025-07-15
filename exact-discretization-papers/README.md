@@ -51,6 +51,6 @@ Save a .json file with metadata and data
 
 Save a .png figure for visual inspection
 
-# Example plot
+## Example plot
 
 ![harmonic_oscillator](harmonic_oscillator.png)
