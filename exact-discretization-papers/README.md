@@ -19,5 +19,5 @@ These papers provide:
 - Exact formulas for damped and driven oscillators
 - A clean benchmark for testing entropy learning in the SKA framework
 
-They are used here to generate the real-time input stream $x_n$ for the SKA learner.
+They are used here to generate the real-time input stream $\large x_n$ for the SKA learner.
 
