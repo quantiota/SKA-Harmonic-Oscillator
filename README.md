@@ -28,8 +28,8 @@ This project builds on two key mathematical papers:
   Introduces *exact discretizations* of the harmonic oscillator including:
 
 
-  $$x_{n+2} - 2 \cos(\varepsilon) x_{n+1} + x_n = 0$$
-  
+  $$\large x_{n+2} - 2 \cos(\varepsilon) x_{n+1} + x_n = 0$$
+
 
 - **Cieśliński (2009)** – [arXiv:0911.3672](https://arxiv.org/abs/0911.3672)  
   Extends to damped, driven, and multidimensional oscillators with energy-preserving and symplectic discretizations
