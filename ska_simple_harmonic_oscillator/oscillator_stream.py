@@ -290,8 +290,8 @@ def continuous_stream():
     print("=" * 60)
     
     # Parameters
-    omega = 0.01      # Angular frequency (rad/s)
-    epsilon = 0.01   # Time step (s)
+    omega = 0.1      # Angular frequency (rad/s)
+    epsilon = 0.1   # Time step (s)
     x0 = 1.0         # Initial position
     v0 = 0.0         # Initial velocity
     phi = np.pi/4    # Phase (radians)
@@ -308,7 +308,7 @@ def continuous_stream():
     
     try:
         step = 0
-        for timestamp, position in stream.get_infinite_stream_with_timestamps():
+        for timestamp, position in stream.get_real_time_stream():
             print(f"{step:6d}, {timestamp:.6f}, {position:12.8f}")
             step += 1
             
