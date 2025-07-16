@@ -308,7 +308,7 @@ def continuous_stream():
     
     try:
         step = 0
-        for timestamp, position in stream.get_real_time_stream():
+        for timestamp, position in stream.get_real_time_stream_with_timestamps():
             print(f"{step:6d}, {timestamp:.6f}, {position:12.8f}")
             step += 1
             
