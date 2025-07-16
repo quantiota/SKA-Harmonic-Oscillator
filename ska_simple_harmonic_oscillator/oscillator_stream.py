@@ -144,22 +144,19 @@ class HarmonicOscillatorStream:
         while True:
             yield self.next_position_with_timestamp()
     
-    def get_real_time_stream(self, pacing_interval: float = None) -> Generator[Tuple[float, float], None, None]:
+    def get_infinite_stream_with_discrete_time(self) -> Generator[Tuple[float, float], None, None]:
         """
-        Generate real-time position stream with timestamps and custom pacing interval
+        Generate infinite stream of (discrete_time, position) pairs
         
-        Args:
-            pacing_interval: Time between output points (seconds, defaults to epsilon)
-            
         Yields:
-            Tuple[float, float]: (timestamp, position) pairs with real-time delays
+            Tuple[float, float]: (t_n, x_n) pairs where t_n = n*epsilon (infinite)
         """
-        pacing_interval = pacing_interval if pacing_interval is not None else self.epsilon
-        
+        step = 0
         while True:
-            timestamp, position = self.next_position_with_timestamp()
-            yield timestamp, position
-            time.sleep(pacing_interval)
+            t_n = step * self.epsilon
+            x_n = self.next_position()
+            yield t_n, x_n
+            step += 1
     
     def get_batch(self, num_steps: int) -> np.ndarray:
         """
@@ -248,55 +245,63 @@ def demo_ska_integration():
 
 def continuous_stream():
     """Run continuous data stream for SKA learning"""
-    print("SKA Harmonic Oscillator - Continuous Data Stream with Timestamps")
-    print("Exact discretization: x_{n+1} - 2cos(ωε)x_n + x_{n-1} = 0")
+    print("SKA Harmonic Oscillator - Physics Real-Time Stream")
+    print("Real time = mathematical time of oscillator")
     print("=" * 60)
     
     # Parameters
     omega = 0.1      # Angular frequency (rad/s)
-    epsilon = 0.01   # Discretization time step (s)
     x0 = 1.0         # Initial position
     v0 = 0.0         # Initial velocity
     phi = np.pi/4    # Phase (radians)
-    pacing_interval = 0.1  # Output pacing (s)
     
     print(f"ω = {omega} rad/s (period ≈ {2*np.pi/omega:.3f} s)")
-    print(f"ε = {epsilon} s")
-    print(f"Pacing interval = {pacing_interval:.6f} s")
     print(f"Initial: x₀ = {x0}, v₀ = {v0}, φ = {phi:.3f} rad ({phi*180/np.pi:.1f}°)")
-    print("\nStreaming positions with timestamps (press Ctrl+C to stop)...")
-    print("Format: step_n, timestamp, position_x_n")
+    print("\nPhysics real-time stream (press Ctrl+C to stop)...")
+    print("Format: step, timestamp, elapsed_time, position")
     print("-" * 50)
     
-    # Create oscillator stream
-    stream = HarmonicOscillatorStream(omega=omega, epsilon=epsilon, x0=x0, v0=v0, phi=phi)
+    start_time = time.time()
+    step = 0
     
     try:
-        step = 0
-        for timestamp, position in stream.get_real_time_stream(pacing_interval=pacing_interval):
-            print(f"{step:6d}, {timestamp:.6f}, {position:12.8f}")
+        while True:
+            # Current timestamp and elapsed time
+            timestamp = time.time()
+            elapsed_time = timestamp - start_time
+            
+            # Compute analytical position at current real time
+            position = x0 * np.cos(omega * elapsed_time + phi) + (v0 / omega) * np.sin(omega * elapsed_time + phi)
+            
+            print(f"{step:6d}, {timestamp:.6f}, {elapsed_time:8.3f}, {position:12.8f}")
             step += 1
+            time.sleep(0.1)  # Update every 100ms for reasonable display rate
+            
     except KeyboardInterrupt:
-        print(f"\nStream stopped at step {step}")
-        print("Final state:", stream.current_state)
+        elapsed_time = time.time() - start_time
+        cycles_completed = elapsed_time * omega / (2 * np.pi)
+        print(f"\nStopped after {elapsed_time:.1f} seconds")
+        print(f"Completed {cycles_completed:.2f} oscillation cycles")
 
 
-def real_time_demo():
-    """Real-time streaming demo with timestamps"""
-    print("Real-time SKA data stream with timestamps (press Ctrl+C to stop)")
+def discrete_time_demo():
+    """Discrete time streaming demo"""
+    print("SKA data stream with discrete time (press Ctrl+C to stop)")
     print("=" * 60)
     
     stream = HarmonicOscillatorStream(omega=2.0, epsilon=0.05, phi=np.pi/6)
     
     try:
-        for timestamp, position in stream.get_real_time_stream():
-            print(f"{timestamp:.6f}, {position:.6f}")
+        for discrete_time, position in stream.get_infinite_stream_with_discrete_time():
+            print(f"{discrete_time:.6f}, {position:.6f}")
+            if discrete_time > 5.0:  # Stop after 5 seconds of discrete time
+                break
     except KeyboardInterrupt:
-        print("\nReal-time stream stopped.")
+        print("\nDiscrete time stream stopped.")
 
 
 if __name__ == "__main__":
     continuous_stream()
     # Uncomment for other demos:
     # demo_ska_integration()
-    # real_time_demo()
+    # discrete_time_demo()
