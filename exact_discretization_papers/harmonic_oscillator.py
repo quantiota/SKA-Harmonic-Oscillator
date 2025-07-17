@@ -42,21 +42,23 @@ class SKAHarmonicOscillator:
         """
         One step of exact discretization
         Returns: (timestamp, position, frequency)
+        
+        Note: position represents x_n computed from x_{n-1} and x_{n-2}
         """
         # Exact discretization formula: x_{n+1} - 2cos(ωε)x_n + x_{n-1} = 0
         x_next = 2 * np.cos(self.omega * self.epsilon) * self.x_curr - self.x_prev
         
-        # Update for next iteration
+        # Update state FIRST
         self.x_prev = self.x_curr
         self.x_curr = x_next
         self.step_count += 1
         
-        # Generate output data
+        # Generate output data using current position (after update)
         timestamp = time.time()
-        amplitude = x_next  # Position x_n (oscillates +/-)
+        position = self.x_curr  # Current discrete position
         frequency = self.omega
         
-        return timestamp, amplitude, frequency
+        return timestamp, position, frequency
     
     def generate_stream(self, duration=None, num_steps=None):
         """
@@ -88,7 +90,7 @@ def main():
     print("=" * 50)
     
     # Parameters
-    omega = 1.0      # Angular frequency (rad/s)
+    omega = 1     # Angular frequency (rad/s)
     epsilon = 0.01   # Time step (s)
     x0 = 1.0         # Initial position
     v0 = 0.0         # Initial velocity
