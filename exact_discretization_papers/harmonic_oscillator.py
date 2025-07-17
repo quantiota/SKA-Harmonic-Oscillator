@@ -112,13 +112,13 @@ def main():
     data_points = []
     
     # Generate 1000 data points
-    for i, (timestamp, amplitude, frequency) in enumerate(oscillator.generate_stream(num_steps=1000)):
-        print(f"{timestamp:.6f}, {amplitude:.6f}, {frequency:.3f}")
+    for i, (timestamp, position, frequency) in enumerate(oscillator.generate_stream(num_steps=1000)):
+        print(f"{timestamp:.6f}, {position:.6f}, {frequency:.3f}")
         
         data_points.append({
             "step": i,
             "timestamp": timestamp,
-            "position": amplitude,  # x_n (oscillating position)
+            "position": position,  # x_n (discrete position)
             "frequency": frequency
         })
         
@@ -223,8 +223,8 @@ def real_time_demo():
     oscillator = SKAHarmonicOscillator(omega=2.0, epsilon=0.05, phi=np.pi/6)
     
     try:
-        for timestamp, amplitude, frequency in oscillator.generate_stream():
-            print(f"{timestamp:.6f}, {amplitude:.6f}, {frequency:.3f}")
+        for timestamp, position, frequency in oscillator.generate_stream():
+            print(f"{timestamp:.6f}, {position:.6f}, {frequency:.3f}")
     except KeyboardInterrupt:
         print("\nStream stopped.")
 
