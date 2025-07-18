@@ -43,7 +43,7 @@
 - SKA autonomously discovers periodic structure from entropy patterns
 - Enables real-time frequency extraction: ω = 2π / (entropy_period)
 
-** Universal Principle**
+**Universal Principle**
 - Pattern extends to any oscillatory system
 - Foundation for multi-mode and complex harmonic analysis
 - Bridge between classical mechanics and information theory
