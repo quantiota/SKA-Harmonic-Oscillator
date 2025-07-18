@@ -33,12 +33,12 @@
 
 ## Scientific Significance
 
-** Information Rhythm Discovery**
+**Information Rhythm Discovery**
 - First observation of intrinsic information structure in simple harmonic motion
 - Demonstrates that physical systems have natural "predictability windows"
 - Shows exact discretization preserves hidden entropy patterns
 
-**⚡ Real-Time Unsupervised Analysis**
+**Real-Time Unsupervised Analysis**
 - No prior knowledge of oscillation frequency required
 - SKA autonomously discovers periodic structure from entropy patterns
 - Enables real-time frequency extraction: ω = 2π / (entropy_period)
