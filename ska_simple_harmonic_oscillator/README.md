@@ -61,7 +61,7 @@ duration = 464       # Analysis time (s)
 # SKA Analysis
 method = "exact_discretization"  # Cieśliński & Ratkiewicz (2005)
 entropy_calculation = "continuous_approximation"
-sampling_rate = 1/epsilon  # 5 Hz
+sampling_rate = 1/epsilon  # 10 Hz
 ```
 
 ## Implications for Complex Systems
