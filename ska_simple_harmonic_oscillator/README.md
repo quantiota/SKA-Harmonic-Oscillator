@@ -21,6 +21,13 @@
 
 ## Key Discovery: Entropy-Position Correlation
 
+
+> **Discovery:**  
+
+> Entropy reaches a minimum at position extrema (±1) and peaks at zero-crossings.  
+> This shows a deep coupling between mechanical motion and information geometry.
+
+
 ### At Turning Points (Position = ±1):
 - **Velocity → 0**: Kinematic certainty
 - **Entropy → minimum**: Information predictability peak
