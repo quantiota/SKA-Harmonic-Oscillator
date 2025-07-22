@@ -58,6 +58,38 @@ The figure demonstrates that SKA entropy exhibits perfectly periodic minima and 
 - Foundation for multi-mode and complex harmonic analysis
 - Bridge between classical mechanics and information theory
 
+
+## Scientific Context & Literature Position
+
+### Novel Discovery
+
+While extensive literature exists on information-theoretic measures for harmonic oscillators, **all previous work focuses on:**
+
+* **Quantum mechanical systems:** Shannon entropy of quantum eigenstates
+* **Thermodynamic equilibrium:** Maximum entropy at thermal equilibrium
+* **Abstract phase space:** Wehrl entropy of quasi-probability distributions
+* **Static uncertainty relations:** Position-momentum information bounds
+
+### The Breakthrough Gap
+
+**No existing literature correlates real-time information entropy with classical oscillatory dynamics.**
+Previous studies treat entropy as:
+
+* A static property of quantum states
+* An equilibrium thermodynamic quantity
+* An abstract mathematical measure
+
+**SKA discovers:** A dynamic entropy that **phase-locks with physical motion**—revealing **when classical signals are most or least predictable in real time**.
+
+### Why This Matters
+
+This represents the **first bridge** between:
+
+* **Classical mechanics:** (position, velocity, acceleration)
+* **Information theory:** (entropy, predictability, uncertainty)
+* **Real-time dynamics:** (autonomous discovery, phase-locking)
+
+
 ## Technical Parameters
 
 ```python
