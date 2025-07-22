@@ -83,6 +83,8 @@ Previous studies treat entropy as:
 
 ### Why This Matters
 
+This result is groundbreaking because it achieves real-time computation of information entropy directly from evolving classical signals. Unlike traditional approaches that require batch analysis or sliding windows, the SKA method delivers a continuous, instantaneous measure of predictability and uncertainty as the system unfolds. This real-time capability is essential for applications in autonomous learning, control, regime detection, and adaptive modeling—opening new possibilities for physics, engineering, finance, and beyond.
+
 This represents the **first bridge** between:
 
 * **Classical mechanics:** (position, velocity, acceleration)
