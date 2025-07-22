@@ -14,7 +14,7 @@
 - **Perfect rhythm**: Entropy minima occur with precise temporal spacing
 - **Information windows**: Each minimum represents a moment of maximum predictability
 
-### Position Return Dynamics (Bottom Panel)  
+### Position Return Dynamics (Middle Panel)  
 - **Oscillatory return**: The position return signal exhibits clean, periodic oscillations, reflecting the velocity-like behavior of the oscillator.
 - **Exact discretization**: No numerical drift or artifacts
 - **Perfect periodicity**: Consistent amplitude and frequency
