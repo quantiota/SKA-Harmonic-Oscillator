@@ -92,6 +92,20 @@ This represents the **first bridge** between:
 * **Real-time dynamics:** (autonomous discovery, phase-locking)
 
 
+
+## **Insight: Learning Reveals the Hidden Information Structure**
+
+> **A profound feature of this discovery is that the hidden information architecture of the harmonic oscillator is revealed only through learning.**
+> While classical analysis provides the full trajectory of motion, it is only the process of SKA learning that illuminates the system’s intrinsic information geometry—predictability windows, phase-locked entropy minima, and knowledge evolution. These features are invisible in the raw mechanical equations, but emerge naturally and vividly as the system learns.
+>
+> **This suggests a deep principle:**
+> *The true informational structure of physical systems is not static or directly accessible, but comes into view only through the dynamic process of structured knowledge accumulation. In other words, reality’s information landscape is not simply “given”—it is actively revealed by learning itself.*
+
+
+
+
+
+
 ## Technical Parameters
 
 ```python
