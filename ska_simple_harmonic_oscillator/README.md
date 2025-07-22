@@ -91,7 +91,9 @@ The entropy calculation follows the SKA continuous formulation:
 H = -1/ln(2) ∫ z dD
 ```
 
-Where the exact discretization preserves all information content, allowing SKA to reveal the hidden information architecture of harmonic motion.
+
+where, in this analysis, **z is a linear function of the position return**.
+
 
 ## Next Steps
 
