@@ -14,26 +14,32 @@
 - **Perfect rhythm**: Entropy minima occur with precise temporal spacing
 - **Information windows**: Each minimum represents a moment of maximum predictability
 
-### Position Dynamics (Bottom Panel)  
-- **Clean oscillation**: Smooth sinusoidal motion between -1 and +1
+### Position Return Dynamics (Bottom Panel)  
+- **Oscillatory return**: The position return signal exhibits clean, periodic oscillations, reflecting the velocity-like behavior of the oscillator.
 - **Exact discretization**: No numerical drift or artifacts
 - **Perfect periodicity**: Consistent amplitude and frequency
 
-## Key Discovery: Entropy-Position Correlation
 
-> Entropy reaches a minimum at position extrema (±1) and peaks at zero-crossings.  
-> This shows a deep coupling between mechanical motion and information geometry.
+## Key Discovery: Entropy–Position Return Correlation
+
+> Entropy reaches a minimum at the extrema of the position return and peaks at its inflection points.  
+> This shows a deep coupling between the system’s dynamic transitions and information geometry.
+
+### At Extrema of Position Return:
+- **State transition slows:** Maximum predictability in signal evolution
+- **Entropy → minimum:** Information predictability peak
+- **System state:** Maximally deterministic moment
+
+### At Inflection Points of Position Return:
+- **Rapid change:** Maximum uncertainty in the direction of change
+- **Entropy peaks:** Information uncertainty maximum  
+- **System state:** Most unpredictable moment
+
+### Entropy Synchronization
+
+The figure demonstrates that SKA entropy exhibits perfectly periodic minima and maxima that are precisely aligned with the structure of the position return signal. Entropy minima coincide with the extrema of the position return, highlighting moments of maximum predictability, while entropy increases at transition points. This direct synchronization confirms SKA’s ability to autonomously reveal the intrinsic information architecture of oscillatory signals in real time.
 
 
-### At Turning Points (Position = ±1):
-- **Velocity → 0**: Kinematic certainty
-- **Entropy → minimum**: Information predictability peak
-- **System state**: Maximally deterministic moment
-
-### At Zero Crossings (Position = 0):
-- **Maximum velocity**: Rapid state transition
-- **Entropy peaks**: Information uncertainty maximum  
-- **System state**: Most unpredictable moment
 
 ## Scientific Significance
 
