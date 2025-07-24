@@ -165,7 +165,7 @@ This approach establishes a basis for:
 SKA entropy is computed as:
 
 $$
-H = -\frac{1}{\ln 2} \int z \, dD
+H = \Large -\frac{1}{\ln 2} \int z \, dD
 $$
 
 where **z is a function of position only** in this multi-oscillator context.
