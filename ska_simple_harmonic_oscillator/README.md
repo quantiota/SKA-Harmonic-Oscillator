@@ -2,107 +2,101 @@
 
 ## Experimental Results
 
-![Entropy and Position Evolution](harmonic_oscillator_entropy.png)
+![SKA Harmonic Oscillator Dashboard](harmonic_oscillator_dashboard.png)
 
-*Real-time entropy and position evolution for a simple harmonic oscillator analyzed through the SKA framework using exact discretization.*
+*Real-time analysis of a simple harmonic oscillator using the SKA framework, with **position as the only feature input**. The dashboard shows the evolution of position, classical and information Lagrangians, entropy, knowledge, and decision variables over time.*
 
 ## Interpretation
 
-### Entropy Patterns (Top Panel)
-- **Logarithmic scale**: Entropy ranges from 10^-5 to 10^4 (5 orders of magnitude)
-- **Periodic minima**: Regular drops to ultra-low entropy (~10^-5)
-- **Perfect rhythm**: Entropy minima occur with precise temporal spacing
-- **Information windows**: Each minimum represents a moment of maximum predictability
+### Position as Feature Input (Top-Left Panel)
 
-### Position Return Dynamics (Middle Panel)  
-- **Oscillatory return**: The position return signal exhibits clean, periodic oscillations, reflecting the velocity-like behavior of the oscillator.
-- **Exact discretization**: No numerical drift or artifacts
-- **Perfect periodicity**: Consistent amplitude and frequency
+* The **raw position** of the oscillator is directly used as the feature for SKA learning.
+* Exhibits perfect periodicity and amplitude, reflecting the oscillator's deterministic motion.
+
+### Classical and Information Lagrangian (Top-Right, Middle-Right)
+
+* **Classical Lagrangian:** Shows the difference between kinetic and potential energies, evolving periodically.
+* **Information Lagrangian:** Tracks the SKA-driven information change, synchronized with the oscillator's dynamics.
+
+### Entropy (Middle-Left)
+
+* SKA entropy varies periodically in **perfect sync with the oscillator's position.**
+* **Minima** in entropy correspond to the points of maximum predictability in the position trajectory (peaks and troughs).
+* **Maxima** in entropy align with rapid transitions (zero crossings), where uncertainty in the system is greatest.
+
+### Knowledge (Bottom-Left)
+
+* The SKA "knowledge" variable accumulates in phase with the oscillator, highlighting predictable windows.
+* Knowledge increases during periods of high predictability and plateaus when uncertainty rises.
+
+### Decision (Bottom-Right)
+
+* The decision variable oscillates smoothly, directly reflecting the learned probability of the current state.
+* Peaks and valleys in the decision variable phase-lock with position extrema.
 
 
-## Key Discovery: Entropy–Position Return Correlation
 
-> Entropy reaches a minimum at the extrema of the position return and peaks at its inflection points.  
-> This shows a deep coupling between the system’s dynamic transitions and information geometry.
 
-### At Extrema of Position Return:
-- **State transition slows:** Maximum predictability in signal evolution
-- **Entropy → minimum:** Information predictability peak
-- **System state:** Maximally deterministic moment
+## Key Discovery: Entropy–Position Synchronization
 
-### At Inflection Points of Position Return:
-- **Rapid change:** Maximum uncertainty in the direction of change
-- **Entropy peaks:** Information uncertainty maximum  
-- **System state:** Most unpredictable moment
+> **Entropy reaches its minimum at the extrema of the position trajectory and peaks at the zero-crossings.**
+> This reveals a **direct, phase-locked relationship between the information geometry and physical motion**—the SKA framework autonomously identifies windows of predictability and uncertainty in real time.
 
-### Entropy Synchronization
+#### At Position Extrema:
 
-The figure demonstrates that SKA entropy exhibits perfectly periodic minima and maxima that are precisely aligned with the structure of the position return signal. Entropy minima coincide with the extrema of the position return, highlighting moments of maximum predictability, while entropy increases at transition points. This direct synchronization confirms SKA’s ability to autonomously reveal the intrinsic information architecture of oscillatory signals in real time.
+* **Maximum predictability** (entropy minima)
+* **Knowledge accumulation** is steepest
+* **Decision variable** is most confident
+
+#### At Position Zero-Crossings:
+
+* **Maximum uncertainty** (entropy maxima)
+* **Knowledge plateaus** as system transitions
+* **Decision variable** shows least confidence
+
+This direct synchronization **confirms SKA’s ability to autonomously reveal the intrinsic information structure of physical signals** in real time, using only the position as feature input.
+
 
 
 
 ## Scientific Significance
 
-**Information Rhythm Discovery**
-- First observation of intrinsic information structure in simple harmonic motion
-- Demonstrates that physical systems have natural "predictability windows"
-- Shows exact discretization preserves hidden entropy patterns
+**Intrinsic Information Rhythm**
 
-**Real-Time Unsupervised Analysis**
-- No prior knowledge of oscillation frequency required
-- SKA autonomously discovers periodic structure from entropy patterns
-- Enables real-time frequency extraction: ω = 2π / (entropy_period)
+* First observation of real-time, phase-locked entropy patterns in classical harmonic motion using only position data.
+* Reveals natural "predictability windows" that are invisible to classical, equation-based analysis.
+
+**Autonomous, Real-Time Learning**
+
+* SKA requires **no prior knowledge** of system frequency or phase.
+* Automatically extracts periodic structure and predictability windows from raw position data.
 
 **Universal Principle**
-- Pattern extends to any oscillatory system
-- Foundation for multi-mode and complex harmonic analysis
-- Bridge between classical mechanics and information theory
 
+* Principle extends to any oscillatory or recurrent system.
+* Lays groundwork for complex, multi-oscillator, or nonlinear systems.
 
-## Scientific Context & Literature Position
+**Bridges Physics and Information Theory**
 
-### Novel Discovery
-
-While extensive literature exists on information-theoretic measures for harmonic oscillators, **all previous work focuses on:**
-
-* **Quantum mechanical systems:** Shannon entropy of quantum eigenstates
-* **Thermodynamic equilibrium:** Maximum entropy at thermal equilibrium
-* **Abstract phase space:** Wehrl entropy of quasi-probability distributions
-* **Static uncertainty relations:** Position-momentum information bounds
-
-### The Breakthrough Gap
-
-**No existing literature correlates real-time information entropy with classical oscillatory dynamics.**
-Previous studies treat entropy as:
-
-* A static property of quantum states
-* An equilibrium thermodynamic quantity
-* An abstract mathematical measure
-
-**SKA discovers:** A dynamic entropy that **phase-locks with physical motion**—revealing **when classical signals are most or least predictable in real time**.
-
-### Why This Matters
-
-This result is groundbreaking because it achieves real-time computation of information entropy directly from evolving classical signals. Unlike traditional approaches that require batch analysis or sliding windows, the SKA method delivers a continuous, instantaneous measure of predictability and uncertainty as the system unfolds. This real-time capability is essential for applications in autonomous learning, control, regime detection, and adaptive modeling—opening new possibilities for physics, engineering, finance, and beyond.
-
-This represents the **first bridge** between:
-
-* **Classical mechanics:** (position, velocity, acceleration)
-* **Information theory:** (entropy, predictability, uncertainty)
-* **Real-time dynamics:** (autonomous discovery, phase-locking)
+* Connects mechanical variables (position) with information-theoretic measures (entropy, knowledge, decision).
+* Demonstrates that **information structure is a hidden property, revealed only through learning.**
 
 
 
-## **Insight: Learning Reveals the Hidden Information Structure**
+## Literature Context & Novelty
 
-> **A profound feature of this discovery is that the hidden information architecture of the harmonic oscillator is revealed only through learning.**
-> While classical analysis provides the full trajectory of motion, it is only the process of SKA learning that illuminates the system’s intrinsic information geometry—predictability windows, phase-locked entropy minima, and knowledge evolution. These features are invisible in the raw mechanical equations, but emerge naturally and vividly as the system learns.
->
-> **This suggests a deep principle:**
-> *The true informational structure of physical systems is not static or directly accessible, but comes into view only through the dynamic process of structured knowledge accumulation. In other words, reality’s information landscape is not simply “given”—it is actively revealed by learning itself.*
+While information measures are widely used in quantum systems, equilibrium thermodynamics, and phase space analysis, **no previous literature links real-time entropy computation to classical position dynamics** in harmonic motion. SKA establishes the first bridge between:
+
+* **Classical mechanics** (position as observable)
+* **Information theory** (real-time entropy and knowledge)
+* **Autonomous learning** (unsupervised discovery of hidden structure)
 
 
 
+## **Insight: Information Structure is Revealed by Learning**
+
+> **The true information architecture of a physical system emerges only through the process of structured knowledge accumulation (SKA).**
+> While classical mechanics provides the trajectory, only SKA learning illuminates when the system is most predictable or uncertain, uncovering the system’s hidden informational geometry.
 
 
 
@@ -110,46 +104,52 @@ This represents the **first bridge** between:
 
 ```python
 # Oscillator Configuration
-omega = 0.15          # Angular frequency (rad/s)
-epsilon = 0.1        # Time step (s)
-x0 = 1.0            # Initial position
-v0 = 0.0            # Initial velocity
-duration = 464       # Analysis time (s)
+omega = 0.15           # Angular frequency (rad/s)
+epsilon = 0.1          # Time step (s)
+x0 = 1.0               # Initial position
+v0 = 0.0               # Initial velocity
+duration = 464         # Analysis time (s)
 
 # SKA Analysis
-method = "exact_discretization"  # Cieśliński & Ratkiewicz (2005)
+feature = "position"                # Only position is used as the feature input
+method = "exact_discretization"     # Cieśliński & Ratkiewicz (2005)
 entropy_calculation = "continuous_approximation"
-sampling_rate = 1/epsilon  # 10 Hz
+sampling_rate = 1/epsilon           # 10 Hz
 ```
+
 
 ## Implications for Complex Systems
 
-This simple harmonic result establishes the foundation for:
+This result establishes a foundation for:
 
-1. **Multi-oscillator systems**: Superposition and beating patterns
-2. **Nonlinear dynamics**: Chaotic and quasi-periodic motion
-3. **Real-world applications**: Seismic, biological, financial time series
-4. **Unsupervised discovery**: Autonomous frequency and pattern detection
+1. **Multi-oscillator analysis:** Detecting superposition and beating from position signals alone.
+2. **Nonlinear and chaotic systems:** Tracking information flow in complex dynamics.
+3. **Real-world data:** Applying SKA to seismic, biological, or financial position-like signals.
+4. **Unsupervised feature discovery:** Real-time detection of regimes and transitions.
+
+
 
 ## Mathematical Foundation
 
-The entropy calculation follows the SKA continuous formulation:
+The SKA entropy is computed as:
 
-```
-H = -1/ln(2) ∫ z dD
-```
+$$
+H = -\frac{1}{\ln 2} \int z \, dD
+$$
 
+where **z is a function of position only** in this setup.
 
-where, in this analysis, **z is a linear function of the position return**.
 
 
 ## Next Steps
 
-- [ ] Multi-mode harmonic analysis (3+ oscillators)
-- [ ] Noisy environment testing
-- [ ] Real-time frequency extraction validation
-- [ ] Comparison with classical spectral methods
+* [ ] Multi-oscillator (superposition) analysis
+* [ ] Robustness to noise and missing data
+* [ ] Real-time frequency extraction
+* [ ] Benchmark against classical spectral analysis
 
----
 
-*This analysis demonstrates that even the simplest physical systems contain rich information structure that can be autonomously discovered through entropy-based learning frameworks.*
+
+*This analysis demonstrates that even the simplest physical systems encode rich, hidden information structure—discoverable in real time through entropy-based learning using only position as the input feature.*
+
+
