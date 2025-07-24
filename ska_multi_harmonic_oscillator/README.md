@@ -83,6 +83,42 @@ This synchronization **demonstrates SKA’s unique ability to uncover the intrin
 * **Information structure is not given—it is actively revealed by the learning process.**
 
 
+## Consistency with Classical Probability
+
+A key validation of the SKA approach is its consistency with established results from classical mechanics. The probability of finding a classical harmonic oscillator at position $x$ is:
+
+$$
+P(x) = \Large \frac{1}{\pi \sqrt{A^2 - x^2}}
+$$
+
+for $|x| < A$, where $A$ is the amplitude.
+
+**Interpretation:**
+
+* The oscillator spends more time near the turning points ($x = \pm A$), so $P(x)$ diverges at the extrema.
+* The oscillator moves fastest near $x=0$, so $P(x)$ is minimal at the center.
+
+### **SKA Entropy vs. Classical Probability**
+
+The SKA learning results show:
+
+* **Entropy minima** occur at the extrema of the position signal, coinciding with the maxima of $P(x)$: these are the most predictable, most probable states.
+* **Entropy maxima** occur at zero-crossings, coinciding with the minima of $P(x)$: these are the least predictable, least probable states.
+
+#### | Phase Point      | Classical Probability | SKA Entropy | Interpretation           |
+
+\|--------------------|----------------------|-------------|--------------------------|
+\| Position Extremum  | Maximal              | Minimal     | Most predictable state   |
+\| Zero Crossing      | Minimal              | Maximal     | Least predictable state  |
+
+### **Extension to Multi-Oscillator Superposition**
+
+For a superposition of oscillators, the time-averaged probability distribution can become highly nontrivial and is generally not analytically tractable. However, SKA entropy dynamically tracks **instantaneous predictability**, revealing minima wherever the composite signal slows down (local extrema) and maxima at rapid transitions (zero crossings).
+
+**Summary:**
+SKA results are *fully consistent* with classical probability, but provide a richer, real-time perspective on information flow—*adapting instantly* to complex, multi-modal, or even nonstationary signals. This dynamic view of predictability goes beyond what is accessible through static, time-averaged probability distributions.
+
+
 
 ## Literature Context & Novelty
 
