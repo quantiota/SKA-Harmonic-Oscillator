@@ -21,7 +21,7 @@ ska_noise_harmonic_oscillator/
 
 ## 1. Noise-Free Oscillator (Baseline Reference)
 
-![Without Noise](without_noise.png)
+![Without Noise](images/without_noise.png)
 
 * **All SKA variables are smooth, periodic, and symmetric.**
 * **Entropy, knowledge, and decision** precisely follow the physical trajectory.
@@ -32,7 +32,7 @@ ska_noise_harmonic_oscillator/
 
 ## 2. Noise Amplitude: 0.0001 (Threshold of Sensitivity)
 
-![Noise 0.0001](noise_0.0001.png)
+![Noise 0.0001](images/noise_0.0001.png)
 
 * **SKA variables remain nearly identical to the noise-free case**, with only minute deviations.
 * The information geometry is still highly regular and ordered.
@@ -42,7 +42,7 @@ ska_noise_harmonic_oscillator/
 
 ## 3. Noise Amplitude: 0.001 (Onset of Disorder)
 
-![Noise 0.001](noise_0.001.png)
+![Noise 0.001](images/noise_0.001.png)
 
 * **Mild irregularities appear in entropy and knowledge;** occasional bursts and “incipient crises.”
 * The Lagrangian phase portrait develops fine structure but is not yet fully chaotic.
@@ -52,7 +52,7 @@ ska_noise_harmonic_oscillator/
 
 ## 4. Noise Amplitude: 0.01 (Full Breakdown)
 
-![Noise 0.01](noise_0.01.png)
+![Noise 0.01](images/noise_0.01.png)
 
 * **SKA variables become highly irregular and bursty;** entropy spikes, decision locks, and large fluctuations dominate.
 * **Lagrangian phase portrait**: closed symmetry is lost; a complex, scattered “cloud” forms.
