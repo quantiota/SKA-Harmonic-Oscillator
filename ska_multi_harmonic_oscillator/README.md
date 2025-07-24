@@ -37,6 +37,27 @@
 * The decision variable tracks the probability learned by SKA, with phase-locked oscillations reflecting structure in the composite signal.
 
 
+### Joint Lagrangian Phase Space Trajectory
+
+A novel feature of this analysis is the **phase portrait formed by plotting the classical Lagrangian as a function of the information Lagrangian (bottom panel)**.
+
+* **Over a full oscillation period**, the system traces a closed loop in the (information Lagrangian, classical Lagrangian) plane.
+* **First half period:** The trajectory moves forward along a specific path as the system evolves.
+* **Second half period:** The path reverses, retracing itself exactly, reflecting the time-reversal symmetry of conservative dynamics.
+
+**Scientific Implications:**
+
+* The loop demonstrates that mechanical and information dynamics are not independent, but are dynamically intertwined.
+* The closed, reversible trajectory confirms energy conservation and time symmetry, but in a higher-dimensional space combining mechanics and information.
+* This framework offers a new lens for studying dynamical systems:
+
+  * *For conservative systems,* the path is reversible and closed.
+  * *For dissipative or complex systems,* this approach may reveal open loops, area-enclosing curves, or new forms of informational “hysteresis.”
+
+**This geometric coupling of classical and informational Lagrangians is a fundamentally new concept, providing a powerful tool for visualizing and understanding the deep structure of physical and informational evolution in dynamical systems.**
+
+
+
 
 ## Key Discovery: Entropy–Position Synchronization
 
