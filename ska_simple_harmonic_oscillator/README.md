@@ -4,7 +4,7 @@
 
 ![SKA Harmonic Oscillator Dashboard](harmonic_oscillator_dashboard.png)
 
-*Real-time analysis of a simple harmonic oscillator using the SKA framework, with **position as the only feature input**. The dashboard shows the evolution of position, classical and information Lagrangians, entropy, knowledge, and decision variables over time.*
+*Real-time analysis of a superposition of three harmonic oscillators  using the SKA framework, with **position as the only feature input**. The dashboard shows the evolution of position, classical and information Lagrangians, entropy, knowledge, and decision variables over time.*
 
 ## Interpretation
 
