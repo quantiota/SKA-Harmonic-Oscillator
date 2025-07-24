@@ -234,5 +234,4 @@ where **z is a function of position only** in this multi-oscillator context.
 
 
 
-**Ready to use. Let me know if you want a shorter summary or LaTeX version for publication.**
 
