@@ -105,11 +105,11 @@ The SKA learning results show:
 * **Entropy minima** occur at the extrema of the position signal, coinciding with the maxima of $P(x)$: these are the most predictable, most probable states.
 * **Entropy maxima** occur at zero-crossings, coinciding with the minima of $P(x)$: these are the least predictable, least probable states.
 
-#### | Phase Point      | Classical Probability | SKA Entropy | Interpretation           |
+| Phase Point         | Classical Probability | SKA Entropy | Interpretation           |
+|---------------------|----------------------|-------------|--------------------------|
+| Position Extremum   | Maximal              | Minimal     | Most predictable state   |
+| Zero Crossing       | Minimal              | Maximal     | Least predictable state  |
 
-\|--------------------|----------------------|-------------|--------------------------|
-\| Position Extremum  | Maximal              | Minimal     | Most predictable state   |
-\| Zero Crossing      | Minimal              | Maximal     | Least predictable state  |
 
 ### **Extension to Multi-Oscillator Superposition**
 
