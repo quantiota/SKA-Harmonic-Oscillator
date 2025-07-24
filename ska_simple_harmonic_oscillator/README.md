@@ -103,12 +103,40 @@ While information measures are widely used in quantum systems, equilibrium therm
 ## Technical Parameters
 
 ```python
-# Oscillator Configuration
-omega = 0.15           # Angular frequency (rad/s)
-epsilon = 0.1          # Time step (s)
-x0 = 1.0               # Initial position
-v0 = 0.0               # Initial velocity
-duration = 464         # Analysis time (s)
+# Multi-Component Oscillator Parameters for Superposition
+# Component 1 
+OSCILLATOR_1_OMEGA=0.13      # Angular frequency (rad/s)
+OSCILLATOR_1_X0=1.0         # Initial amplitude
+OSCILLATOR_1_V0=0.0         # Initial velocity
+OSCILLATOR_1_PHI=0.0        # Phase (radians)
+
+# Component 2 
+OSCILLATOR_2_OMEGA=0.11      # Angular frequency (rad/s) - 3x base frequency
+OSCILLATOR_2_X0=1         # Initial amplitude - smaller than base
+OSCILLATOR_2_V0=0.0         # Initial velocity
+OSCILLATOR_2_PHI=1.5708     # Phase (radians) - π/2 phase shift
+
+# Component 3 
+OSCILLATOR_3_OMEGA=0.11      # Angular frequency (rad/s) - 7x base frequency
+OSCILLATOR_3_X0=1         # Initial amplitude - smallest
+OSCILLATOR_3_V0=0.0         # Initial velocity
+OSCILLATOR_3_PHI=3.1416     # Phase (radians) - π phase shift
+
+# SKA Parameters
+SKA_INIT_STD=0.01           # Weight initialization standard deviation
+SKA_LEARNING_RATE=0.0001       # Learning rate multiplier for weight updates
+SKA_CHECKPOINT_INTERVAL=100 # Save checkpoint every N steps
+SKA_LOG_INTERVAL=10         # Log metrics every N steps
+SKA_MAX_BUFFER_SIZE=50    # Maximum input buffer size
+SKA_NUMERICAL_CLIP=500.0    # Sigmoid clipping threshold
+SKA_PERFORMANCE_WINDOW=100  # Rolling window for performance metrics
+
+# System Parameters
+LOG_LEVEL=INFO              # Logging level (DEBUG, INFO, WARNING, ERROR)
+LOG_FORMAT=%(asctime)s %(levelname)s %(message)s
+SHUTDOWN_TIMEOUT=30         # Graceful shutdown timeout (seconds)
+PROCESSING_BATCH_SIZE=1     # Number of position updates per batch
+SLEEP_INTERVAL=0.01         # Sleep between polling cycles (seconds)
 
 # SKA Analysis
 feature = "position"                # Only position is used as the feature input
