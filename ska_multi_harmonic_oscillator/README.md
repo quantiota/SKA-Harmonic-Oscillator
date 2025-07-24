@@ -132,9 +132,22 @@ While information-theoretic analysis is common in quantum, thermodynamic, and ph
 
 ## **Insight: Information Structure is Revealed by Learning**
 
-> The true information architecture of a physical system emerges **only through the process of structured knowledge accumulation (SKA)**.
->
-> While the classical equations give the full trajectory, **only SKA learning reveals the timing and structure of predictability and uncertainty—uncovering the hidden informational geometry**.
+The true information architecture of a physical system emerges **only through the process of structured knowledge accumulation (SKA)**.
+
+While the classical equations give the full trajectory, **only SKA learning reveals the timing and structure of predictability and uncertainty—uncovering the hidden informational geometry**.
+
+
+ **This connection is formalized through the SKA entropy definition:**
+
+ $$
+ H = \Large -\frac{1}{\ln 2} \int z \, dD
+ $$
+
+In SKA, entropy is not merely a statistical measure—it is dynamically constructed as learning progresses, reflecting the system’s evolving knowledge about its own state. This means that **SKA entropy is both the engine and the map of learning:** it drives the discovery of new informational structure and simultaneously records the moments when the system is most or least predictable.
+
+The emergence of entropy minima and maxima, perfectly synchronized with the underlying dynamics, is thus a direct consequence of the SKA learning process. Only by learning does the system reveal its intrinsic information architecture—confirming that knowledge and predictability are not static, but are continuously shaped and discovered through SKA’s structured accumulation.
+
+
 
 
 
