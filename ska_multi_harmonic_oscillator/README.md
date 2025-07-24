@@ -37,7 +37,7 @@
 * The decision variable tracks the probability learned by SKA, with phase-locked oscillations reflecting structure in the composite signal.
 
 
-### Joint Lagrangian Phase Space Trajectory
+### Joint Lagrangian Phase Space Trajectory  
 
 A novel feature of this analysis is the **phase portrait formed by plotting the classical Lagrangian as a function of the information Lagrangian (bottom panel)**.
 
