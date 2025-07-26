@@ -53,25 +53,36 @@ These allow perfect simulation of the continuous oscillator in a discrete-time S
 git clone https://github.com/yourname/SKA-Harmonic-Oscillator.git
 cd SKA-Harmonic-Oscillator
 pip install -r requirements.txt
-python ska_oscillator.py
 ````
 
 
 
 ##  Structure
 
-```text
-ska_harmonic_oscillator/
-│
-├── ska_oscillator.py         # Main script: oscillator + SKA learner
-├── oscillator_stream.py      # Generator for x_n using exact discretization
-├── ska_entropy.py            # Entropy evolution and SKA core logic
-├── plots/                    # Output visualizations
-│   ├── entropy_vs_time.png
-│   └── decision_cosine.png
-├── requirements.txt
+└── 📁exact_discretization_papers
+    ├── 0507182v1.pdf
+    ├── 0911.3672v1.pdf
+    ├── harmonic_oscillator.png
+    ├── harmonic_oscillator.py
+    ├── README.md
+    └── ska_harmonic_data_1752620224.json
+
+└── 📁ska_multi_harmonic_oscillator
+    ├── harmonic_oscillator_dashboard.png
+    ├── oscillator_stream.py
+    ├── questdb-query-1753354102221.csv
+    └── README.md
+
+└── 📁ska_noisy_harmonic_oscillator
+    └── 📁images
+        ├── noise_0.0001.png
+        ├── noise_0.001.png
+        ├── noise_0.01.png
+        ├── without_noise.png
+    └── README.md
+
+└── LICENSE
 └── README.md
-```
 
 
 
