@@ -56,33 +56,37 @@ pip install -r requirements.txt
 ````
 
 
+## Structure
 
-##  Structure
+```
+📁 exact_discretization_papers
+├── 0507182v1.pdf
+├── 0911.3672v1.pdf
+├── harmonic_oscillator.png
+├── harmonic_oscillator.py
+├── README.md
+└── ska_harmonic_data_1752620224.json
 
-└── 📁exact_discretization_papers
-    ├── 0507182v1.pdf
-    ├── 0911.3672v1.pdf
-    ├── harmonic_oscillator.png
-    ├── harmonic_oscillator.py
-    ├── README.md
-    └── ska_harmonic_data_1752620224.json
-
-└── 📁ska_multi_harmonic_oscillator
-    ├── harmonic_oscillator_dashboard.png
-    ├── oscillator_stream.py
-    ├── questdb-query-1753354102221.csv
-    └── README.md
-
-└── 📁ska_noisy_harmonic_oscillator
-    └── 📁images
-        ├── noise_0.0001.png
-        ├── noise_0.001.png
-        ├── noise_0.01.png
-        ├── without_noise.png
-    └── README.md
-
-└── LICENSE
+📁 ska_multi_harmonic_oscillator
+├── harmonic_oscillator_dashboard.png
+├── oscillator_stream.py
+├── questdb-query-1753354102221.csv
 └── README.md
+
+📁 ska_noisy_harmonic_oscillator
+├── 📁 images
+│ ├── noise_0.0001.png
+│ ├── noise_0.001.png
+│ ├── noise_0.01.png
+│ └── without_noise.png
+└── README.md
+
+LICENSE
+README.md
+```
+
+Let me know if you'd like this turned into an image or HTML version as well.
+
 
 
 
