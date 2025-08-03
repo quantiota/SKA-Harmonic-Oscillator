@@ -85,7 +85,6 @@ LICENSE
 README.md
 ```
 
-Let me know if you'd like this turned into an image or HTML version as well.
 
 
 
